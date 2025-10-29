@@ -2,35 +2,32 @@ name: Daily Hockey Scripts
 
 on:
   schedule:
-    # Tous les jours à 13h France (CET, hiver) → 12h UTC
-    - cron: '0 12 * * *'
-  workflow_dispatch:     # Permet aussi un lancement manuel
+    - cron: '0 12 * * *'   # tous les jours à 13h heure de France (12h UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write   # ✅ donne le droit de push au bot GitHub Actions
 
 jobs:
   run-scripts:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Récupérer le code du dépôt
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # 2️⃣ Installer Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      # 3️⃣ Installer les dépendances
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # 4️⃣ Créer les dossiers nécessaires
       - name: Create directories
         run: |
           mkdir -p players_csv goals_distribution reports
 
-      # 5️⃣ Exécuter les scripts
       - name: Run get_data.py
         run: python get_data.py
 
@@ -40,7 +37,6 @@ jobs:
       - name: Run get_reports.py
         run: python get_reports.py
 
-      # 6️⃣ Commit et push des fichiers générés
       - name: Commit generated files
         run: |
           git config --local user.email "action@github.com"
