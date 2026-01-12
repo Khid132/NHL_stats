@@ -1,31 +1,73 @@
+from nhlpy import NHLClient
 from pathlib import Path
 import pandas as pd
-import requests
-import io
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
+import re
 
-# Dossiers relatifs
+def get_player_df(player_id):
+    dfs = []
+
+    for season in SEASONS:
+        stats = client.stats.player_game_log(
+            player_id=player_id,
+            season_id=season,
+            game_type=GAME_TYPE
+        )
+
+        if stats:  
+            df_season = pd.DataFrame(stats)
+            df_season["season"] = int(season[:4])
+            dfs.append(df_season)
+
+    if not dfs:
+        return None
+
+    df = pd.concat(dfs, ignore_index=True)
+
+    df["gameDate"] = pd.to_datetime(df["gameDate"])
+    df = df.sort_values("gameDate", ascending=False).reset_index(drop=True)
+
+    return df
+
+def process_player(player_id: int, player_name: str) -> None:
+    df = get_player_df(player_id)
+
+    if df is None:
+        return
+
+    path = CSV_DIR / f"{player_name}.csv"
+    df.to_csv(path, index=False)
+
+
+# Configuration
 DATA_DIR = Path("data")
 CSV_DIR = Path("players_csv")
 CSV_DIR.mkdir(exist_ok=True)
 
-# Charger les joueurs
+SEASONS = ["20222023", "20232024", "20242025", "20252026"]
+GAME_TYPE = 2  
+MAX_WORKERS = 8
+
+# NHL Client
+client = NHLClient()
+
+# Data Loading
 df_players = pd.read_excel(DATA_DIR / "skaters.xlsx")
-player_ids = df_players['playerId'].dropna().astype(int).tolist()
-player_names = df_players['name'].dropna().tolist()
+player_ids = df_players["playerId"].dropna().astype(int).tolist()
+player_names = df_players["name"].dropna().tolist()
 
-# Fonction pour filtrer les situations
-def filter_df(df):
-    return df[df["situation"] == "all"]
+# Parallel execution 
+with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+    futures = [
+        executor.submit(process_player, pid, name)
+        for pid, name in zip(player_ids, player_names)
+    ]
 
-# Télécharger et sauvegarder les CSV des joueurs
-for idx, ids in enumerate(tqdm(player_ids, desc="Téléchargement + filtrage")):
-    url = f"http://moneypuck.com/moneypuck/playerData/careers/gameByGame/regular/skaters/{ids}.csv"
-    response = requests.get(url)
-    df = pd.read_csv(io.BytesIO(response.content))
+    for _ in tqdm(
+        as_completed(futures),
+        total=len(futures),
+        desc="Téléchargement des joueurs"
+    ):
+        pass
 
-    if "situation" in df.columns:
-        df = filter_df(df)
-
-    save_path = CSV_DIR / f"{player_names[idx]}.csv"
-    df.to_csv(save_path, index=False)
