@@ -17,11 +17,17 @@ def count_last_zeros(player_csv):
     if df.empty:
         return None, 0, {}
 
-    team = df['playerTeam'].tolist()[-1]
+    # ✅ même logique que le code debug
+    team = df['teamAbbrev'].tolist()[0]
+
     year_zeros = {}
+
     for year in YEARS:
         filtered = df[df['season'] == year]
-        goals_list = filtered['I_F_goals'].tolist()[::-1]
+
+        # ✅ plus d'inversion
+        goals_list = filtered['goals'].tolist()
+
         zeros_list = []
         for idx, g in enumerate(goals_list):
             if g != 0:
@@ -31,11 +37,16 @@ def count_last_zeros(player_csv):
                     counter += 1
                     next_idx += 1
                 zeros_list.append(counter)
+
+        # ✅ même pop que dans le debug
         if zeros_list:
             zeros_list.pop()
+
         year_zeros[year] = zeros_list
 
-    all_goals = df["I_F_goals"].tolist()[::-1]
+    # ✅ last_zero_count compté depuis le match le plus récent
+    all_goals = df["goals"].tolist()
+
     last_zero_count = 0
     for g in all_goals:
         if g == 0:
@@ -44,6 +55,7 @@ def count_last_zeros(player_csv):
             break
 
     return team, last_zero_count, year_zeros
+
 
 def highlight_paragraph(paragraph, condition):
     if condition:
