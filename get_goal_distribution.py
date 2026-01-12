@@ -10,7 +10,7 @@ PDF_DIR.mkdir(exist_ok=True)
 
 YEARS = [2022, 2023, 2024, 2025]
 SEASON_COL = 'season'
-GOALS_COL = 'I_F_goals'
+GOALS_COL = 'goals'
 
 def zeros_from_csv(csv_path, years, season_col=SEASON_COL, goals_col=GOALS_COL):
     if not csv_path.exists():
