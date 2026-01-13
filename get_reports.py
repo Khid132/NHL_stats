@@ -18,6 +18,9 @@ def count_last_zeros(player_csv):
         return None, 0, {}
 
     # ✅ même logique que le code debug
+    if df.empty or 'teamAbbrev' not in df.columns:
+        return None, 0, {}
+        
     team = df['teamAbbrev'].tolist()[0]
 
     year_zeros = {}
