@@ -1,10 +1,10 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020133,DET,H,2025-10-25,0,0,{'default': 'Red Wings'},{'default': 'Blues'},0,-1,0,0,0,0,0,9,0,0,STL,0,6:37,2025
-2025020115,DET,R,2025-10-23,0,1,{'default': 'Red Wings'},{'default': 'Islanders'},1,0,0,0,0,0,1,18,0,0,NYI,0,12:08,2025
-2025020109,DET,R,2025-10-22,0,0,{'default': 'Red Wings'},{'default': 'Sabres'},0,-1,0,0,0,0,3,15,0,0,BUF,0,11:02,2025
-2025020090,DET,H,2025-10-19,0,0,{'default': 'Red Wings'},{'default': 'Oilers'},0,0,0,0,0,0,1,19,0,0,EDM,0,14:11,2025
-2025020072,DET,H,2025-10-17,0,0,{'default': 'Red Wings'},{'default': 'Lightning'},0,0,0,0,0,0,4,21,0,0,TBL,2,13:36,2025
-2025020058,DET,H,2025-10-15,0,0,{'default': 'Red Wings'},{'default': 'Panthers'},0,0,0,0,0,0,1,20,0,0,FLA,0,14:50,2025
-2025020043,DET,R,2025-10-13,0,0,{'default': 'Red Wings'},{'default': 'Maple Leafs'},0,-1,0,0,0,0,0,19,0,0,TOR,0,13:42,2025
-2025020025,DET,H,2025-10-11,0,0,{'default': 'Red Wings'},{'default': 'Maple Leafs'},0,0,0,0,0,0,2,17,0,0,TOR,0,11:23,2025
-2025020010,DET,H,2025-10-09,0,0,{'default': 'Red Wings'},{'default': 'Canadiens'},0,-2,0,0,0,0,2,20,0,0,MTL,0,14:34,2025
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020133,DET,H,2025-10-25,0,0,{'default': 'Red Wings'},{'default': 'Blues'},0,-1,0,0,0,0,0,9,0,0,6:37,STL,0,2025
+2025020115,DET,R,2025-10-23,0,1,{'default': 'Red Wings'},{'default': 'Islanders'},1,0,0,0,0,0,1,18,0,0,12:08,NYI,0,2025
+2025020109,DET,R,2025-10-22,0,0,{'default': 'Red Wings'},{'default': 'Sabres'},0,-1,0,0,0,0,3,15,0,0,11:02,BUF,0,2025
+2025020090,DET,H,2025-10-19,0,0,{'default': 'Red Wings'},{'default': 'Oilers'},0,0,0,0,0,0,1,19,0,0,14:11,EDM,0,2025
+2025020072,DET,H,2025-10-17,0,0,{'default': 'Red Wings'},{'default': 'Lightning'},0,0,0,0,0,0,4,21,0,0,13:36,TBL,2,2025
+2025020058,DET,H,2025-10-15,0,0,{'default': 'Red Wings'},{'default': 'Panthers'},0,0,0,0,0,0,1,20,0,0,14:50,FLA,0,2025
+2025020043,DET,R,2025-10-13,0,0,{'default': 'Red Wings'},{'default': 'Maple Leafs'},0,-1,0,0,0,0,0,19,0,0,13:42,TOR,0,2025
+2025020025,DET,H,2025-10-11,0,0,{'default': 'Red Wings'},{'default': 'Maple Leafs'},0,0,0,0,0,0,2,17,0,0,11:23,TOR,0,2025
+2025020010,DET,H,2025-10-09,0,0,{'default': 'Red Wings'},{'default': 'Canadiens'},0,-2,0,0,0,0,2,20,0,0,14:34,MTL,0,2025
