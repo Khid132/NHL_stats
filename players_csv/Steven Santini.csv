@@ -1,15 +1,15 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
-2025020591,TBL,R,2025-12-27,0,0,{'default': 'Lightning'},{'default': 'Panthers'},0,1,0,0,0,0,0,14,0,0,7:58,FLA,2,2025
-2025020514,TBL,H,2025-12-15,0,0,{'default': 'Lightning'},{'default': 'Panthers'},0,0,0,0,0,0,0,17,0,0,12:00,FLA,0,2025
-2025020414,TBL,R,2025-12-02,0,0,{'default': 'Lightning'},{'default': 'Islanders'},0,-1,0,0,0,0,0,12,0,0,10:43,NYI,0,2025
-2025020391,TBL,R,2025-11-29,0,0,{'default': 'Lightning'},{'default': 'Rangers'},0,0,0,0,0,0,0,14,0,0,10:41,NYR,0,2025
-2025020377,TBL,R,2025-11-28,0,0,{'default': 'Lightning'},{'default': 'Red Wings'},0,-1,0,0,0,0,0,16,0,0,13:04,DET,0,2025
-2025020362,TBL,H,2025-11-26,0,1,{'default': 'Lightning'},{'default': 'Flames'},1,1,0,0,0,0,2,17,0,0,15:18,CGY,0,2025
-2025020353,TBL,H,2025-11-24,0,0,{'default': 'Lightning'},{'default': 'Flyers'},0,1,0,0,0,0,0,17,0,0,12:45,PHI,0,2025
-2025020322,TBL,H,2025-11-20,0,0,{'default': 'Lightning'},{'default': 'Oilers'},0,0,0,0,0,0,0,13,0,0,8:56,EDM,0,2025
-2025020309,TBL,H,2025-11-18,0,0,{'default': 'Lightning'},{'default': 'Devils'},0,0,0,0,0,0,1,19,0,0,12:37,NJD,0,2025
-2024020470,TBL,R,2024-12-12,0,0,{'default': 'Lightning'},{'default': 'Flames'},0,0,0,0,0,0,1,18,0,0,11:37,CGY,0,2024
-2022020670,STL,H,2023-01-12,0,0,{'default': 'Blues'},{'default': 'Flames'},0,-1,0,0,0,0,1,19,0,0,13:19,CGY,0,2022
-2022020655,STL,H,2023-01-10,0,1,{'default': 'Blues'},{'default': 'Flames'},1,1,0,0,0,0,1,21,0,0,12:25,CGY,2,2022
-2022020642,STL,R,2023-01-08,0,0,{'default': 'Blues'},{'default': 'Wild'},0,0,0,0,0,0,0,15,0,0,9:25,MIN,0,2022
-2022020633,STL,R,2023-01-07,0,0,{'default': 'Blues'},{'default': 'Canadiens'},0,0,0,0,0,0,3,22,0,0,14:53,MTL,0,2022
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+2025020591,TBL,R,2025-12-27,0,0,{'default': 'Lightning'},{'default': 'Panthers'},0,1,0,0,0,0,0,14,0,0,FLA,2,7:58,2025
+2025020514,TBL,H,2025-12-15,0,0,{'default': 'Lightning'},{'default': 'Panthers'},0,0,0,0,0,0,0,17,0,0,FLA,0,12:00,2025
+2025020414,TBL,R,2025-12-02,0,0,{'default': 'Lightning'},{'default': 'Islanders'},0,-1,0,0,0,0,0,12,0,0,NYI,0,10:43,2025
+2025020391,TBL,R,2025-11-29,0,0,{'default': 'Lightning'},{'default': 'Rangers'},0,0,0,0,0,0,0,14,0,0,NYR,0,10:41,2025
+2025020377,TBL,R,2025-11-28,0,0,{'default': 'Lightning'},{'default': 'Red Wings'},0,-1,0,0,0,0,0,16,0,0,DET,0,13:04,2025
+2025020362,TBL,H,2025-11-26,0,1,{'default': 'Lightning'},{'default': 'Flames'},1,1,0,0,0,0,2,17,0,0,CGY,0,15:18,2025
+2025020353,TBL,H,2025-11-24,0,0,{'default': 'Lightning'},{'default': 'Flyers'},0,1,0,0,0,0,0,17,0,0,PHI,0,12:45,2025
+2025020322,TBL,H,2025-11-20,0,0,{'default': 'Lightning'},{'default': 'Oilers'},0,0,0,0,0,0,0,13,0,0,EDM,0,8:56,2025
+2025020309,TBL,H,2025-11-18,0,0,{'default': 'Lightning'},{'default': 'Devils'},0,0,0,0,0,0,1,19,0,0,NJD,0,12:37,2025
+2024020470,TBL,R,2024-12-12,0,0,{'default': 'Lightning'},{'default': 'Flames'},0,0,0,0,0,0,1,18,0,0,CGY,0,11:37,2024
+2022020670,STL,H,2023-01-12,0,0,{'default': 'Blues'},{'default': 'Flames'},0,-1,0,0,0,0,1,19,0,0,CGY,0,13:19,2022
+2022020655,STL,H,2023-01-10,0,1,{'default': 'Blues'},{'default': 'Flames'},1,1,0,0,0,0,1,21,0,0,CGY,2,12:25,2022
+2022020642,STL,R,2023-01-08,0,0,{'default': 'Blues'},{'default': 'Wild'},0,0,0,0,0,0,0,15,0,0,MIN,0,9:25,2022
+2022020633,STL,R,2023-01-07,0,0,{'default': 'Blues'},{'default': 'Canadiens'},0,0,0,0,0,0,3,22,0,0,MTL,0,14:53,2022

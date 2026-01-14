@@ -1,24 +1,24 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020724,LAK,H,2026-01-12,0,0,{'default': 'Kings'},{'default': 'Stars'},0,0,0,0,0,0,1,13,0,0,DAL,0,9:40,2025
-2025020709,LAK,R,2026-01-10,1,0,{'default': 'Kings'},{'default': 'Oilers'},1,1,0,0,0,0,1,11,0,0,EDM,0,7:12,2025
-2025020695,LAK,R,2026-01-09,0,0,{'default': 'Kings'},{'default': 'Jets'},0,-1,0,0,0,0,0,15,0,0,WPG,0,12:23,2025
-2025020681,LAK,H,2026-01-07,0,0,{'default': 'Kings'},{'default': 'Sharks'},0,0,0,0,0,0,1,11,0,0,SJS,0,8:00,2025
-2024020602,LAK,H,2025-01-01,1,0,{'default': 'Kings'},{'default': 'Devils'},1,1,0,0,1,0,2,8,0,0,NJD,0,6:29,2024
-2024020585,LAK,H,2024-12-29,0,0,{'default': 'Kings'},{'default': 'Flyers'},0,-1,0,0,0,0,0,10,0,0,PHI,0,7:32,2024
-2024020541,LAK,R,2024-12-22,0,0,{'default': 'Kings'},{'default': 'Capitals'},0,0,0,0,0,0,1,10,0,0,WSH,0,9:13,2024
-2024020370,LAK,R,2024-11-29,0,0,{'default': 'Kings'},{'default': 'Ducks'},0,0,0,0,0,0,0,12,0,0,ANA,0,9:30,2024
-2024020255,LAK,R,2024-11-13,0,0,{'default': 'Kings'},{'default': 'Avalanche'},0,-1,0,0,0,0,2,13,0,0,COL,0,10:43,2024
-2024020242,LAK,R,2024-11-11,0,0,{'default': 'Kings'},{'default': 'Flames'},0,0,0,0,0,0,1,17,0,0,CGY,0,12:31,2024
-2024020234,LAK,H,2024-11-09,0,0,{'default': 'Kings'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,14,0,0,CBJ,0,10:35,2024
-2024020218,LAK,H,2024-11-07,0,0,{'default': 'Kings'},{'default': 'Canucks'},0,-1,0,0,0,0,0,11,0,0,VAN,0,6:58,2024
-2024020200,LAK,R,2024-11-05,0,1,{'default': 'Kings'},{'default': 'Wild'},1,1,0,0,0,0,0,12,0,0,MIN,0,7:59,2024
-2024020154,LAK,R,2024-10-29,0,0,{'default': 'Kings'},{'default': 'Sharks'},0,-2,0,0,0,0,2,14,0,0,SJS,2,10:33,2024
-2024020124,LAK,H,2024-10-26,0,0,{'default': 'Kings'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",0,0,0,0,0,0,0,12,0,0,UTA,0,10:28,2024
-2024020117,LAK,H,2024-10-24,0,0,{'default': 'Kings'},{'default': 'Sharks'},0,0,0,0,0,0,0,11,0,0,SJS,5,8:20,2024
-2024020107,LAK,R,2024-10-22,0,0,{'default': 'Kings'},{'default': 'Golden Knights'},0,-1,0,0,0,0,4,15,0,0,VGK,2,12:13,2024
-2024020090,LAK,R,2024-10-20,0,0,{'default': 'Kings'},{'default': 'Ducks'},0,0,0,0,0,0,1,14,0,0,ANA,0,9:13,2024
-2024020061,LAK,R,2024-10-17,0,0,{'default': 'Kings'},{'default': 'Canadiens'},0,0,0,0,0,0,0,9,0,0,MTL,0,8:28,2024
-2024020058,LAK,R,2024-10-16,0,1,{'default': 'Kings'},{'default': 'Maple Leafs'},1,1,0,0,0,0,3,19,0,0,TOR,2,11:03,2024
-2024020043,LAK,R,2024-10-14,0,0,{'default': 'Kings'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-2,0,0,0,0,0,13,0,0,OTT,0,7:58,2024
-2024020024,LAK,R,2024-10-12,0,0,{'default': 'Kings'},{'default': 'Bruins'},0,0,0,0,0,0,0,10,0,0,BOS,0,8:03,2024
-2024020012,LAK,R,2024-10-10,0,0,{'default': 'Kings'},{'default': 'Sabres'},0,0,0,0,0,0,2,9,0,0,BUF,0,6:26,2024
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020724,LAK,H,2026-01-12,0,0,{'default': 'Kings'},{'default': 'Stars'},0,0,0,0,0,0,1,13,0,0,9:40,DAL,0,2025
+2025020709,LAK,R,2026-01-10,1,0,{'default': 'Kings'},{'default': 'Oilers'},1,1,0,0,0,0,1,11,0,0,7:12,EDM,0,2025
+2025020695,LAK,R,2026-01-09,0,0,{'default': 'Kings'},{'default': 'Jets'},0,-1,0,0,0,0,0,15,0,0,12:23,WPG,0,2025
+2025020681,LAK,H,2026-01-07,0,0,{'default': 'Kings'},{'default': 'Sharks'},0,0,0,0,0,0,1,11,0,0,8:00,SJS,0,2025
+2024020602,LAK,H,2025-01-01,1,0,{'default': 'Kings'},{'default': 'Devils'},1,1,0,0,1,0,2,8,0,0,6:29,NJD,0,2024
+2024020585,LAK,H,2024-12-29,0,0,{'default': 'Kings'},{'default': 'Flyers'},0,-1,0,0,0,0,0,10,0,0,7:32,PHI,0,2024
+2024020541,LAK,R,2024-12-22,0,0,{'default': 'Kings'},{'default': 'Capitals'},0,0,0,0,0,0,1,10,0,0,9:13,WSH,0,2024
+2024020370,LAK,R,2024-11-29,0,0,{'default': 'Kings'},{'default': 'Ducks'},0,0,0,0,0,0,0,12,0,0,9:30,ANA,0,2024
+2024020255,LAK,R,2024-11-13,0,0,{'default': 'Kings'},{'default': 'Avalanche'},0,-1,0,0,0,0,2,13,0,0,10:43,COL,0,2024
+2024020242,LAK,R,2024-11-11,0,0,{'default': 'Kings'},{'default': 'Flames'},0,0,0,0,0,0,1,17,0,0,12:31,CGY,0,2024
+2024020234,LAK,H,2024-11-09,0,0,{'default': 'Kings'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,14,0,0,10:35,CBJ,0,2024
+2024020218,LAK,H,2024-11-07,0,0,{'default': 'Kings'},{'default': 'Canucks'},0,-1,0,0,0,0,0,11,0,0,6:58,VAN,0,2024
+2024020200,LAK,R,2024-11-05,0,1,{'default': 'Kings'},{'default': 'Wild'},1,1,0,0,0,0,0,12,0,0,7:59,MIN,0,2024
+2024020154,LAK,R,2024-10-29,0,0,{'default': 'Kings'},{'default': 'Sharks'},0,-2,0,0,0,0,2,14,0,0,10:33,SJS,2,2024
+2024020124,LAK,H,2024-10-26,0,0,{'default': 'Kings'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",0,0,0,0,0,0,0,12,0,0,10:28,UTA,0,2024
+2024020117,LAK,H,2024-10-24,0,0,{'default': 'Kings'},{'default': 'Sharks'},0,0,0,0,0,0,0,11,0,0,8:20,SJS,5,2024
+2024020107,LAK,R,2024-10-22,0,0,{'default': 'Kings'},{'default': 'Golden Knights'},0,-1,0,0,0,0,4,15,0,0,12:13,VGK,2,2024
+2024020090,LAK,R,2024-10-20,0,0,{'default': 'Kings'},{'default': 'Ducks'},0,0,0,0,0,0,1,14,0,0,9:13,ANA,0,2024
+2024020061,LAK,R,2024-10-17,0,0,{'default': 'Kings'},{'default': 'Canadiens'},0,0,0,0,0,0,0,9,0,0,8:28,MTL,0,2024
+2024020058,LAK,R,2024-10-16,0,1,{'default': 'Kings'},{'default': 'Maple Leafs'},1,1,0,0,0,0,3,19,0,0,11:03,TOR,2,2024
+2024020043,LAK,R,2024-10-14,0,0,{'default': 'Kings'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-2,0,0,0,0,0,13,0,0,7:58,OTT,0,2024
+2024020024,LAK,R,2024-10-12,0,0,{'default': 'Kings'},{'default': 'Bruins'},0,0,0,0,0,0,0,10,0,0,8:03,BOS,0,2024
+2024020012,LAK,R,2024-10-10,0,0,{'default': 'Kings'},{'default': 'Sabres'},0,0,0,0,0,0,2,9,0,0,6:26,BUF,0,2024

@@ -1,20 +1,20 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020718,NYR,H,2026-01-12,0,0,{'default': 'Rangers'},{'default': 'Kraken'},0,-2,0,0,0,0,1,20,0,0,SEA,0,15:20,2025
-2025020697,NYR,R,2026-01-10,0,0,{'default': 'Rangers'},{'default': 'Bruins'},0,-1,0,0,0,0,1,16,0,0,BOS,0,15:26,2025
-2025020685,NYR,H,2026-01-08,0,0,{'default': 'Rangers'},{'default': 'Sabres'},0,0,0,0,0,0,2,17,0,0,BUF,0,15:11,2025
-2025020662,NYR,H,2026-01-05,0,0,{'default': 'Rangers'},{'default': 'Mammoth'},0,0,0,0,0,0,0,18,0,0,UTA,0,12:47,2025
-2025020641,NYR,R,2026-01-02,0,0,{'default': 'Rangers'},{'default': 'Panthers'},0,0,0,0,0,0,1,17,0,0,FLA,0,12:23,2025
-2025020622,NYR,R,2025-12-31,0,1,{'default': 'Rangers'},{'default': 'Capitals'},1,0,0,0,0,0,2,18,0,0,WSH,0,15:16,2025
-2025020608,NYR,R,2025-12-29,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,20,0,0,CAR,0,14:50,2025
-2025020588,NYR,R,2025-12-27,0,0,{'default': 'Rangers'},{'default': 'Islanders'},0,-1,0,0,0,0,1,21,0,0,NYI,0,13:27,2025
-2025020576,NYR,R,2025-12-23,0,1,{'default': 'Rangers'},{'default': 'Capitals'},1,1,0,0,0,0,0,20,0,0,WSH,0,14:56,2025
-2025020549,NYR,H,2025-12-20,0,1,{'default': 'Rangers'},{'default': 'Flyers'},1,1,0,0,0,0,0,21,0,0,PHI,0,15:31,2025
-2025020541,NYR,R,2025-12-18,1,0,{'default': 'Rangers'},{'default': 'Blues'},1,0,1,1,0,0,1,18,0,0,STL,2,13:09,2025
-2025020290,NYR,R,2025-11-15,0,0,{'default': 'Rangers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,18,0,0,CBJ,0,12:37,2025
-2025020265,NYR,R,2025-11-12,0,0,{'default': 'Rangers'},{'default': 'Lightning'},0,1,0,0,0,0,1,16,0,0,TBL,0,12:43,2025
-2025020253,NYR,H,2025-11-10,0,1,{'default': 'Rangers'},{'default': 'Predators'},1,1,0,1,0,0,1,21,0,0,NSH,0,14:08,2025
-2024021310,NYR,H,2025-04-17,0,0,{'default': 'Rangers'},{'default': 'Lightning'},0,0,0,0,0,0,0,19,0,0,TBL,0,15:38,2024
-2024021287,NYR,R,2025-04-14,0,0,{'default': 'Rangers'},{'default': 'Panthers'},0,0,0,0,0,0,1,20,0,0,FLA,0,16:01,2024
-2024021230,NYR,H,2025-04-07,0,0,{'default': 'Rangers'},{'default': 'Lightning'},0,0,0,0,0,0,0,20,0,0,TBL,0,13:06,2024
-2024021209,NYR,R,2025-04-05,0,0,{'default': 'Rangers'},{'default': 'Devils'},0,0,0,0,0,0,1,17,0,0,NJD,0,13:48,2024
-2024021192,NYR,H,2025-04-02,0,0,{'default': 'Rangers'},{'default': 'Wild'},0,-1,0,0,0,0,3,20,0,0,MIN,0,13:38,2024
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020718,NYR,H,2026-01-12,0,0,{'default': 'Rangers'},{'default': 'Kraken'},0,-2,0,0,0,0,1,20,0,0,15:20,SEA,0,2025
+2025020697,NYR,R,2026-01-10,0,0,{'default': 'Rangers'},{'default': 'Bruins'},0,-1,0,0,0,0,1,16,0,0,15:26,BOS,0,2025
+2025020685,NYR,H,2026-01-08,0,0,{'default': 'Rangers'},{'default': 'Sabres'},0,0,0,0,0,0,2,17,0,0,15:11,BUF,0,2025
+2025020662,NYR,H,2026-01-05,0,0,{'default': 'Rangers'},{'default': 'Mammoth'},0,0,0,0,0,0,0,18,0,0,12:47,UTA,0,2025
+2025020641,NYR,R,2026-01-02,0,0,{'default': 'Rangers'},{'default': 'Panthers'},0,0,0,0,0,0,1,17,0,0,12:23,FLA,0,2025
+2025020622,NYR,R,2025-12-31,0,1,{'default': 'Rangers'},{'default': 'Capitals'},1,0,0,0,0,0,2,18,0,0,15:16,WSH,0,2025
+2025020608,NYR,R,2025-12-29,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,20,0,0,14:50,CAR,0,2025
+2025020588,NYR,R,2025-12-27,0,0,{'default': 'Rangers'},{'default': 'Islanders'},0,-1,0,0,0,0,1,21,0,0,13:27,NYI,0,2025
+2025020576,NYR,R,2025-12-23,0,1,{'default': 'Rangers'},{'default': 'Capitals'},1,1,0,0,0,0,0,20,0,0,14:56,WSH,0,2025
+2025020549,NYR,H,2025-12-20,0,1,{'default': 'Rangers'},{'default': 'Flyers'},1,1,0,0,0,0,0,21,0,0,15:31,PHI,0,2025
+2025020541,NYR,R,2025-12-18,1,0,{'default': 'Rangers'},{'default': 'Blues'},1,0,1,1,0,0,1,18,0,0,13:09,STL,2,2025
+2025020290,NYR,R,2025-11-15,0,0,{'default': 'Rangers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,18,0,0,12:37,CBJ,0,2025
+2025020265,NYR,R,2025-11-12,0,0,{'default': 'Rangers'},{'default': 'Lightning'},0,1,0,0,0,0,1,16,0,0,12:43,TBL,0,2025
+2025020253,NYR,H,2025-11-10,0,1,{'default': 'Rangers'},{'default': 'Predators'},1,1,0,1,0,0,1,21,0,0,14:08,NSH,0,2025
+2024021310,NYR,H,2025-04-17,0,0,{'default': 'Rangers'},{'default': 'Lightning'},0,0,0,0,0,0,0,19,0,0,15:38,TBL,0,2024
+2024021287,NYR,R,2025-04-14,0,0,{'default': 'Rangers'},{'default': 'Panthers'},0,0,0,0,0,0,1,20,0,0,16:01,FLA,0,2024
+2024021230,NYR,H,2025-04-07,0,0,{'default': 'Rangers'},{'default': 'Lightning'},0,0,0,0,0,0,0,20,0,0,13:06,TBL,0,2024
+2024021209,NYR,R,2025-04-05,0,0,{'default': 'Rangers'},{'default': 'Devils'},0,0,0,0,0,0,1,17,0,0,13:48,NJD,0,2024
+2024021192,NYR,H,2025-04-02,0,0,{'default': 'Rangers'},{'default': 'Wild'},0,-1,0,0,0,0,3,20,0,0,13:38,MIN,0,2024
