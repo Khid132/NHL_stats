@@ -1,24 +1,24 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020294,CGY,H,2025-11-15,0,0,{'default': 'Flames'},{'default': 'Jets'},0,0,0,0,0,0,0,13,0,0,WPG,0,7:05,2025
-2025020276,CGY,H,2025-11-13,1,0,{'default': 'Flames'},{'default': 'Sharks'},1,2,0,0,0,0,1,23,0,0,SJS,0,15:18,2025
-2025020260,CGY,R,2025-11-11,0,0,{'default': 'Flames'},{'default': 'Blues'},0,1,0,0,0,0,0,18,0,0,STL,2,11:23,2025
-2025020249,CGY,R,2025-11-09,0,0,{'default': 'Flames'},{'default': 'Wild'},0,0,0,0,0,0,1,17,0,0,MIN,0,12:08,2025
-2025020229,CGY,H,2025-11-07,0,0,{'default': 'Flames'},{'default': 'Blackhawks'},0,-1,0,0,0,0,0,16,0,0,CHI,0,12:42,2025
-2025020215,CGY,H,2025-11-05,0,1,{'default': 'Flames'},{'default': 'Blue Jackets'},1,2,0,0,0,0,2,25,0,0,CBJ,0,15:09,2025
-2025020196,CGY,R,2025-11-02,0,0,{'default': 'Flames'},{'default': 'Flyers'},0,-1,0,0,0,0,0,22,0,0,PHI,0,14:44,2025
-2025020183,CGY,R,2025-11-01,0,0,{'default': 'Flames'},{'default': 'Predators'},0,0,0,0,0,0,4,17,0,0,NSH,0,11:54,2025
-2025020168,CGY,R,2025-10-30,0,0,{'default': 'Flames'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,1,21,0,0,OTT,0,11:10,2025
-2025020151,CGY,R,2025-10-28,1,0,{'default': 'Flames'},{'default': 'Maple Leafs'},1,0,0,0,0,0,1,19,0,0,TOR,0,11:41,2025
-2025020146,CGY,H,2025-10-26,0,0,{'default': 'Flames'},{'default': 'Rangers'},0,1,0,0,0,0,1,20,0,0,NYR,0,15:05,2025
-2025020126,CGY,R,2025-10-24,0,1,{'default': 'Flames'},{'default': 'Jets'},1,1,0,0,0,0,1,19,0,0,WPG,0,13:27,2025
-2025020110,CGY,H,2025-10-22,0,0,{'default': 'Flames'},{'default': 'Canadiens'},0,0,0,0,0,0,1,16,0,0,MTL,0,9:39,2025
-2025020096,CGY,H,2025-10-20,0,0,{'default': 'Flames'},{'default': 'Jets'},0,-1,0,0,0,0,0,13,0,0,WPG,0,9:19,2025
-2025020087,CGY,R,2025-10-18,0,0,{'default': 'Flames'},{'default': 'Golden Knights'},0,-1,0,0,0,0,3,18,0,0,VGK,0,12:51,2025
-2025020060,CGY,R,2025-10-15,0,0,{'default': 'Flames'},{'default': 'Mammoth'},0,-1,0,0,0,0,2,22,0,0,UTA,0,13:00,2025
-2025020053,CGY,H,2025-10-14,0,0,{'default': 'Flames'},{'default': 'Golden Knights'},0,1,0,0,0,0,0,21,0,0,VGK,0,12:32,2025
-2025020023,CGY,H,2025-10-11,0,0,{'default': 'Flames'},{'default': 'Blues'},0,-2,0,0,0,0,4,22,0,0,STL,0,13:02,2025
-2024020158,CGY,R,2024-10-30,0,0,{'default': 'Flames'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",0,-1,0,0,0,0,0,13,0,0,UTA,0,10:52,2024
-2024020055,CGY,H,2024-10-15,0,0,{'default': 'Flames'},{'default': 'Blackhawks'},0,-1,0,0,0,0,0,17,0,0,CHI,0,13:48,2024
-2024020040,CGY,R,2024-10-13,0,0,{'default': 'Flames'},{'default': 'Oilers'},0,0,0,0,0,0,2,17,0,0,EDM,0,11:24,2024
-2024020035,CGY,H,2024-10-12,0,0,{'default': 'Flames'},{'default': 'Flyers'},0,0,0,0,0,0,3,16,0,0,PHI,2,12:43,2024
-2024020009,CGY,R,2024-10-09,0,0,{'default': 'Flames'},{'default': 'Canucks'},0,1,0,0,0,0,1,20,0,0,VAN,0,13:11,2024
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020294,CGY,H,2025-11-15,0,0,{'default': 'Flames'},{'default': 'Jets'},0,0,0,0,0,0,0,13,0,0,7:05,WPG,0,2025
+2025020276,CGY,H,2025-11-13,1,0,{'default': 'Flames'},{'default': 'Sharks'},1,2,0,0,0,0,1,23,0,0,15:18,SJS,0,2025
+2025020260,CGY,R,2025-11-11,0,0,{'default': 'Flames'},{'default': 'Blues'},0,1,0,0,0,0,0,18,0,0,11:23,STL,2,2025
+2025020249,CGY,R,2025-11-09,0,0,{'default': 'Flames'},{'default': 'Wild'},0,0,0,0,0,0,1,17,0,0,12:08,MIN,0,2025
+2025020229,CGY,H,2025-11-07,0,0,{'default': 'Flames'},{'default': 'Blackhawks'},0,-1,0,0,0,0,0,16,0,0,12:42,CHI,0,2025
+2025020215,CGY,H,2025-11-05,0,1,{'default': 'Flames'},{'default': 'Blue Jackets'},1,2,0,0,0,0,2,25,0,0,15:09,CBJ,0,2025
+2025020196,CGY,R,2025-11-02,0,0,{'default': 'Flames'},{'default': 'Flyers'},0,-1,0,0,0,0,0,22,0,0,14:44,PHI,0,2025
+2025020183,CGY,R,2025-11-01,0,0,{'default': 'Flames'},{'default': 'Predators'},0,0,0,0,0,0,4,17,0,0,11:54,NSH,0,2025
+2025020168,CGY,R,2025-10-30,0,0,{'default': 'Flames'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,1,21,0,0,11:10,OTT,0,2025
+2025020151,CGY,R,2025-10-28,1,0,{'default': 'Flames'},{'default': 'Maple Leafs'},1,0,0,0,0,0,1,19,0,0,11:41,TOR,0,2025
+2025020146,CGY,H,2025-10-26,0,0,{'default': 'Flames'},{'default': 'Rangers'},0,1,0,0,0,0,1,20,0,0,15:05,NYR,0,2025
+2025020126,CGY,R,2025-10-24,0,1,{'default': 'Flames'},{'default': 'Jets'},1,1,0,0,0,0,1,19,0,0,13:27,WPG,0,2025
+2025020110,CGY,H,2025-10-22,0,0,{'default': 'Flames'},{'default': 'Canadiens'},0,0,0,0,0,0,1,16,0,0,9:39,MTL,0,2025
+2025020096,CGY,H,2025-10-20,0,0,{'default': 'Flames'},{'default': 'Jets'},0,-1,0,0,0,0,0,13,0,0,9:19,WPG,0,2025
+2025020087,CGY,R,2025-10-18,0,0,{'default': 'Flames'},{'default': 'Golden Knights'},0,-1,0,0,0,0,3,18,0,0,12:51,VGK,0,2025
+2025020060,CGY,R,2025-10-15,0,0,{'default': 'Flames'},{'default': 'Mammoth'},0,-1,0,0,0,0,2,22,0,0,13:00,UTA,0,2025
+2025020053,CGY,H,2025-10-14,0,0,{'default': 'Flames'},{'default': 'Golden Knights'},0,1,0,0,0,0,0,21,0,0,12:32,VGK,0,2025
+2025020023,CGY,H,2025-10-11,0,0,{'default': 'Flames'},{'default': 'Blues'},0,-2,0,0,0,0,4,22,0,0,13:02,STL,0,2025
+2024020158,CGY,R,2024-10-30,0,0,{'default': 'Flames'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",0,-1,0,0,0,0,0,13,0,0,10:52,UTA,0,2024
+2024020055,CGY,H,2024-10-15,0,0,{'default': 'Flames'},{'default': 'Blackhawks'},0,-1,0,0,0,0,0,17,0,0,13:48,CHI,0,2024
+2024020040,CGY,R,2024-10-13,0,0,{'default': 'Flames'},{'default': 'Oilers'},0,0,0,0,0,0,2,17,0,0,11:24,EDM,0,2024
+2024020035,CGY,H,2024-10-12,0,0,{'default': 'Flames'},{'default': 'Flyers'},0,0,0,0,0,0,3,16,0,0,12:43,PHI,2,2024
+2024020009,CGY,R,2024-10-09,0,0,{'default': 'Flames'},{'default': 'Canucks'},0,1,0,0,0,0,1,20,0,0,13:11,VAN,0,2024

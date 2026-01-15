@@ -1,18 +1,18 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020685,NYR,H,2026-01-08,0,0,{'default': 'Rangers'},{'default': 'Sabres'},0,0,0,0,0,0,0,13,0,0,BUF,0,7:35,2025
-2025020662,NYR,H,2026-01-05,0,0,{'default': 'Rangers'},{'default': 'Mammoth'},0,0,0,0,0,0,1,11,0,0,UTA,0,7:56,2025
-2023020653,NYR,R,2024-01-13,0,0,{'default': 'Rangers'},{'default': 'Capitals'},0,-1,0,0,0,0,1,10,0,0,WSH,2,5:21,2023
-2022020764,COL,H,2023-01-24,0,0,{'default': 'Avalanche'},{'default': 'Capitals'},0,0,0,0,0,0,0,9,0,0,WSH,0,5:28,2022
-2022020743,COL,R,2023-01-21,0,0,{'default': 'Avalanche'},{'default': 'Kraken'},0,0,0,0,0,0,1,4,0,0,SEA,0,3:04,2022
-2022020731,COL,R,2023-01-20,0,0,{'default': 'Avalanche'},{'default': 'Canucks'},0,0,0,0,0,0,0,8,0,0,VAN,0,6:45,2022
-2022020714,COL,R,2023-01-18,0,0,{'default': 'Avalanche'},{'default': 'Flames'},0,0,0,0,0,0,0,6,0,0,CGY,0,4:19,2022
-2022020696,COL,H,2023-01-16,0,0,{'default': 'Avalanche'},{'default': 'Red Wings'},0,0,0,0,0,0,0,12,0,0,DET,0,8:02,2022
-2022020397,COL,R,2022-12-05,0,0,{'default': 'Avalanche'},{'default': 'Flyers'},0,0,0,0,0,0,1,12,0,0,PHI,0,8:40,2022
-2022020380,COL,R,2022-12-03,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,0,0,0,0,0,2,12,0,0,BOS,0,8:44,2022
-2022020365,COL,R,2022-12-01,0,0,{'default': 'Avalanche'},{'default': 'Sabres'},0,-1,0,0,0,0,0,16,0,0,BUF,2,6:37,2022
-2022020357,COL,R,2022-11-29,0,0,{'default': 'Avalanche'},{'default': 'Jets'},0,-1,0,0,0,0,3,14,0,0,WPG,0,10:27,2022
-2022020339,COL,H,2022-11-26,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,0,0,0,0,0,0,13,0,0,DAL,0,7:35,2022
-2022020298,COL,R,2022-11-21,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,0,0,0,0,0,1,7,0,0,DAL,0,4:16,2022
-2022020278,COL,R,2022-11-19,0,0,{'default': 'Avalanche'},{'default': 'Capitals'},0,0,0,0,0,0,0,9,0,0,WSH,0,6:16,2022
-2022020261,COL,R,2022-11-17,0,0,{'default': 'Avalanche'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,8,0,0,CAR,2,5:51,2022
-2022020057,COL,H,2022-10-19,0,0,{'default': 'Avalanche'},{'default': 'Jets'},0,0,0,0,0,0,1,9,0,0,WPG,0,6:03,2022
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020685,NYR,H,2026-01-08,0,0,{'default': 'Rangers'},{'default': 'Sabres'},0,0,0,0,0,0,0,13,0,0,7:35,BUF,0,2025
+2025020662,NYR,H,2026-01-05,0,0,{'default': 'Rangers'},{'default': 'Mammoth'},0,0,0,0,0,0,1,11,0,0,7:56,UTA,0,2025
+2023020653,NYR,R,2024-01-13,0,0,{'default': 'Rangers'},{'default': 'Capitals'},0,-1,0,0,0,0,1,10,0,0,5:21,WSH,2,2023
+2022020764,COL,H,2023-01-24,0,0,{'default': 'Avalanche'},{'default': 'Capitals'},0,0,0,0,0,0,0,9,0,0,5:28,WSH,0,2022
+2022020743,COL,R,2023-01-21,0,0,{'default': 'Avalanche'},{'default': 'Kraken'},0,0,0,0,0,0,1,4,0,0,3:04,SEA,0,2022
+2022020731,COL,R,2023-01-20,0,0,{'default': 'Avalanche'},{'default': 'Canucks'},0,0,0,0,0,0,0,8,0,0,6:45,VAN,0,2022
+2022020714,COL,R,2023-01-18,0,0,{'default': 'Avalanche'},{'default': 'Flames'},0,0,0,0,0,0,0,6,0,0,4:19,CGY,0,2022
+2022020696,COL,H,2023-01-16,0,0,{'default': 'Avalanche'},{'default': 'Red Wings'},0,0,0,0,0,0,0,12,0,0,8:02,DET,0,2022
+2022020397,COL,R,2022-12-05,0,0,{'default': 'Avalanche'},{'default': 'Flyers'},0,0,0,0,0,0,1,12,0,0,8:40,PHI,0,2022
+2022020380,COL,R,2022-12-03,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,0,0,0,0,0,2,12,0,0,8:44,BOS,0,2022
+2022020365,COL,R,2022-12-01,0,0,{'default': 'Avalanche'},{'default': 'Sabres'},0,-1,0,0,0,0,0,16,0,0,6:37,BUF,2,2022
+2022020357,COL,R,2022-11-29,0,0,{'default': 'Avalanche'},{'default': 'Jets'},0,-1,0,0,0,0,3,14,0,0,10:27,WPG,0,2022
+2022020339,COL,H,2022-11-26,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,0,0,0,0,0,0,13,0,0,7:35,DAL,0,2022
+2022020298,COL,R,2022-11-21,0,0,{'default': 'Avalanche'},{'default': 'Stars'},0,0,0,0,0,0,1,7,0,0,4:16,DAL,0,2022
+2022020278,COL,R,2022-11-19,0,0,{'default': 'Avalanche'},{'default': 'Capitals'},0,0,0,0,0,0,0,9,0,0,6:16,WSH,0,2022
+2022020261,COL,R,2022-11-17,0,0,{'default': 'Avalanche'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,8,0,0,5:51,CAR,2,2022
+2022020057,COL,H,2022-10-19,0,0,{'default': 'Avalanche'},{'default': 'Jets'},0,0,0,0,0,0,1,9,0,0,6:03,WPG,0,2022

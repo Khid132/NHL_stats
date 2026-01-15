@@ -1,47 +1,48 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020715,VGK,R,2026-01-11,0,0,{'default': 'Golden Knights'},{'default': 'Sharks'},0,1,0,0,0,0,0,16,0,0,SJS,2,9:53,2025
-2025020710,VGK,H,2026-01-10,0,0,{'default': 'Golden Knights'},{'default': 'Blues'},0,0,0,0,0,0,0,15,0,0,STL,0,11:58,2025
-2025020661,VGK,R,2026-01-04,0,0,{'default': 'Golden Knights'},{'default': 'Blackhawks'},0,0,0,0,0,0,1,13,0,0,CHI,0,9:51,2025
-2025020570,VGK,R,2025-12-21,0,0,{'default': 'Golden Knights'},{'default': 'Oilers'},0,-1,0,0,0,0,1,10,0,0,EDM,0,7:50,2025
-2025020559,VGK,R,2025-12-20,0,0,{'default': 'Golden Knights'},{'default': 'Flames'},0,-1,0,0,0,0,1,15,0,0,CGY,0,12:39,2025
-2025020533,VGK,H,2025-12-17,0,0,{'default': 'Golden Knights'},{'default': 'Devils'},0,0,0,0,0,0,1,12,0,0,NJD,0,7:53,2025
-2025020502,VGK,R,2025-12-13,0,0,{'default': 'Golden Knights'},{'default': 'Blue Jackets'},0,1,0,0,0,0,3,16,0,0,CBJ,0,13:18,2025
-2025020483,VGK,R,2025-12-11,0,0,{'default': 'Golden Knights'},{'default': 'Flyers'},0,0,0,0,0,0,1,14,0,0,PHI,0,11:04,2025
-2025020468,VGK,R,2025-12-09,0,0,{'default': 'Golden Knights'},{'default': 'Islanders'},0,-1,0,0,0,0,0,10,0,0,NYI,0,6:29,2025
-2025020458,VGK,R,2025-12-07,0,0,{'default': 'Golden Knights'},{'default': 'Rangers'},0,0,0,0,0,0,0,14,0,0,NYR,0,11:34,2025
-2025020436,VGK,R,2025-12-05,0,0,{'default': 'Golden Knights'},{'default': 'Devils'},0,0,0,0,0,0,0,16,0,0,NJD,0,9:33,2025
-2025020419,VGK,H,2025-12-02,0,0,{'default': 'Golden Knights'},{'default': 'Blackhawks'},0,0,0,0,0,0,0,9,0,0,CHI,0,7:49,2025
-2025020400,VGK,H,2025-11-29,0,1,{'default': 'Golden Knights'},{'default': 'Sharks'},1,1,0,0,0,0,1,15,0,0,SJS,2,11:33,2025
-2025020358,VGK,R,2025-11-24,0,0,{'default': 'Golden Knights'},{'default': 'Mammoth'},0,0,0,0,0,0,1,15,0,0,UTA,0,11:42,2025
-2025020346,VGK,R,2025-11-22,0,0,{'default': 'Golden Knights'},{'default': 'Ducks'},0,-1,0,0,0,0,0,12,0,0,ANA,0,7:23,2025
-2025020327,VGK,R,2025-11-20,0,1,{'default': 'Golden Knights'},{'default': 'Mammoth'},1,1,0,0,0,0,2,18,0,0,UTA,2,12:46,2025
-2025020313,VGK,H,2025-11-18,0,0,{'default': 'Golden Knights'},{'default': 'Rangers'},0,-1,0,0,0,0,0,16,0,0,NYR,0,10:28,2025
-2025020298,VGK,R,2025-11-16,0,0,{'default': 'Golden Knights'},{'default': 'Wild'},0,0,0,0,0,0,2,12,0,0,MIN,0,9:51,2025
-2025020292,VGK,R,2025-11-15,0,0,{'default': 'Golden Knights'},{'default': 'Blues'},0,0,0,0,0,0,1,18,0,0,STL,0,11:31,2025
-2025020277,VGK,H,2025-11-13,0,0,{'default': 'Golden Knights'},{'default': 'Islanders'},0,1,0,0,0,0,0,9,0,0,NYI,2,6:26,2025
-2025020255,VGK,H,2025-11-10,0,0,{'default': 'Golden Knights'},{'default': 'Panthers'},0,0,0,0,0,0,0,9,0,0,FLA,2,5:41,2025
-2025020242,VGK,H,2025-11-08,0,0,{'default': 'Golden Knights'},{'default': 'Ducks'},0,-1,0,0,0,0,1,11,0,0,ANA,0,7:03,2025
-2025020225,VGK,H,2025-11-06,0,0,{'default': 'Golden Knights'},{'default': 'Lightning'},0,-1,0,0,0,0,0,10,0,0,TBL,0,6:11,2025
-2025020210,VGK,H,2025-11-04,0,0,{'default': 'Golden Knights'},{'default': 'Red Wings'},0,0,0,0,0,0,0,12,0,0,DET,0,8:00,2025
-2025020178,VGK,H,2025-10-31,0,0,{'default': 'Golden Knights'},{'default': 'Avalanche'},0,-1,0,0,0,0,0,14,0,0,COL,0,11:08,2025
-2025020155,VGK,R,2025-10-28,0,1,{'default': 'Golden Knights'},{'default': 'Hurricanes'},1,0,0,0,0,0,0,18,0,0,CAR,0,12:56,2025
-2025020097,VGK,H,2025-10-20,0,0,{'default': 'Golden Knights'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,9,0,0,CAR,0,7:26,2025
-2025020069,VGK,H,2025-10-16,1,0,{'default': 'Golden Knights'},{'default': 'Bruins'},1,1,0,0,0,0,1,14,0,0,BOS,0,9:41,2025
-2025020053,VGK,R,2025-10-14,0,0,{'default': 'Golden Knights'},{'default': 'Flames'},0,0,0,0,0,0,0,14,0,0,CGY,0,9:22,2025
-2024020901,OTT,H,2025-02-22,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Canadiens'},0,0,0,0,0,0,0,18,0,0,MTL,4,11:53,2024
-2024020880,OTT,R,2025-02-08,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Panthers'},0,0,0,0,0,0,2,13,0,0,FLA,0,9:13,2024
-2024020862,OTT,R,2025-02-06,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Lightning'},0,0,0,0,0,0,0,12,0,0,TBL,0,7:29,2024
-2024020847,OTT,R,2025-02-04,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Lightning'},0,1,0,0,0,0,0,13,0,0,TBL,0,7:48,2024
-2024020844,OTT,R,2025-02-03,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Predators'},0,0,0,0,0,0,0,8,0,0,NSH,0,5:26,2024
-2024020671,OTT,R,2025-01-11,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Penguins'},0,0,0,0,0,0,0,6,0,0,PIT,2,3:33,2024
-2024020654,OTT,H,2025-01-09,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Sabres'},0,0,0,0,0,0,1,17,0,0,BUF,0,9:50,2024
-2024020617,OTT,R,2025-01-03,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Blues'},0,-1,0,0,0,0,2,16,0,0,STL,5,11:31,2024
-2024020608,OTT,R,2025-01-02,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Stars'},0,-1,0,0,0,0,0,11,0,0,DAL,2,7:02,2024
-2024020583,OTT,R,2024-12-29,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Wild'},0,0,0,0,0,0,1,12,0,0,MIN,0,8:15,2024
-2024020574,OTT,R,2024-12-28,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Jets'},0,-1,0,0,0,0,0,10,0,0,WPG,0,5:30,2024
-2024020544,OTT,R,2024-12-22,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Oilers'},0,0,0,0,0,0,0,11,0,0,EDM,2,5:40,2024
-2024020382,OTT,R,2024-11-30,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Kings'},0,-2,0,0,0,0,3,18,0,0,LAK,0,11:01,2024
-2024020361,OTT,R,2024-11-27,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Sharks'},0,-1,0,0,0,0,0,18,0,0,SJS,0,12:53,2024
-2024020340,OTT,H,2024-11-25,1,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Flames'},1,1,0,0,0,0,1,14,0,0,CGY,0,8:17,2024
-2024020139,OTT,R,2024-10-27,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Avalanche'},0,0,0,0,0,0,0,14,0,0,COL,0,7:15,2024
-2024020118,OTT,R,2024-10-25,0,1,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Golden Knights'},1,0,0,0,0,0,3,15,0,0,VGK,0,6:50,2024
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020738,VGK,R,2026-01-14,0,0,{'default': 'Golden Knights'},{'default': 'Kings'},0,0,0,0,0,0,1,13,0,0,12:04,LAK,0,2025
+2025020715,VGK,R,2026-01-11,0,0,{'default': 'Golden Knights'},{'default': 'Sharks'},0,1,0,0,0,0,0,16,0,0,9:53,SJS,2,2025
+2025020710,VGK,H,2026-01-10,0,0,{'default': 'Golden Knights'},{'default': 'Blues'},0,0,0,0,0,0,0,15,0,0,11:58,STL,0,2025
+2025020661,VGK,R,2026-01-04,0,0,{'default': 'Golden Knights'},{'default': 'Blackhawks'},0,0,0,0,0,0,1,13,0,0,9:51,CHI,0,2025
+2025020570,VGK,R,2025-12-21,0,0,{'default': 'Golden Knights'},{'default': 'Oilers'},0,-1,0,0,0,0,1,10,0,0,7:50,EDM,0,2025
+2025020559,VGK,R,2025-12-20,0,0,{'default': 'Golden Knights'},{'default': 'Flames'},0,-1,0,0,0,0,1,15,0,0,12:39,CGY,0,2025
+2025020533,VGK,H,2025-12-17,0,0,{'default': 'Golden Knights'},{'default': 'Devils'},0,0,0,0,0,0,1,12,0,0,7:53,NJD,0,2025
+2025020502,VGK,R,2025-12-13,0,0,{'default': 'Golden Knights'},{'default': 'Blue Jackets'},0,1,0,0,0,0,3,16,0,0,13:18,CBJ,0,2025
+2025020483,VGK,R,2025-12-11,0,0,{'default': 'Golden Knights'},{'default': 'Flyers'},0,0,0,0,0,0,1,14,0,0,11:04,PHI,0,2025
+2025020468,VGK,R,2025-12-09,0,0,{'default': 'Golden Knights'},{'default': 'Islanders'},0,-1,0,0,0,0,0,10,0,0,6:29,NYI,0,2025
+2025020458,VGK,R,2025-12-07,0,0,{'default': 'Golden Knights'},{'default': 'Rangers'},0,0,0,0,0,0,0,14,0,0,11:34,NYR,0,2025
+2025020436,VGK,R,2025-12-05,0,0,{'default': 'Golden Knights'},{'default': 'Devils'},0,0,0,0,0,0,0,16,0,0,9:33,NJD,0,2025
+2025020419,VGK,H,2025-12-02,0,0,{'default': 'Golden Knights'},{'default': 'Blackhawks'},0,0,0,0,0,0,0,9,0,0,7:49,CHI,0,2025
+2025020400,VGK,H,2025-11-29,0,1,{'default': 'Golden Knights'},{'default': 'Sharks'},1,1,0,0,0,0,1,15,0,0,11:33,SJS,2,2025
+2025020358,VGK,R,2025-11-24,0,0,{'default': 'Golden Knights'},{'default': 'Mammoth'},0,0,0,0,0,0,1,15,0,0,11:42,UTA,0,2025
+2025020346,VGK,R,2025-11-22,0,0,{'default': 'Golden Knights'},{'default': 'Ducks'},0,-1,0,0,0,0,0,12,0,0,7:23,ANA,0,2025
+2025020327,VGK,R,2025-11-20,0,1,{'default': 'Golden Knights'},{'default': 'Mammoth'},1,1,0,0,0,0,2,18,0,0,12:46,UTA,2,2025
+2025020313,VGK,H,2025-11-18,0,0,{'default': 'Golden Knights'},{'default': 'Rangers'},0,-1,0,0,0,0,0,16,0,0,10:28,NYR,0,2025
+2025020298,VGK,R,2025-11-16,0,0,{'default': 'Golden Knights'},{'default': 'Wild'},0,0,0,0,0,0,2,12,0,0,9:51,MIN,0,2025
+2025020292,VGK,R,2025-11-15,0,0,{'default': 'Golden Knights'},{'default': 'Blues'},0,0,0,0,0,0,1,18,0,0,11:31,STL,0,2025
+2025020277,VGK,H,2025-11-13,0,0,{'default': 'Golden Knights'},{'default': 'Islanders'},0,1,0,0,0,0,0,9,0,0,6:26,NYI,2,2025
+2025020255,VGK,H,2025-11-10,0,0,{'default': 'Golden Knights'},{'default': 'Panthers'},0,0,0,0,0,0,0,9,0,0,5:41,FLA,2,2025
+2025020242,VGK,H,2025-11-08,0,0,{'default': 'Golden Knights'},{'default': 'Ducks'},0,-1,0,0,0,0,1,11,0,0,7:03,ANA,0,2025
+2025020225,VGK,H,2025-11-06,0,0,{'default': 'Golden Knights'},{'default': 'Lightning'},0,-1,0,0,0,0,0,10,0,0,6:11,TBL,0,2025
+2025020210,VGK,H,2025-11-04,0,0,{'default': 'Golden Knights'},{'default': 'Red Wings'},0,0,0,0,0,0,0,12,0,0,8:00,DET,0,2025
+2025020178,VGK,H,2025-10-31,0,0,{'default': 'Golden Knights'},{'default': 'Avalanche'},0,-1,0,0,0,0,0,14,0,0,11:08,COL,0,2025
+2025020155,VGK,R,2025-10-28,0,1,{'default': 'Golden Knights'},{'default': 'Hurricanes'},1,0,0,0,0,0,0,18,0,0,12:56,CAR,0,2025
+2025020097,VGK,H,2025-10-20,0,0,{'default': 'Golden Knights'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,9,0,0,7:26,CAR,0,2025
+2025020069,VGK,H,2025-10-16,1,0,{'default': 'Golden Knights'},{'default': 'Bruins'},1,1,0,0,0,0,1,14,0,0,9:41,BOS,0,2025
+2025020053,VGK,R,2025-10-14,0,0,{'default': 'Golden Knights'},{'default': 'Flames'},0,0,0,0,0,0,0,14,0,0,9:22,CGY,0,2025
+2024020901,OTT,H,2025-02-22,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Canadiens'},0,0,0,0,0,0,0,18,0,0,11:53,MTL,4,2024
+2024020880,OTT,R,2025-02-08,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Panthers'},0,0,0,0,0,0,2,13,0,0,9:13,FLA,0,2024
+2024020862,OTT,R,2025-02-06,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Lightning'},0,0,0,0,0,0,0,12,0,0,7:29,TBL,0,2024
+2024020847,OTT,R,2025-02-04,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Lightning'},0,1,0,0,0,0,0,13,0,0,7:48,TBL,0,2024
+2024020844,OTT,R,2025-02-03,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Predators'},0,0,0,0,0,0,0,8,0,0,5:26,NSH,0,2024
+2024020671,OTT,R,2025-01-11,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Penguins'},0,0,0,0,0,0,0,6,0,0,3:33,PIT,2,2024
+2024020654,OTT,H,2025-01-09,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Sabres'},0,0,0,0,0,0,1,17,0,0,9:50,BUF,0,2024
+2024020617,OTT,R,2025-01-03,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Blues'},0,-1,0,0,0,0,2,16,0,0,11:31,STL,5,2024
+2024020608,OTT,R,2025-01-02,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Stars'},0,-1,0,0,0,0,0,11,0,0,7:02,DAL,2,2024
+2024020583,OTT,R,2024-12-29,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Wild'},0,0,0,0,0,0,1,12,0,0,8:15,MIN,0,2024
+2024020574,OTT,R,2024-12-28,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Jets'},0,-1,0,0,0,0,0,10,0,0,5:30,WPG,0,2024
+2024020544,OTT,R,2024-12-22,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Oilers'},0,0,0,0,0,0,0,11,0,0,5:40,EDM,2,2024
+2024020382,OTT,R,2024-11-30,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Kings'},0,-2,0,0,0,0,3,18,0,0,11:01,LAK,0,2024
+2024020361,OTT,R,2024-11-27,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Sharks'},0,-1,0,0,0,0,0,18,0,0,12:53,SJS,0,2024
+2024020340,OTT,H,2024-11-25,1,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Flames'},1,1,0,0,0,0,1,14,0,0,8:17,CGY,0,2024
+2024020139,OTT,R,2024-10-27,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Avalanche'},0,0,0,0,0,0,0,14,0,0,7:15,COL,0,2024
+2024020118,OTT,R,2024-10-25,0,1,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Golden Knights'},1,0,0,0,0,0,3,15,0,0,6:50,VGK,0,2024
