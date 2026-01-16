@@ -1,12 +1,12 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020350,COL,R,2025-11-23,0,0,{'default': 'Avalanche'},{'default': 'Blackhawks'},0,1,0,0,0,0,0,9,0,0,CHI,0,5:03,2025
-2025020343,COL,R,2025-11-22,0,0,{'default': 'Avalanche'},{'default': 'Predators'},0,0,0,0,0,0,0,10,0,0,NSH,0,6:54,2025
-2024020718,COL,H,2025-01-16,0,0,{'default': 'Avalanche'},{'default': 'Oilers'},0,0,0,0,0,0,2,8,0,0,EDM,0,6:18,2024
-2024020703,COL,H,2025-01-14,0,0,{'default': 'Avalanche'},{'default': 'Rangers'},0,0,0,0,0,0,1,6,0,0,NYR,0,4:04,2024
-2023020707,COL,R,2024-01-20,0,0,{'default': 'Avalanche'},{'default': 'Flyers'},0,0,0,0,0,0,0,10,0,0,PHI,2,6:38,2023
-2023020692,COL,R,2024-01-18,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,0,0,0,0,0,0,11,0,0,BOS,0,7:36,2023
-2023020682,COL,R,2024-01-16,1,0,{'default': 'Avalanche'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,1,0,0,0,0,2,13,0,0,OTT,0,7:46,2023
-2023020678,COL,R,2024-01-15,0,0,{'default': 'Avalanche'},{'default': 'Canadiens'},0,0,0,0,0,0,1,12,0,0,MTL,0,10:05,2023
-2023020662,COL,R,2024-01-13,0,0,{'default': 'Avalanche'},{'default': 'Maple Leafs'},0,0,0,0,0,0,2,15,0,0,TOR,0,10:11,2023
-2023020637,COL,H,2024-01-10,0,0,{'default': 'Avalanche'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,10,0,0,VGK,0,5:20,2023
-2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,0,0,0,0,0,0,6,0,0,BOS,0,4:22,2023
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020350,COL,R,2025-11-23,0,0,{'default': 'Avalanche'},{'default': 'Blackhawks'},0,1,0,0,0,0,0,9,0,0,5:03,CHI,0,2025
+2025020343,COL,R,2025-11-22,0,0,{'default': 'Avalanche'},{'default': 'Predators'},0,0,0,0,0,0,0,10,0,0,6:54,NSH,0,2025
+2024020718,COL,H,2025-01-16,0,0,{'default': 'Avalanche'},{'default': 'Oilers'},0,0,0,0,0,0,2,8,0,0,6:18,EDM,0,2024
+2024020703,COL,H,2025-01-14,0,0,{'default': 'Avalanche'},{'default': 'Rangers'},0,0,0,0,0,0,1,6,0,0,4:04,NYR,0,2024
+2023020707,COL,R,2024-01-20,0,0,{'default': 'Avalanche'},{'default': 'Flyers'},0,0,0,0,0,0,0,10,0,0,6:38,PHI,2,2023
+2023020692,COL,R,2024-01-18,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,0,0,0,0,0,0,11,0,0,7:36,BOS,0,2023
+2023020682,COL,R,2024-01-16,1,0,{'default': 'Avalanche'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,1,0,0,0,0,2,13,0,0,7:46,OTT,0,2023
+2023020678,COL,R,2024-01-15,0,0,{'default': 'Avalanche'},{'default': 'Canadiens'},0,0,0,0,0,0,1,12,0,0,10:05,MTL,0,2023
+2023020662,COL,R,2024-01-13,0,0,{'default': 'Avalanche'},{'default': 'Maple Leafs'},0,0,0,0,0,0,2,15,0,0,10:11,TOR,0,2023
+2023020637,COL,H,2024-01-10,0,0,{'default': 'Avalanche'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,10,0,0,5:20,VGK,0,2023
+2023020624,COL,H,2024-01-08,0,0,{'default': 'Avalanche'},{'default': 'Bruins'},0,0,0,0,0,0,0,6,0,0,4:22,BOS,0,2023
