@@ -1,25 +1,25 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
-2025020541,STL,H,2025-12-18,0,0,{'default': 'Blues'},{'default': 'Rangers'},0,0,0,0,0,0,0,12,0,0,7:20,NYR,0,2025
-2025020517,STL,H,2025-12-15,0,0,{'default': 'Blues'},{'default': 'Predators'},0,0,0,0,0,0,2,18,0,0,13:00,NSH,0,2025
-2025020493,STL,H,2025-12-12,1,0,{'default': 'Blues'},{'default': 'Blackhawks'},1,0,0,0,0,0,1,15,0,0,9:03,CHI,0,2025
-2025020472,STL,H,2025-12-09,0,0,{'default': 'Blues'},{'default': 'Bruins'},0,-1,0,0,0,0,2,11,0,0,7:44,BOS,0,2025
-2025020457,STL,R,2025-12-07,0,0,{'default': 'Blues'},{'default': 'Canadiens'},0,-1,0,0,0,0,0,12,0,0,8:33,MTL,0,2025
-2022021288,DET,R,2023-04-11,0,0,{'default': 'Red Wings'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,14,0,0,10:16,CAR,0,2022
-2022021280,DET,H,2023-04-10,0,0,{'default': 'Red Wings'},{'default': 'Stars'},0,0,0,0,0,0,2,16,0,0,14:11,DAL,0,2022
-2022021266,DET,H,2023-04-08,0,0,{'default': 'Red Wings'},{'default': 'Penguins'},0,-2,0,0,0,0,2,17,0,0,11:36,PIT,0,2022
-2022021248,DET,H,2023-04-06,0,1,{'default': 'Red Wings'},{'default': 'Sabres'},1,1,0,0,0,0,0,12,0,0,9:04,BUF,0,2022
-2022021231,DET,R,2023-04-04,1,0,{'default': 'Red Wings'},{'default': 'Canadiens'},1,1,0,0,0,0,2,14,0,0,10:34,MTL,0,2022
-2022021222,DET,R,2023-04-02,0,0,{'default': 'Red Wings'},{'default': 'Maple Leafs'},0,0,0,0,0,0,3,19,0,0,13:04,TOR,0,2022
-2022021201,DET,R,2023-03-31,0,1,{'default': 'Red Wings'},{'default': 'Jets'},1,1,0,0,0,0,3,14,0,0,14:24,WPG,0,2022
-2022021195,DET,H,2023-03-30,0,0,{'default': 'Red Wings'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,12,0,0,9:30,CAR,0,2022
-2022021180,DET,H,2023-03-28,0,0,{'default': 'Red Wings'},{'default': 'Penguins'},0,0,0,0,0,0,1,13,0,0,8:55,PIT,0,2022
-2022021150,DET,R,2023-03-25,0,0,{'default': 'Red Wings'},{'default': 'Flyers'},0,0,0,0,0,0,1,12,0,0,9:14,PHI,0,2022
-2022021141,DET,H,2023-03-23,0,0,{'default': 'Red Wings'},{'default': 'Blues'},0,0,0,0,0,0,0,14,0,0,9:36,STL,0,2022
-2022021129,DET,R,2023-03-21,0,0,{'default': 'Red Wings'},{'default': 'Blues'},0,-2,0,0,0,0,1,11,0,0,8:15,STL,0,2022
-2022020203,DET,H,2022-11-08,0,0,{'default': 'Red Wings'},{'default': 'Canadiens'},0,0,0,0,0,0,0,11,0,0,8:43,MTL,0,2022
-2022020190,DET,R,2022-11-06,1,0,{'default': 'Red Wings'},{'default': 'Rangers'},1,0,0,0,0,0,1,13,0,0,7:24,NYR,0,2022
-2022020181,DET,H,2022-11-05,0,0,{'default': 'Red Wings'},{'default': 'Islanders'},0,0,0,0,0,0,0,11,0,0,7:24,NYI,0,2022
-2022020164,DET,H,2022-11-03,0,0,{'default': 'Red Wings'},{'default': 'Capitals'},0,0,0,0,0,0,1,10,0,0,6:53,WSH,0,2022
-2022020144,DET,R,2022-10-31,0,0,{'default': 'Red Wings'},{'default': 'Sabres'},0,0,0,0,0,0,0,14,0,0,10:58,BUF,0,2022
-2022020132,DET,H,2022-10-29,0,0,{'default': 'Red Wings'},{'default': 'Wild'},0,0,0,0,0,0,1,10,0,0,8:54,MIN,0,2022
-2022020111,DET,R,2022-10-27,0,0,{'default': 'Red Wings'},{'default': 'Bruins'},0,-1,0,0,0,0,2,13,0,0,8:45,BOS,0,2022
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+2025020541,STL,H,2025-12-18,0,0,{'default': 'Blues'},{'default': 'Rangers'},0,0,0,0,0,0,0,12,0,0,NYR,0,7:20,2025
+2025020517,STL,H,2025-12-15,0,0,{'default': 'Blues'},{'default': 'Predators'},0,0,0,0,0,0,2,18,0,0,NSH,0,13:00,2025
+2025020493,STL,H,2025-12-12,1,0,{'default': 'Blues'},{'default': 'Blackhawks'},1,0,0,0,0,0,1,15,0,0,CHI,0,9:03,2025
+2025020472,STL,H,2025-12-09,0,0,{'default': 'Blues'},{'default': 'Bruins'},0,-1,0,0,0,0,2,11,0,0,BOS,0,7:44,2025
+2025020457,STL,R,2025-12-07,0,0,{'default': 'Blues'},{'default': 'Canadiens'},0,-1,0,0,0,0,0,12,0,0,MTL,0,8:33,2025
+2022021288,DET,R,2023-04-11,0,0,{'default': 'Red Wings'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,14,0,0,CAR,0,10:16,2022
+2022021280,DET,H,2023-04-10,0,0,{'default': 'Red Wings'},{'default': 'Stars'},0,0,0,0,0,0,2,16,0,0,DAL,0,14:11,2022
+2022021266,DET,H,2023-04-08,0,0,{'default': 'Red Wings'},{'default': 'Penguins'},0,-2,0,0,0,0,2,17,0,0,PIT,0,11:36,2022
+2022021248,DET,H,2023-04-06,0,1,{'default': 'Red Wings'},{'default': 'Sabres'},1,1,0,0,0,0,0,12,0,0,BUF,0,9:04,2022
+2022021231,DET,R,2023-04-04,1,0,{'default': 'Red Wings'},{'default': 'Canadiens'},1,1,0,0,0,0,2,14,0,0,MTL,0,10:34,2022
+2022021222,DET,R,2023-04-02,0,0,{'default': 'Red Wings'},{'default': 'Maple Leafs'},0,0,0,0,0,0,3,19,0,0,TOR,0,13:04,2022
+2022021201,DET,R,2023-03-31,0,1,{'default': 'Red Wings'},{'default': 'Jets'},1,1,0,0,0,0,3,14,0,0,WPG,0,14:24,2022
+2022021195,DET,H,2023-03-30,0,0,{'default': 'Red Wings'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,12,0,0,CAR,0,9:30,2022
+2022021180,DET,H,2023-03-28,0,0,{'default': 'Red Wings'},{'default': 'Penguins'},0,0,0,0,0,0,1,13,0,0,PIT,0,8:55,2022
+2022021150,DET,R,2023-03-25,0,0,{'default': 'Red Wings'},{'default': 'Flyers'},0,0,0,0,0,0,1,12,0,0,PHI,0,9:14,2022
+2022021141,DET,H,2023-03-23,0,0,{'default': 'Red Wings'},{'default': 'Blues'},0,0,0,0,0,0,0,14,0,0,STL,0,9:36,2022
+2022021129,DET,R,2023-03-21,0,0,{'default': 'Red Wings'},{'default': 'Blues'},0,-2,0,0,0,0,1,11,0,0,STL,0,8:15,2022
+2022020203,DET,H,2022-11-08,0,0,{'default': 'Red Wings'},{'default': 'Canadiens'},0,0,0,0,0,0,0,11,0,0,MTL,0,8:43,2022
+2022020190,DET,R,2022-11-06,1,0,{'default': 'Red Wings'},{'default': 'Rangers'},1,0,0,0,0,0,1,13,0,0,NYR,0,7:24,2022
+2022020181,DET,H,2022-11-05,0,0,{'default': 'Red Wings'},{'default': 'Islanders'},0,0,0,0,0,0,0,11,0,0,NYI,0,7:24,2022
+2022020164,DET,H,2022-11-03,0,0,{'default': 'Red Wings'},{'default': 'Capitals'},0,0,0,0,0,0,1,10,0,0,WSH,0,6:53,2022
+2022020144,DET,R,2022-10-31,0,0,{'default': 'Red Wings'},{'default': 'Sabres'},0,0,0,0,0,0,0,14,0,0,BUF,0,10:58,2022
+2022020132,DET,H,2022-10-29,0,0,{'default': 'Red Wings'},{'default': 'Wild'},0,0,0,0,0,0,1,10,0,0,MIN,0,8:54,2022
+2022020111,DET,R,2022-10-27,0,0,{'default': 'Red Wings'},{'default': 'Bruins'},0,-1,0,0,0,0,2,13,0,0,BOS,0,8:45,2022

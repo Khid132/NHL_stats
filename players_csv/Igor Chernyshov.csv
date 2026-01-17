@@ -1,14 +1,15 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
-2025020742,SJS,R,2026-01-15,0,0,{'default': 'Sharks'},{'default': 'Capitals'},0,0,0,0,0,0,0,17,0,0,15:39,WSH,0,2025
-2025020715,SJS,H,2026-01-11,0,0,{'default': 'Sharks'},{'default': 'Golden Knights'},0,-3,0,0,0,0,1,21,0,0,16:37,VGK,0,2025
-2025020700,SJS,H,2026-01-10,0,1,{'default': 'Sharks'},{'default': 'Stars'},1,0,0,1,0,0,3,23,0,0,19:34,DAL,0,2025
-2025020681,SJS,R,2026-01-07,0,0,{'default': 'Sharks'},{'default': 'Kings'},0,0,0,0,0,0,1,17,0,0,14:43,LAK,0,2025
-2025020675,SJS,H,2026-01-06,0,0,{'default': 'Sharks'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,19,0,0,15:11,CBJ,2,2025
-2025020649,SJS,H,2026-01-03,0,0,{'default': 'Sharks'},{'default': 'Lightning'},0,-1,0,0,0,0,1,18,0,0,16:05,TBL,0,2025
-2025020625,SJS,H,2025-12-31,1,1,{'default': 'Sharks'},{'default': 'Wild'},2,0,0,0,0,0,1,22,0,0,16:08,MIN,0,2025
-2025020615,SJS,R,2025-12-29,1,0,{'default': 'Sharks'},{'default': 'Ducks'},1,-1,0,0,0,0,2,19,0,0,15:53,ANA,0,2025
-2025020599,SJS,R,2025-12-27,1,1,{'default': 'Sharks'},{'default': 'Canucks'},2,2,1,1,1,0,2,20,0,0,14:43,VAN,0,2025
-2025020586,SJS,R,2025-12-23,0,0,{'default': 'Sharks'},{'default': 'Golden Knights'},0,0,0,0,0,0,2,18,0,0,16:50,VGK,0,2025
-2025020561,SJS,H,2025-12-20,0,1,{'default': 'Sharks'},{'default': 'Kraken'},1,1,0,1,0,0,5,21,0,0,16:10,SEA,0,2025
-2025020543,SJS,H,2025-12-18,0,1,{'default': 'Sharks'},{'default': 'Stars'},1,1,0,0,0,0,3,20,0,0,18:39,DAL,0,2025
-2025020527,SJS,H,2025-12-16,0,1,{'default': 'Sharks'},{'default': 'Flames'},1,1,0,0,0,0,1,18,0,0,12:20,CGY,0,2025
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+2025020749,SJS,R,2026-01-16,0,0,{'default': 'Sharks'},{'default': 'Red Wings'},0,0,0,0,0,0,2,16,0,0,DET,0,15:06,2025
+2025020742,SJS,R,2026-01-15,0,0,{'default': 'Sharks'},{'default': 'Capitals'},0,0,0,0,0,0,0,17,0,0,WSH,0,15:39,2025
+2025020715,SJS,H,2026-01-11,0,0,{'default': 'Sharks'},{'default': 'Golden Knights'},0,-3,0,0,0,0,1,21,0,0,VGK,0,16:37,2025
+2025020700,SJS,H,2026-01-10,0,1,{'default': 'Sharks'},{'default': 'Stars'},1,0,0,1,0,0,3,23,0,0,DAL,0,19:34,2025
+2025020681,SJS,R,2026-01-07,0,0,{'default': 'Sharks'},{'default': 'Kings'},0,0,0,0,0,0,1,17,0,0,LAK,0,14:43,2025
+2025020675,SJS,H,2026-01-06,0,0,{'default': 'Sharks'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,19,0,0,CBJ,2,15:11,2025
+2025020649,SJS,H,2026-01-03,0,0,{'default': 'Sharks'},{'default': 'Lightning'},0,-1,0,0,0,0,1,18,0,0,TBL,0,16:05,2025
+2025020625,SJS,H,2025-12-31,1,1,{'default': 'Sharks'},{'default': 'Wild'},2,0,0,0,0,0,1,22,0,0,MIN,0,16:08,2025
+2025020615,SJS,R,2025-12-29,1,0,{'default': 'Sharks'},{'default': 'Ducks'},1,-1,0,0,0,0,2,19,0,0,ANA,0,15:53,2025
+2025020599,SJS,R,2025-12-27,1,1,{'default': 'Sharks'},{'default': 'Canucks'},2,2,1,1,1,0,2,20,0,0,VAN,0,14:43,2025
+2025020586,SJS,R,2025-12-23,0,0,{'default': 'Sharks'},{'default': 'Golden Knights'},0,0,0,0,0,0,2,18,0,0,VGK,0,16:50,2025
+2025020561,SJS,H,2025-12-20,0,1,{'default': 'Sharks'},{'default': 'Kraken'},1,1,0,1,0,0,5,21,0,0,SEA,0,16:10,2025
+2025020543,SJS,H,2025-12-18,0,1,{'default': 'Sharks'},{'default': 'Stars'},1,1,0,0,0,0,3,20,0,0,DAL,0,18:39,2025
+2025020527,SJS,H,2025-12-16,0,1,{'default': 'Sharks'},{'default': 'Flames'},1,1,0,0,0,0,1,18,0,0,CGY,0,12:20,2025

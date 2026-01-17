@@ -1,17 +1,17 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020352,VAN,H,2025-11-23,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,-2,0,0,0,0,1,13,0,0,CGY,0,8:45,2025
-2025020328,VAN,H,2025-11-20,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,-1,0,0,0,0,0,15,0,0,DAL,0,6:54,2025
-2025020303,VAN,R,2025-11-17,0,0,{'default': 'Canucks'},{'default': 'Panthers'},0,-1,0,0,0,0,0,15,0,0,FLA,0,8:44,2025
-2025020297,VAN,R,2025-11-16,1,1,{'default': 'Canucks'},{'default': 'Lightning'},2,2,0,0,0,0,1,19,0,0,TBL,12,13:19,2025
-2025020279,VAN,R,2025-11-14,0,1,{'default': 'Canucks'},{'default': 'Hurricanes'},1,1,0,0,0,0,0,15,0,0,CAR,0,9:43,2025
-2025020201,VAN,R,2025-11-03,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,-1,0,0,0,0,1,13,0,0,NSH,0,10:49,2025
-2025020190,VAN,R,2025-11-01,0,1,{'default': 'Canucks'},{'default': 'Wild'},1,2,0,0,0,0,3,17,0,0,MIN,0,10:56,2025
-2025020172,VAN,R,2025-10-30,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,0,17,0,0,STL,0,12:18,2025
-2023020559,STL,R,2023-12-30,0,0,{'default': 'Blues'},{'default': 'Penguins'},0,-1,0,0,0,0,1,9,0,0,PIT,0,5:59,2023
-2023020552,STL,H,2023-12-29,0,0,{'default': 'Blues'},{'default': 'Avalanche'},0,0,0,0,0,0,1,8,0,0,COL,0,5:07,2023
-2023020536,STL,H,2023-12-27,0,0,{'default': 'Blues'},{'default': 'Stars'},0,0,0,0,0,0,0,10,0,0,DAL,0,6:30,2023
-2023020524,STL,H,2023-12-23,0,1,{'default': 'Blues'},{'default': 'Blackhawks'},1,1,0,0,0,0,0,9,0,0,CHI,0,7:13,2023
-2023020500,STL,R,2023-12-21,0,0,{'default': 'Blues'},{'default': 'Panthers'},0,0,0,0,0,0,1,12,0,0,FLA,0,9:41,2023
-2023020488,STL,R,2023-12-19,0,0,{'default': 'Blues'},{'default': 'Lightning'},0,0,0,0,0,0,1,13,0,0,TBL,0,11:42,2023
-2023020469,STL,H,2023-12-16,0,0,{'default': 'Blues'},{'default': 'Stars'},0,-1,0,0,0,0,0,11,0,0,DAL,0,7:57,2023
-2023020451,STL,H,2023-12-14,0,0,{'default': 'Blues'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,11,0,0,OTT,0,8:48,2023
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020352,VAN,H,2025-11-23,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,-2,0,0,0,0,1,13,0,0,8:45,CGY,0,2025
+2025020328,VAN,H,2025-11-20,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,-1,0,0,0,0,0,15,0,0,6:54,DAL,0,2025
+2025020303,VAN,R,2025-11-17,0,0,{'default': 'Canucks'},{'default': 'Panthers'},0,-1,0,0,0,0,0,15,0,0,8:44,FLA,0,2025
+2025020297,VAN,R,2025-11-16,1,1,{'default': 'Canucks'},{'default': 'Lightning'},2,2,0,0,0,0,1,19,0,0,13:19,TBL,12,2025
+2025020279,VAN,R,2025-11-14,0,1,{'default': 'Canucks'},{'default': 'Hurricanes'},1,1,0,0,0,0,0,15,0,0,9:43,CAR,0,2025
+2025020201,VAN,R,2025-11-03,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,-1,0,0,0,0,1,13,0,0,10:49,NSH,0,2025
+2025020190,VAN,R,2025-11-01,0,1,{'default': 'Canucks'},{'default': 'Wild'},1,2,0,0,0,0,3,17,0,0,10:56,MIN,0,2025
+2025020172,VAN,R,2025-10-30,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,0,17,0,0,12:18,STL,0,2025
+2023020559,STL,R,2023-12-30,0,0,{'default': 'Blues'},{'default': 'Penguins'},0,-1,0,0,0,0,1,9,0,0,5:59,PIT,0,2023
+2023020552,STL,H,2023-12-29,0,0,{'default': 'Blues'},{'default': 'Avalanche'},0,0,0,0,0,0,1,8,0,0,5:07,COL,0,2023
+2023020536,STL,H,2023-12-27,0,0,{'default': 'Blues'},{'default': 'Stars'},0,0,0,0,0,0,0,10,0,0,6:30,DAL,0,2023
+2023020524,STL,H,2023-12-23,0,1,{'default': 'Blues'},{'default': 'Blackhawks'},1,1,0,0,0,0,0,9,0,0,7:13,CHI,0,2023
+2023020500,STL,R,2023-12-21,0,0,{'default': 'Blues'},{'default': 'Panthers'},0,0,0,0,0,0,1,12,0,0,9:41,FLA,0,2023
+2023020488,STL,R,2023-12-19,0,0,{'default': 'Blues'},{'default': 'Lightning'},0,0,0,0,0,0,1,13,0,0,11:42,TBL,0,2023
+2023020469,STL,H,2023-12-16,0,0,{'default': 'Blues'},{'default': 'Stars'},0,-1,0,0,0,0,0,11,0,0,7:57,DAL,0,2023
+2023020451,STL,H,2023-12-14,0,0,{'default': 'Blues'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,11,0,0,8:48,OTT,0,2023
