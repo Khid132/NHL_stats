@@ -1,17 +1,17 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
-2025020751,TBL,R,2026-01-16,0,0,{'default': 'Lightning'},{'default': 'Blues'},0,0,0,0,0,0,0,14,0,0,7:08,STL,0,2025
-2025020726,TBL,R,2026-01-13,0,0,{'default': 'Lightning'},{'default': 'Penguins'},0,0,0,0,0,0,0,11,0,0,6:50,PIT,0,2025
-2025020571,TBL,H,2025-12-22,0,0,{'default': 'Lightning'},{'default': 'Blues'},0,0,0,0,0,0,0,15,0,0,11:01,STL,2,2025
-2025020557,TBL,H,2025-12-20,1,0,{'default': 'Lightning'},{'default': 'Hurricanes'},1,2,0,0,0,0,2,13,0,0,8:19,CAR,4,2025
-2025020461,TBL,R,2025-12-08,0,0,{'default': 'Lightning'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,11,0,0,6:39,TOR,2,2025
-2025020446,TBL,H,2025-12-06,0,0,{'default': 'Lightning'},{'default': 'Islanders'},0,0,0,0,0,0,1,13,0,0,8:50,NYI,0,2025
-2025020353,TBL,H,2025-11-24,0,0,{'default': 'Lightning'},{'default': 'Flyers'},0,0,0,0,0,0,0,13,0,0,7:36,PHI,0,2025
-2025020309,TBL,H,2025-11-18,0,0,{'default': 'Lightning'},{'default': 'Devils'},0,0,0,0,0,0,0,14,0,0,8:14,NJD,0,2025
-2025020297,TBL,H,2025-11-16,0,0,{'default': 'Lightning'},{'default': 'Canucks'},0,0,0,0,0,0,0,15,0,0,10:41,VAN,0,2025
-2025020283,TBL,R,2025-11-15,1,0,{'default': 'Lightning'},{'default': 'Panthers'},1,1,0,0,1,0,3,12,0,0,8:25,FLA,0,2025
-2025020265,TBL,H,2025-11-12,0,1,{'default': 'Lightning'},{'default': 'Rangers'},1,0,0,0,0,0,0,18,0,0,12:44,NYR,0,2025
-2025020236,TBL,H,2025-11-08,0,0,{'default': 'Lightning'},{'default': 'Capitals'},0,0,0,0,0,0,0,16,0,0,9:44,WSH,2,2025
-2025020082,TBL,R,2025-10-18,0,0,{'default': 'Lightning'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,16,0,0,7:14,CBJ,0,2025
-2025020072,TBL,R,2025-10-17,0,0,{'default': 'Lightning'},{'default': 'Red Wings'},0,0,0,0,0,0,3,15,0,0,7:51,DET,0,2025
-2025020026,TBL,H,2025-10-11,0,0,{'default': 'Lightning'},{'default': 'Devils'},0,0,0,0,0,0,0,14,0,0,9:05,NJD,2,2025
-2024020692,TBL,R,2025-01-14,0,0,{'default': 'Lightning'},{'default': 'Bruins'},0,1,0,0,0,0,1,15,0,0,8:25,BOS,0,2024
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+2025020751,TBL,R,2026-01-16,0,0,{'default': 'Lightning'},{'default': 'Blues'},0,0,0,0,0,0,0,14,0,0,STL,0,7:08,2025
+2025020726,TBL,R,2026-01-13,0,0,{'default': 'Lightning'},{'default': 'Penguins'},0,0,0,0,0,0,0,11,0,0,PIT,0,6:50,2025
+2025020571,TBL,H,2025-12-22,0,0,{'default': 'Lightning'},{'default': 'Blues'},0,0,0,0,0,0,0,15,0,0,STL,2,11:01,2025
+2025020557,TBL,H,2025-12-20,1,0,{'default': 'Lightning'},{'default': 'Hurricanes'},1,2,0,0,0,0,2,13,0,0,CAR,4,8:19,2025
+2025020461,TBL,R,2025-12-08,0,0,{'default': 'Lightning'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,11,0,0,TOR,2,6:39,2025
+2025020446,TBL,H,2025-12-06,0,0,{'default': 'Lightning'},{'default': 'Islanders'},0,0,0,0,0,0,1,13,0,0,NYI,0,8:50,2025
+2025020353,TBL,H,2025-11-24,0,0,{'default': 'Lightning'},{'default': 'Flyers'},0,0,0,0,0,0,0,13,0,0,PHI,0,7:36,2025
+2025020309,TBL,H,2025-11-18,0,0,{'default': 'Lightning'},{'default': 'Devils'},0,0,0,0,0,0,0,14,0,0,NJD,0,8:14,2025
+2025020297,TBL,H,2025-11-16,0,0,{'default': 'Lightning'},{'default': 'Canucks'},0,0,0,0,0,0,0,15,0,0,VAN,0,10:41,2025
+2025020283,TBL,R,2025-11-15,1,0,{'default': 'Lightning'},{'default': 'Panthers'},1,1,0,0,1,0,3,12,0,0,FLA,0,8:25,2025
+2025020265,TBL,H,2025-11-12,0,1,{'default': 'Lightning'},{'default': 'Rangers'},1,0,0,0,0,0,0,18,0,0,NYR,0,12:44,2025
+2025020236,TBL,H,2025-11-08,0,0,{'default': 'Lightning'},{'default': 'Capitals'},0,0,0,0,0,0,0,16,0,0,WSH,2,9:44,2025
+2025020082,TBL,R,2025-10-18,0,0,{'default': 'Lightning'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,16,0,0,CBJ,0,7:14,2025
+2025020072,TBL,R,2025-10-17,0,0,{'default': 'Lightning'},{'default': 'Red Wings'},0,0,0,0,0,0,3,15,0,0,DET,0,7:51,2025
+2025020026,TBL,H,2025-10-11,0,0,{'default': 'Lightning'},{'default': 'Devils'},0,0,0,0,0,0,0,14,0,0,NJD,2,9:05,2025
+2024020692,TBL,R,2025-01-14,0,0,{'default': 'Lightning'},{'default': 'Bruins'},0,1,0,0,0,0,1,15,0,0,BOS,0,8:25,2024

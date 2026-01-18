@@ -1,60 +1,61 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
-2025020747,NYI,R,2026-01-15,0,0,{'default': 'Islanders'},{'default': 'Oilers'},0,0,0,0,0,0,2,12,0,0,9:40,EDM,0,2025
-2025020732,NYI,R,2026-01-13,0,0,{'default': 'Islanders'},{'default': 'Jets'},0,1,0,0,0,0,1,12,0,0,8:59,WPG,0,2025
-2025020708,NYI,R,2026-01-10,0,0,{'default': 'Islanders'},{'default': 'Wild'},0,-1,0,0,0,0,2,10,0,0,7:08,MIN,0,2025
-2025020689,NYI,R,2026-01-08,0,0,{'default': 'Islanders'},{'default': 'Predators'},0,0,0,0,0,0,0,13,0,0,9:03,NSH,0,2025
-2025020669,NYI,H,2026-01-06,0,0,{'default': 'Islanders'},{'default': 'Devils'},0,1,0,0,0,0,2,17,0,0,13:52,NJD,0,2025
-2025020651,NYI,H,2026-01-03,0,0,{'default': 'Islanders'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,18,0,0,13:16,TOR,0,2025
-2025020620,NYI,R,2025-12-30,0,0,{'default': 'Islanders'},{'default': 'Blackhawks'},0,0,0,0,0,0,2,13,0,0,10:06,CHI,0,2025
-2025020603,NYI,R,2025-12-28,0,0,{'default': 'Islanders'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,12,0,0,8:20,CBJ,0,2025
-2025020588,NYI,H,2025-12-27,0,0,{'default': 'Islanders'},{'default': 'Rangers'},0,0,0,0,0,0,1,12,0,0,8:32,NYR,0,2025
-2025020580,NYI,H,2025-12-23,0,0,{'default': 'Islanders'},{'default': 'Devils'},0,-1,0,0,0,0,0,16,0,0,10:58,NJD,0,2025
-2025020553,NYI,R,2025-12-20,0,0,{'default': 'Islanders'},{'default': 'Sabres'},0,0,0,0,0,0,1,16,0,0,11:14,BUF,0,2025
-2025020545,NYI,H,2025-12-19,0,0,{'default': 'Islanders'},{'default': 'Canucks'},0,0,0,0,0,0,5,13,0,0,11:12,VAN,2,2025
-2025020522,NYI,R,2025-12-16,0,0,{'default': 'Islanders'},{'default': 'Red Wings'},0,0,0,0,0,0,0,16,0,0,11:13,DET,0,2025
-2025020498,NYI,H,2025-12-13,0,0,{'default': 'Islanders'},{'default': 'Lightning'},0,0,0,0,0,0,0,15,0,0,9:22,TBL,0,2025
-2025020482,NYI,H,2025-12-11,0,0,{'default': 'Islanders'},{'default': 'Ducks'},0,0,0,0,0,0,3,16,0,0,10:21,ANA,0,2025
-2025020468,NYI,H,2025-12-09,1,0,{'default': 'Islanders'},{'default': 'Golden Knights'},1,0,0,0,0,0,1,13,0,0,9:47,VGK,0,2025
-2025020454,NYI,R,2025-12-07,0,0,{'default': 'Islanders'},{'default': 'Panthers'},0,0,0,0,0,0,2,16,0,0,13:10,FLA,0,2025
-2025020446,NYI,R,2025-12-06,0,0,{'default': 'Islanders'},{'default': 'Lightning'},0,0,0,0,0,0,2,14,0,0,10:29,TBL,0,2025
-2025020430,NYI,H,2025-12-04,0,1,{'default': 'Islanders'},{'default': 'Avalanche'},1,1,0,0,0,0,0,16,0,0,9:32,COL,0,2025
-2025020028,NYI,H,2025-10-11,0,0,{'default': 'Islanders'},{'default': 'Capitals'},0,0,0,0,0,0,1,12,0,0,8:33,WSH,0,2025
-2024021312,NYI,R,2025-04-17,0,0,{'default': 'Islanders'},{'default': 'Blue Jackets'},0,-2,0,0,0,0,2,17,0,0,12:22,CBJ,0,2024
-2024021296,NYI,H,2025-04-15,0,0,{'default': 'Islanders'},{'default': 'Capitals'},0,0,0,0,0,0,1,19,0,0,12:24,WSH,0,2024
-2024021277,NYI,R,2025-04-13,0,0,{'default': 'Islanders'},{'default': 'Devils'},0,0,0,0,0,0,0,12,0,0,10:19,NJD,0,2024
-2024021265,NYI,R,2025-04-12,0,0,{'default': 'Islanders'},{'default': 'Flyers'},0,0,0,0,0,0,2,16,0,0,11:45,PHI,0,2024
-2024021254,NYI,H,2025-04-10,0,0,{'default': 'Islanders'},{'default': 'Rangers'},0,-1,0,0,0,0,4,17,0,0,14:36,NYR,0,2024
-2024021241,NYI,R,2025-04-08,0,0,{'default': 'Islanders'},{'default': 'Predators'},0,-2,0,0,0,0,2,13,0,0,9:27,NSH,0,2024
-2024021222,NYI,H,2025-04-06,2,0,{'default': 'Islanders'},{'default': 'Capitals'},2,2,0,0,1,0,4,17,0,0,11:00,WSH,0,2024
-2024021208,NYI,H,2025-04-04,0,0,{'default': 'Islanders'},{'default': 'Wild'},0,0,0,0,0,0,0,12,0,0,9:11,MIN,0,2024
-2024021186,NYI,H,2025-04-01,0,0,{'default': 'Islanders'},{'default': 'Lightning'},0,-1,0,0,0,0,1,13,0,0,10:34,TBL,0,2024
-2024021175,NYI,R,2025-03-30,0,0,{'default': 'Islanders'},{'default': 'Hurricanes'},0,-1,0,0,0,0,1,14,0,0,8:41,CAR,0,2024
-2024021160,NYI,R,2025-03-29,1,0,{'default': 'Islanders'},{'default': 'Lightning'},1,2,0,0,0,0,2,15,0,0,11:36,TBL,0,2024
-2024021139,NYI,H,2025-03-26,0,0,{'default': 'Islanders'},{'default': 'Canucks'},0,-2,0,0,0,0,1,15,0,0,11:22,VAN,0,2024
-2024021126,NYI,H,2025-03-24,0,0,{'default': 'Islanders'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,13,0,0,11:27,CBJ,0,2024
-2024021108,NYI,H,2025-03-22,1,0,{'default': 'Islanders'},{'default': 'Flames'},1,2,0,0,0,0,1,15,0,0,11:21,CGY,0,2024
-2024021094,NYI,H,2025-03-20,0,0,{'default': 'Islanders'},{'default': 'Canadiens'},0,-1,0,0,0,0,0,15,0,0,8:24,MTL,0,2024
-2024021080,NYI,R,2025-03-18,0,0,{'default': 'Islanders'},{'default': 'Penguins'},0,0,0,0,0,0,1,14,0,0,9:49,PIT,0,2024
-2024021070,NYI,H,2025-03-16,1,0,{'default': 'Islanders'},{'default': 'Panthers'},1,2,0,0,0,0,3,15,0,0,9:08,FLA,0,2024
-2024021050,NYI,H,2025-03-14,0,0,{'default': 'Islanders'},{'default': 'Oilers'},0,0,0,0,0,0,0,9,0,0,8:08,EDM,0,2024
-2024021034,NYI,R,2025-03-11,0,0,{'default': 'Islanders'},{'default': 'Kings'},0,0,0,0,0,0,0,11,0,0,8:14,LAK,0,2024
-2024021020,NYI,R,2025-03-09,0,0,{'default': 'Islanders'},{'default': 'Ducks'},0,0,0,0,0,0,0,14,0,0,9:36,ANA,0,2024
-2024021012,NYI,R,2025-03-08,0,0,{'default': 'Islanders'},{'default': 'Sharks'},0,0,0,0,0,0,0,13,0,0,8:01,SJS,2,2024
-2024020978,NYI,H,2025-03-04,0,0,{'default': 'Islanders'},{'default': 'Jets'},0,0,0,0,0,0,0,10,0,0,8:03,WPG,0,2024
-2024020970,NYI,R,2025-03-03,0,0,{'default': 'Islanders'},{'default': 'Rangers'},0,0,0,0,0,0,0,11,0,0,9:50,NYR,0,2024
-2024020949,NYI,H,2025-03-01,0,0,{'default': 'Islanders'},{'default': 'Predators'},0,0,0,0,0,0,0,16,0,0,11:15,NSH,0,2024
-2024020933,NYI,R,2025-02-27,0,0,{'default': 'Islanders'},{'default': 'Bruins'},0,0,0,0,0,0,0,11,0,0,7:37,BOS,0,2024
-2024020925,NYI,H,2025-02-25,0,0,{'default': 'Islanders'},{'default': 'Rangers'},0,-2,0,0,0,0,2,16,0,0,12:17,NYR,0,2024
-2024020913,NYI,H,2025-02-23,0,1,{'default': 'Islanders'},{'default': 'Stars'},1,0,0,0,0,0,0,13,0,0,9:37,DAL,0,2024
-2024020886,NYI,R,2025-02-08,0,0,{'default': 'Islanders'},{'default': 'Wild'},0,0,0,0,0,0,0,14,0,0,10:05,MIN,0,2024
-2024020872,NYI,R,2025-02-07,1,0,{'default': 'Islanders'},{'default': 'Jets'},1,0,0,0,0,0,1,13,0,0,8:19,WPG,0,2024
-2024020850,NYI,H,2025-02-04,0,0,{'default': 'Islanders'},{'default': 'Golden Knights'},0,-1,0,0,0,0,0,11,0,0,8:33,VGK,0,2024
-2024020838,NYI,R,2025-02-02,1,0,{'default': 'Islanders'},{'default': 'Panthers'},1,1,0,0,0,0,3,15,0,0,10:46,FLA,2,2024
-2024020829,NYI,R,2025-02-01,0,0,{'default': 'Islanders'},{'default': 'Lightning'},0,0,0,0,0,0,0,13,0,0,6:53,TBL,7,2024
-2024020816,NYI,R,2025-01-30,1,0,{'default': 'Islanders'},{'default': 'Flyers'},1,1,0,0,0,0,2,14,0,0,10:44,PHI,0,2024
-2024020803,NYI,H,2025-01-28,0,0,{'default': 'Islanders'},{'default': 'Avalanche'},0,0,0,0,0,0,2,10,0,0,7:31,COL,0,2024
-2024020785,NYI,H,2025-01-25,0,0,{'default': 'Islanders'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,11,0,0,7:03,CAR,0,2024
-2024020772,NYI,H,2025-01-24,0,0,{'default': 'Islanders'},{'default': 'Flyers'},0,0,0,0,0,0,1,16,0,0,8:53,PHI,0,2024
-2024020745,NYI,H,2025-01-20,0,0,{'default': 'Islanders'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,9,0,0,8:01,CBJ,0,2024
-2024020731,NYI,H,2025-01-18,0,0,{'default': 'Islanders'},{'default': 'Sharks'},0,-1,0,0,0,0,3,16,0,0,11:23,SJS,0,2024
-2024020699,NYI,H,2025-01-14,0,0,{'default': 'Islanders'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,11,0,0,7:27,OTT,0,2024
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+2025020756,NYI,R,2026-01-17,0,0,{'default': 'Islanders'},{'default': 'Flames'},0,0,0,0,0,0,0,12,0,0,CGY,0,8:35,2025
+2025020747,NYI,R,2026-01-15,0,0,{'default': 'Islanders'},{'default': 'Oilers'},0,0,0,0,0,0,2,12,0,0,EDM,0,9:40,2025
+2025020732,NYI,R,2026-01-13,0,0,{'default': 'Islanders'},{'default': 'Jets'},0,1,0,0,0,0,1,12,0,0,WPG,0,8:59,2025
+2025020708,NYI,R,2026-01-10,0,0,{'default': 'Islanders'},{'default': 'Wild'},0,-1,0,0,0,0,2,10,0,0,MIN,0,7:08,2025
+2025020689,NYI,R,2026-01-08,0,0,{'default': 'Islanders'},{'default': 'Predators'},0,0,0,0,0,0,0,13,0,0,NSH,0,9:03,2025
+2025020669,NYI,H,2026-01-06,0,0,{'default': 'Islanders'},{'default': 'Devils'},0,1,0,0,0,0,2,17,0,0,NJD,0,13:52,2025
+2025020651,NYI,H,2026-01-03,0,0,{'default': 'Islanders'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,18,0,0,TOR,0,13:16,2025
+2025020620,NYI,R,2025-12-30,0,0,{'default': 'Islanders'},{'default': 'Blackhawks'},0,0,0,0,0,0,2,13,0,0,CHI,0,10:06,2025
+2025020603,NYI,R,2025-12-28,0,0,{'default': 'Islanders'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,12,0,0,CBJ,0,8:20,2025
+2025020588,NYI,H,2025-12-27,0,0,{'default': 'Islanders'},{'default': 'Rangers'},0,0,0,0,0,0,1,12,0,0,NYR,0,8:32,2025
+2025020580,NYI,H,2025-12-23,0,0,{'default': 'Islanders'},{'default': 'Devils'},0,-1,0,0,0,0,0,16,0,0,NJD,0,10:58,2025
+2025020553,NYI,R,2025-12-20,0,0,{'default': 'Islanders'},{'default': 'Sabres'},0,0,0,0,0,0,1,16,0,0,BUF,0,11:14,2025
+2025020545,NYI,H,2025-12-19,0,0,{'default': 'Islanders'},{'default': 'Canucks'},0,0,0,0,0,0,5,13,0,0,VAN,2,11:12,2025
+2025020522,NYI,R,2025-12-16,0,0,{'default': 'Islanders'},{'default': 'Red Wings'},0,0,0,0,0,0,0,16,0,0,DET,0,11:13,2025
+2025020498,NYI,H,2025-12-13,0,0,{'default': 'Islanders'},{'default': 'Lightning'},0,0,0,0,0,0,0,15,0,0,TBL,0,9:22,2025
+2025020482,NYI,H,2025-12-11,0,0,{'default': 'Islanders'},{'default': 'Ducks'},0,0,0,0,0,0,3,16,0,0,ANA,0,10:21,2025
+2025020468,NYI,H,2025-12-09,1,0,{'default': 'Islanders'},{'default': 'Golden Knights'},1,0,0,0,0,0,1,13,0,0,VGK,0,9:47,2025
+2025020454,NYI,R,2025-12-07,0,0,{'default': 'Islanders'},{'default': 'Panthers'},0,0,0,0,0,0,2,16,0,0,FLA,0,13:10,2025
+2025020446,NYI,R,2025-12-06,0,0,{'default': 'Islanders'},{'default': 'Lightning'},0,0,0,0,0,0,2,14,0,0,TBL,0,10:29,2025
+2025020430,NYI,H,2025-12-04,0,1,{'default': 'Islanders'},{'default': 'Avalanche'},1,1,0,0,0,0,0,16,0,0,COL,0,9:32,2025
+2025020028,NYI,H,2025-10-11,0,0,{'default': 'Islanders'},{'default': 'Capitals'},0,0,0,0,0,0,1,12,0,0,WSH,0,8:33,2025
+2024021312,NYI,R,2025-04-17,0,0,{'default': 'Islanders'},{'default': 'Blue Jackets'},0,-2,0,0,0,0,2,17,0,0,CBJ,0,12:22,2024
+2024021296,NYI,H,2025-04-15,0,0,{'default': 'Islanders'},{'default': 'Capitals'},0,0,0,0,0,0,1,19,0,0,WSH,0,12:24,2024
+2024021277,NYI,R,2025-04-13,0,0,{'default': 'Islanders'},{'default': 'Devils'},0,0,0,0,0,0,0,12,0,0,NJD,0,10:19,2024
+2024021265,NYI,R,2025-04-12,0,0,{'default': 'Islanders'},{'default': 'Flyers'},0,0,0,0,0,0,2,16,0,0,PHI,0,11:45,2024
+2024021254,NYI,H,2025-04-10,0,0,{'default': 'Islanders'},{'default': 'Rangers'},0,-1,0,0,0,0,4,17,0,0,NYR,0,14:36,2024
+2024021241,NYI,R,2025-04-08,0,0,{'default': 'Islanders'},{'default': 'Predators'},0,-2,0,0,0,0,2,13,0,0,NSH,0,9:27,2024
+2024021222,NYI,H,2025-04-06,2,0,{'default': 'Islanders'},{'default': 'Capitals'},2,2,0,0,1,0,4,17,0,0,WSH,0,11:00,2024
+2024021208,NYI,H,2025-04-04,0,0,{'default': 'Islanders'},{'default': 'Wild'},0,0,0,0,0,0,0,12,0,0,MIN,0,9:11,2024
+2024021186,NYI,H,2025-04-01,0,0,{'default': 'Islanders'},{'default': 'Lightning'},0,-1,0,0,0,0,1,13,0,0,TBL,0,10:34,2024
+2024021175,NYI,R,2025-03-30,0,0,{'default': 'Islanders'},{'default': 'Hurricanes'},0,-1,0,0,0,0,1,14,0,0,CAR,0,8:41,2024
+2024021160,NYI,R,2025-03-29,1,0,{'default': 'Islanders'},{'default': 'Lightning'},1,2,0,0,0,0,2,15,0,0,TBL,0,11:36,2024
+2024021139,NYI,H,2025-03-26,0,0,{'default': 'Islanders'},{'default': 'Canucks'},0,-2,0,0,0,0,1,15,0,0,VAN,0,11:22,2024
+2024021126,NYI,H,2025-03-24,0,0,{'default': 'Islanders'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,13,0,0,CBJ,0,11:27,2024
+2024021108,NYI,H,2025-03-22,1,0,{'default': 'Islanders'},{'default': 'Flames'},1,2,0,0,0,0,1,15,0,0,CGY,0,11:21,2024
+2024021094,NYI,H,2025-03-20,0,0,{'default': 'Islanders'},{'default': 'Canadiens'},0,-1,0,0,0,0,0,15,0,0,MTL,0,8:24,2024
+2024021080,NYI,R,2025-03-18,0,0,{'default': 'Islanders'},{'default': 'Penguins'},0,0,0,0,0,0,1,14,0,0,PIT,0,9:49,2024
+2024021070,NYI,H,2025-03-16,1,0,{'default': 'Islanders'},{'default': 'Panthers'},1,2,0,0,0,0,3,15,0,0,FLA,0,9:08,2024
+2024021050,NYI,H,2025-03-14,0,0,{'default': 'Islanders'},{'default': 'Oilers'},0,0,0,0,0,0,0,9,0,0,EDM,0,8:08,2024
+2024021034,NYI,R,2025-03-11,0,0,{'default': 'Islanders'},{'default': 'Kings'},0,0,0,0,0,0,0,11,0,0,LAK,0,8:14,2024
+2024021020,NYI,R,2025-03-09,0,0,{'default': 'Islanders'},{'default': 'Ducks'},0,0,0,0,0,0,0,14,0,0,ANA,0,9:36,2024
+2024021012,NYI,R,2025-03-08,0,0,{'default': 'Islanders'},{'default': 'Sharks'},0,0,0,0,0,0,0,13,0,0,SJS,2,8:01,2024
+2024020978,NYI,H,2025-03-04,0,0,{'default': 'Islanders'},{'default': 'Jets'},0,0,0,0,0,0,0,10,0,0,WPG,0,8:03,2024
+2024020970,NYI,R,2025-03-03,0,0,{'default': 'Islanders'},{'default': 'Rangers'},0,0,0,0,0,0,0,11,0,0,NYR,0,9:50,2024
+2024020949,NYI,H,2025-03-01,0,0,{'default': 'Islanders'},{'default': 'Predators'},0,0,0,0,0,0,0,16,0,0,NSH,0,11:15,2024
+2024020933,NYI,R,2025-02-27,0,0,{'default': 'Islanders'},{'default': 'Bruins'},0,0,0,0,0,0,0,11,0,0,BOS,0,7:37,2024
+2024020925,NYI,H,2025-02-25,0,0,{'default': 'Islanders'},{'default': 'Rangers'},0,-2,0,0,0,0,2,16,0,0,NYR,0,12:17,2024
+2024020913,NYI,H,2025-02-23,0,1,{'default': 'Islanders'},{'default': 'Stars'},1,0,0,0,0,0,0,13,0,0,DAL,0,9:37,2024
+2024020886,NYI,R,2025-02-08,0,0,{'default': 'Islanders'},{'default': 'Wild'},0,0,0,0,0,0,0,14,0,0,MIN,0,10:05,2024
+2024020872,NYI,R,2025-02-07,1,0,{'default': 'Islanders'},{'default': 'Jets'},1,0,0,0,0,0,1,13,0,0,WPG,0,8:19,2024
+2024020850,NYI,H,2025-02-04,0,0,{'default': 'Islanders'},{'default': 'Golden Knights'},0,-1,0,0,0,0,0,11,0,0,VGK,0,8:33,2024
+2024020838,NYI,R,2025-02-02,1,0,{'default': 'Islanders'},{'default': 'Panthers'},1,1,0,0,0,0,3,15,0,0,FLA,2,10:46,2024
+2024020829,NYI,R,2025-02-01,0,0,{'default': 'Islanders'},{'default': 'Lightning'},0,0,0,0,0,0,0,13,0,0,TBL,7,6:53,2024
+2024020816,NYI,R,2025-01-30,1,0,{'default': 'Islanders'},{'default': 'Flyers'},1,1,0,0,0,0,2,14,0,0,PHI,0,10:44,2024
+2024020803,NYI,H,2025-01-28,0,0,{'default': 'Islanders'},{'default': 'Avalanche'},0,0,0,0,0,0,2,10,0,0,COL,0,7:31,2024
+2024020785,NYI,H,2025-01-25,0,0,{'default': 'Islanders'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,11,0,0,CAR,0,7:03,2024
+2024020772,NYI,H,2025-01-24,0,0,{'default': 'Islanders'},{'default': 'Flyers'},0,0,0,0,0,0,1,16,0,0,PHI,0,8:53,2024
+2024020745,NYI,H,2025-01-20,0,0,{'default': 'Islanders'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,9,0,0,CBJ,0,8:01,2024
+2024020731,NYI,H,2025-01-18,0,0,{'default': 'Islanders'},{'default': 'Sharks'},0,-1,0,0,0,0,3,16,0,0,SJS,0,11:23,2024
+2024020699,NYI,H,2025-01-14,0,0,{'default': 'Islanders'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,11,0,0,OTT,0,7:27,2024

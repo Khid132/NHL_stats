@@ -1,23 +1,24 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020669,NJD,R,2026-01-06,0,0,{'default': 'Devils'},{'default': 'Islanders'},0,-4,0,0,0,0,0,15,0,0,NYI,0,10:45,2025
-2025020660,NJD,H,2026-01-04,0,0,{'default': 'Devils'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,8,0,0,CAR,0,5:52,2025
-2025020645,NJD,H,2026-01-03,0,0,{'default': 'Devils'},{'default': 'Mammoth'},0,1,0,0,0,0,0,16,0,0,UTA,0,9:46,2025
-2025020547,NJD,R,2025-12-19,0,0,{'default': 'Devils'},{'default': 'Mammoth'},0,0,0,0,0,0,0,14,0,0,UTA,0,11:29,2025
-2025020533,NJD,R,2025-12-17,0,0,{'default': 'Devils'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,16,0,0,VGK,2,10:36,2025
-2025020508,NJD,H,2025-12-14,0,0,{'default': 'Devils'},{'default': 'Canucks'},0,0,0,0,0,0,1,15,0,0,VAN,0,13:07,2025
-2025020495,NJD,H,2025-12-13,0,2,{'default': 'Devils'},{'default': 'Ducks'},2,2,0,0,0,0,1,18,0,0,ANA,0,13:38,2025
-2025020421,NJD,H,2025-12-03,0,0,{'default': 'Devils'},{'default': 'Stars'},0,0,0,0,0,0,1,13,0,0,DAL,0,10:27,2025
-2025020406,NJD,H,2025-12-01,0,0,{'default': 'Devils'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,0,12,0,0,CBJ,0,9:02,2025
-2025020395,NJD,H,2025-11-29,0,0,{'default': 'Devils'},{'default': 'Flyers'},0,0,0,0,0,0,2,11,0,0,PHI,0,8:07,2025
-2025020379,NJD,R,2025-11-28,0,0,{'default': 'Devils'},{'default': 'Sabres'},0,0,0,0,0,0,0,14,0,0,BUF,0,9:29,2025
-2025020364,NJD,H,2025-11-26,0,0,{'default': 'Devils'},{'default': 'Blues'},0,0,0,0,0,0,2,9,0,0,STL,2,7:26,2025
-2025020339,NJD,R,2025-11-22,0,0,{'default': 'Devils'},{'default': 'Flyers'},0,-2,0,0,0,0,0,14,0,0,PHI,0,9:27,2025
-2025020323,NJD,R,2025-11-20,0,0,{'default': 'Devils'},{'default': 'Panthers'},0,0,0,0,0,0,0,13,0,0,FLA,0,8:20,2025
-2025020309,NJD,R,2025-11-18,0,0,{'default': 'Devils'},{'default': 'Lightning'},0,0,0,0,0,0,0,16,0,0,TBL,0,11:49,2025
-2025020288,NJD,R,2025-11-15,0,0,{'default': 'Devils'},{'default': 'Capitals'},0,0,0,0,0,0,1,18,0,0,WSH,0,12:06,2025
-2025020231,NJD,H,2025-11-08,0,0,{'default': 'Devils'},{'default': 'Penguins'},0,1,0,0,0,0,1,13,0,0,PIT,0,11:39,2025
-2025020220,NJD,H,2025-11-06,0,0,{'default': 'Devils'},{'default': 'Canadiens'},0,0,0,0,0,0,1,13,0,0,MTL,0,7:49,2025
-2025020197,NJD,R,2025-11-02,0,0,{'default': 'Devils'},{'default': 'Ducks'},0,0,0,0,0,0,1,15,0,0,ANA,0,11:22,2025
-2025020191,NJD,R,2025-11-01,0,0,{'default': 'Devils'},{'default': 'Kings'},0,0,0,0,0,0,2,12,0,0,LAK,0,7:22,2025
-2025020176,NJD,R,2025-10-30,0,0,{'default': 'Devils'},{'default': 'Sharks'},0,-1,0,0,0,0,1,17,0,0,SJS,0,12:48,2025
-2025020161,NJD,R,2025-10-28,0,0,{'default': 'Devils'},{'default': 'Avalanche'},0,0,0,0,0,0,1,17,0,0,COL,0,11:08,2025
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020759,NJD,H,2026-01-17,0,0,{'default': 'Devils'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,11,0,0,6:13,CAR,0,2025
+2025020669,NJD,R,2026-01-06,0,0,{'default': 'Devils'},{'default': 'Islanders'},0,-4,0,0,0,0,0,15,0,0,10:45,NYI,0,2025
+2025020660,NJD,H,2026-01-04,0,0,{'default': 'Devils'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,8,0,0,5:52,CAR,0,2025
+2025020645,NJD,H,2026-01-03,0,0,{'default': 'Devils'},{'default': 'Mammoth'},0,1,0,0,0,0,0,16,0,0,9:46,UTA,0,2025
+2025020547,NJD,R,2025-12-19,0,0,{'default': 'Devils'},{'default': 'Mammoth'},0,0,0,0,0,0,0,14,0,0,11:29,UTA,0,2025
+2025020533,NJD,R,2025-12-17,0,0,{'default': 'Devils'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,16,0,0,10:36,VGK,2,2025
+2025020508,NJD,H,2025-12-14,0,0,{'default': 'Devils'},{'default': 'Canucks'},0,0,0,0,0,0,1,15,0,0,13:07,VAN,0,2025
+2025020495,NJD,H,2025-12-13,0,2,{'default': 'Devils'},{'default': 'Ducks'},2,2,0,0,0,0,1,18,0,0,13:38,ANA,0,2025
+2025020421,NJD,H,2025-12-03,0,0,{'default': 'Devils'},{'default': 'Stars'},0,0,0,0,0,0,1,13,0,0,10:27,DAL,0,2025
+2025020406,NJD,H,2025-12-01,0,0,{'default': 'Devils'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,0,12,0,0,9:02,CBJ,0,2025
+2025020395,NJD,H,2025-11-29,0,0,{'default': 'Devils'},{'default': 'Flyers'},0,0,0,0,0,0,2,11,0,0,8:07,PHI,0,2025
+2025020379,NJD,R,2025-11-28,0,0,{'default': 'Devils'},{'default': 'Sabres'},0,0,0,0,0,0,0,14,0,0,9:29,BUF,0,2025
+2025020364,NJD,H,2025-11-26,0,0,{'default': 'Devils'},{'default': 'Blues'},0,0,0,0,0,0,2,9,0,0,7:26,STL,2,2025
+2025020339,NJD,R,2025-11-22,0,0,{'default': 'Devils'},{'default': 'Flyers'},0,-2,0,0,0,0,0,14,0,0,9:27,PHI,0,2025
+2025020323,NJD,R,2025-11-20,0,0,{'default': 'Devils'},{'default': 'Panthers'},0,0,0,0,0,0,0,13,0,0,8:20,FLA,0,2025
+2025020309,NJD,R,2025-11-18,0,0,{'default': 'Devils'},{'default': 'Lightning'},0,0,0,0,0,0,0,16,0,0,11:49,TBL,0,2025
+2025020288,NJD,R,2025-11-15,0,0,{'default': 'Devils'},{'default': 'Capitals'},0,0,0,0,0,0,1,18,0,0,12:06,WSH,0,2025
+2025020231,NJD,H,2025-11-08,0,0,{'default': 'Devils'},{'default': 'Penguins'},0,1,0,0,0,0,1,13,0,0,11:39,PIT,0,2025
+2025020220,NJD,H,2025-11-06,0,0,{'default': 'Devils'},{'default': 'Canadiens'},0,0,0,0,0,0,1,13,0,0,7:49,MTL,0,2025
+2025020197,NJD,R,2025-11-02,0,0,{'default': 'Devils'},{'default': 'Ducks'},0,0,0,0,0,0,1,15,0,0,11:22,ANA,0,2025
+2025020191,NJD,R,2025-11-01,0,0,{'default': 'Devils'},{'default': 'Kings'},0,0,0,0,0,0,2,12,0,0,7:22,LAK,0,2025
+2025020176,NJD,R,2025-10-30,0,0,{'default': 'Devils'},{'default': 'Sharks'},0,-1,0,0,0,0,1,17,0,0,12:48,SJS,0,2025
+2025020161,NJD,R,2025-10-28,0,0,{'default': 'Devils'},{'default': 'Avalanche'},0,0,0,0,0,0,1,17,0,0,11:08,COL,0,2025

@@ -1,16 +1,16 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020340,PIT,H,2025-11-22,0,0,{'default': 'Penguins'},{'default': 'Kraken'},0,-2,0,0,0,0,0,14,0,0,SEA,0,11:50,2025
-2025020332,PIT,H,2025-11-21,0,0,{'default': 'Penguins'},{'default': 'Wild'},0,0,0,0,0,0,1,16,0,0,MIN,0,15:48,2025
-2024021311,PIT,H,2025-04-17,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,1,14,0,0,WSH,0,9:56,2024
-2024020326,PIT,H,2024-11-23,0,0,{'default': 'Penguins'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",0,-1,0,0,0,0,1,11,0,0,UTA,0,9:05,2024
-2024020316,PIT,H,2024-11-22,0,0,{'default': 'Penguins'},{'default': 'Jets'},0,0,0,0,0,0,0,16,0,0,WPG,0,10:32,2024
-2024020295,PIT,H,2024-11-19,0,1,{'default': 'Penguins'},{'default': 'Lightning'},1,1,0,0,0,0,0,12,0,0,TBL,0,9:49,2024
-2024020279,PIT,H,2024-11-16,0,0,{'default': 'Penguins'},{'default': 'Sharks'},0,1,0,0,0,0,0,16,0,0,SJS,0,11:43,2024
-2024020267,PIT,R,2024-11-15,0,0,{'default': 'Penguins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,12,0,0,CBJ,0,9:22,2024
-2024020252,PIT,H,2024-11-13,0,0,{'default': 'Penguins'},{'default': 'Red Wings'},0,0,0,0,0,0,0,14,0,0,DET,2,10:04,2024
-2023021171,PIT,R,2024-03-30,0,0,{'default': 'Penguins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,8,0,0,CBJ,0,5:10,2023
-2023021154,PIT,H,2024-03-28,0,0,{'default': 'Penguins'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,2,14,0,0,CBJ,2,9:01,2023
-2023021138,PIT,H,2024-03-26,0,0,{'default': 'Penguins'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,12,0,0,CAR,0,9:11,2023
-2022020183,PIT,H,2022-11-05,0,0,{'default': 'Penguins'},{'default': 'Kraken'},0,-1,0,0,0,0,0,9,0,0,SEA,0,6:18,2022
-2022020125,PIT,R,2022-10-28,0,0,{'default': 'Penguins'},{'default': 'Canucks'},0,0,0,0,0,0,0,16,0,0,VAN,0,11:19,2022
-2022020104,PIT,R,2022-10-25,0,1,{'default': 'Penguins'},{'default': 'Flames'},1,-2,0,1,0,0,2,15,0,0,CGY,2,12:17,2022
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020340,PIT,H,2025-11-22,0,0,{'default': 'Penguins'},{'default': 'Kraken'},0,-2,0,0,0,0,0,14,0,0,11:50,SEA,0,2025
+2025020332,PIT,H,2025-11-21,0,0,{'default': 'Penguins'},{'default': 'Wild'},0,0,0,0,0,0,1,16,0,0,15:48,MIN,0,2025
+2024021311,PIT,H,2025-04-17,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,1,14,0,0,9:56,WSH,0,2024
+2024020326,PIT,H,2024-11-23,0,0,{'default': 'Penguins'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",0,-1,0,0,0,0,1,11,0,0,9:05,UTA,0,2024
+2024020316,PIT,H,2024-11-22,0,0,{'default': 'Penguins'},{'default': 'Jets'},0,0,0,0,0,0,0,16,0,0,10:32,WPG,0,2024
+2024020295,PIT,H,2024-11-19,0,1,{'default': 'Penguins'},{'default': 'Lightning'},1,1,0,0,0,0,0,12,0,0,9:49,TBL,0,2024
+2024020279,PIT,H,2024-11-16,0,0,{'default': 'Penguins'},{'default': 'Sharks'},0,1,0,0,0,0,0,16,0,0,11:43,SJS,0,2024
+2024020267,PIT,R,2024-11-15,0,0,{'default': 'Penguins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,12,0,0,9:22,CBJ,0,2024
+2024020252,PIT,H,2024-11-13,0,0,{'default': 'Penguins'},{'default': 'Red Wings'},0,0,0,0,0,0,0,14,0,0,10:04,DET,2,2024
+2023021171,PIT,R,2024-03-30,0,0,{'default': 'Penguins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,8,0,0,5:10,CBJ,0,2023
+2023021154,PIT,H,2024-03-28,0,0,{'default': 'Penguins'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,2,14,0,0,9:01,CBJ,2,2023
+2023021138,PIT,H,2024-03-26,0,0,{'default': 'Penguins'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,12,0,0,9:11,CAR,0,2023
+2022020183,PIT,H,2022-11-05,0,0,{'default': 'Penguins'},{'default': 'Kraken'},0,-1,0,0,0,0,0,9,0,0,6:18,SEA,0,2022
+2022020125,PIT,R,2022-10-28,0,0,{'default': 'Penguins'},{'default': 'Canucks'},0,0,0,0,0,0,0,16,0,0,11:19,VAN,0,2022
+2022020104,PIT,R,2022-10-25,0,1,{'default': 'Penguins'},{'default': 'Flames'},1,-2,0,1,0,0,2,15,0,0,12:17,CGY,2,2022
