@@ -1,22 +1,22 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020684,DET,H,2026-01-08,0,0,{'default': 'Red Wings'},{'default': 'Canucks'},0,0,0,0,0,0,0,14,0,0,VAN,0,11:17,2025
-2025020664,DET,R,2026-01-05,0,0,{'default': 'Red Wings'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,1,15,0,0,OTT,0,11:03,2025
-2025020601,DET,H,2025-12-28,0,0,{'default': 'Red Wings'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,12,0,0,TOR,0,7:31,2025
-2025020593,DET,R,2025-12-27,0,1,{'default': 'Red Wings'},{'default': 'Hurricanes'},1,-1,0,1,0,0,0,18,0,0,CAR,0,12:40,2025
-2025020579,DET,H,2025-12-23,0,0,{'default': 'Red Wings'},{'default': 'Stars'},0,-1,0,0,0,0,2,18,0,0,DAL,0,13:33,2025
-2025020562,DET,H,2025-12-21,1,0,{'default': 'Red Wings'},{'default': 'Capitals'},1,-1,0,0,0,0,2,21,0,0,WSH,0,14:00,2025
-2025020550,DET,R,2025-12-20,1,0,{'default': 'Red Wings'},{'default': 'Capitals'},1,1,0,0,0,0,1,19,0,0,WSH,0,12:57,2025
-2025020530,DET,H,2025-12-17,0,1,{'default': 'Red Wings'},{'default': 'Mammoth'},1,0,0,1,0,0,0,17,0,0,UTA,0,12:08,2025
-2025020522,DET,H,2025-12-16,0,0,{'default': 'Red Wings'},{'default': 'Islanders'},0,0,0,0,0,0,2,19,0,0,NYI,0,13:02,2025
-2023021130,ARI,H,2024-03-24,0,0,{'default': 'Coyotes'},{'default': 'Stars'},0,0,0,0,0,0,0,7,0,0,DAL,0,4:57,2023
-2023021112,ARI,H,2024-03-22,0,0,{'default': 'Coyotes'},{'default': 'Kraken'},0,0,0,0,0,0,0,8,0,0,SEA,0,6:54,2023
-2023021096,ARI,R,2024-03-20,1,0,{'default': 'Coyotes'},{'default': 'Stars'},1,0,0,0,0,0,1,15,0,0,DAL,0,10:19,2023
-2023021062,ARI,H,2024-03-16,0,0,{'default': 'Coyotes'},{'default': 'Devils'},0,0,0,0,0,0,1,11,0,0,NJD,0,7:08,2023
-2023021048,ARI,R,2024-03-14,0,0,{'default': 'Coyotes'},{'default': 'Red Wings'},0,0,0,0,0,0,2,12,0,0,DET,0,6:32,2023
-2023021037,ARI,R,2024-03-12,0,0,{'default': 'Coyotes'},{'default': 'Wild'},0,-1,0,0,0,0,1,9,0,0,MIN,0,5:22,2023
-2022021235,NSH,H,2023-04-04,0,0,{'default': 'Predators'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,13,0,0,VGK,0,9:43,2022
-2022021227,NSH,R,2023-04-03,0,0,{'default': 'Predators'},{'default': 'Stars'},0,-1,0,0,0,0,1,15,0,0,DAL,2,9:28,2022
-2022021034,NSH,R,2023-03-09,0,0,{'default': 'Predators'},{'default': 'Coyotes'},0,0,0,0,0,0,1,10,0,0,ARI,0,7:25,2022
-2022021010,NSH,R,2023-03-06,0,0,{'default': 'Predators'},{'default': 'Canucks'},0,0,0,0,0,0,0,17,0,0,VAN,0,13:23,2022
-2022020998,NSH,R,2023-03-04,0,0,{'default': 'Predators'},{'default': 'Blackhawks'},0,0,0,0,0,0,0,17,0,0,CHI,0,14:38,2022
-2022020975,NSH,R,2023-03-02,1,0,{'default': 'Predators'},{'default': 'Panthers'},1,1,0,0,1,0,1,19,0,0,FLA,0,14:37,2022
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020684,DET,H,2026-01-08,0,0,{'default': 'Red Wings'},{'default': 'Canucks'},0,0,0,0,0,0,0,14,0,0,11:17,VAN,0,2025
+2025020664,DET,R,2026-01-05,0,0,{'default': 'Red Wings'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,1,15,0,0,11:03,OTT,0,2025
+2025020601,DET,H,2025-12-28,0,0,{'default': 'Red Wings'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,12,0,0,7:31,TOR,0,2025
+2025020593,DET,R,2025-12-27,0,1,{'default': 'Red Wings'},{'default': 'Hurricanes'},1,-1,0,1,0,0,0,18,0,0,12:40,CAR,0,2025
+2025020579,DET,H,2025-12-23,0,0,{'default': 'Red Wings'},{'default': 'Stars'},0,-1,0,0,0,0,2,18,0,0,13:33,DAL,0,2025
+2025020562,DET,H,2025-12-21,1,0,{'default': 'Red Wings'},{'default': 'Capitals'},1,-1,0,0,0,0,2,21,0,0,14:00,WSH,0,2025
+2025020550,DET,R,2025-12-20,1,0,{'default': 'Red Wings'},{'default': 'Capitals'},1,1,0,0,0,0,1,19,0,0,12:57,WSH,0,2025
+2025020530,DET,H,2025-12-17,0,1,{'default': 'Red Wings'},{'default': 'Mammoth'},1,0,0,1,0,0,0,17,0,0,12:08,UTA,0,2025
+2025020522,DET,H,2025-12-16,0,0,{'default': 'Red Wings'},{'default': 'Islanders'},0,0,0,0,0,0,2,19,0,0,13:02,NYI,0,2025
+2023021130,ARI,H,2024-03-24,0,0,{'default': 'Coyotes'},{'default': 'Stars'},0,0,0,0,0,0,0,7,0,0,4:57,DAL,0,2023
+2023021112,ARI,H,2024-03-22,0,0,{'default': 'Coyotes'},{'default': 'Kraken'},0,0,0,0,0,0,0,8,0,0,6:54,SEA,0,2023
+2023021096,ARI,R,2024-03-20,1,0,{'default': 'Coyotes'},{'default': 'Stars'},1,0,0,0,0,0,1,15,0,0,10:19,DAL,0,2023
+2023021062,ARI,H,2024-03-16,0,0,{'default': 'Coyotes'},{'default': 'Devils'},0,0,0,0,0,0,1,11,0,0,7:08,NJD,0,2023
+2023021048,ARI,R,2024-03-14,0,0,{'default': 'Coyotes'},{'default': 'Red Wings'},0,0,0,0,0,0,2,12,0,0,6:32,DET,0,2023
+2023021037,ARI,R,2024-03-12,0,0,{'default': 'Coyotes'},{'default': 'Wild'},0,-1,0,0,0,0,1,9,0,0,5:22,MIN,0,2023
+2022021235,NSH,H,2023-04-04,0,0,{'default': 'Predators'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,13,0,0,9:43,VGK,0,2022
+2022021227,NSH,R,2023-04-03,0,0,{'default': 'Predators'},{'default': 'Stars'},0,-1,0,0,0,0,1,15,0,0,9:28,DAL,2,2022
+2022021034,NSH,R,2023-03-09,0,0,{'default': 'Predators'},{'default': 'Coyotes'},0,0,0,0,0,0,1,10,0,0,7:25,ARI,0,2022
+2022021010,NSH,R,2023-03-06,0,0,{'default': 'Predators'},{'default': 'Canucks'},0,0,0,0,0,0,0,17,0,0,13:23,VAN,0,2022
+2022020998,NSH,R,2023-03-04,0,0,{'default': 'Predators'},{'default': 'Blackhawks'},0,0,0,0,0,0,0,17,0,0,14:38,CHI,0,2022
+2022020975,NSH,R,2023-03-02,1,0,{'default': 'Predators'},{'default': 'Panthers'},1,1,0,0,1,0,1,19,0,0,14:37,FLA,0,2022

@@ -1,9 +1,9 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
-2025020766,LAK,R,2026-01-17,0,0,{'default': 'Kings'},{'default': 'Ducks'},0,0,0,0,0,0,1,17,0,0,12:41,ANA,0,2025
-2025020753,LAK,H,2026-01-16,0,0,{'default': 'Kings'},{'default': 'Ducks'},0,-1,0,0,0,0,0,14,0,0,11:02,ANA,0,2025
-2025020738,LAK,H,2026-01-14,0,0,{'default': 'Kings'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,18,0,0,14:31,VGK,0,2025
-2025020724,LAK,H,2026-01-12,0,0,{'default': 'Kings'},{'default': 'Stars'},0,0,0,0,0,0,0,14,0,0,9:35,DAL,0,2025
-2025020709,LAK,R,2026-01-10,0,1,{'default': 'Kings'},{'default': 'Oilers'},1,1,0,0,0,0,1,13,0,0,8:49,EDM,0,2025
-2025020695,LAK,R,2026-01-09,0,1,{'default': 'Kings'},{'default': 'Jets'},1,1,0,0,0,0,0,20,0,0,15:30,WPG,0,2025
-2025020681,LAK,H,2026-01-07,0,0,{'default': 'Kings'},{'default': 'Sharks'},0,1,0,0,0,0,1,17,0,0,10:20,SJS,0,2025
-2024020653,LAK,H,2025-04-17,1,0,{'default': 'Kings'},{'default': 'Flames'},1,0,1,1,0,0,4,19,0,0,14:52,CGY,0,2024
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+2025020766,LAK,R,2026-01-17,0,0,{'default': 'Kings'},{'default': 'Ducks'},0,0,0,0,0,0,1,17,0,0,ANA,0,12:41,2025
+2025020753,LAK,H,2026-01-16,0,0,{'default': 'Kings'},{'default': 'Ducks'},0,-1,0,0,0,0,0,14,0,0,ANA,0,11:02,2025
+2025020738,LAK,H,2026-01-14,0,0,{'default': 'Kings'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,18,0,0,VGK,0,14:31,2025
+2025020724,LAK,H,2026-01-12,0,0,{'default': 'Kings'},{'default': 'Stars'},0,0,0,0,0,0,0,14,0,0,DAL,0,9:35,2025
+2025020709,LAK,R,2026-01-10,0,1,{'default': 'Kings'},{'default': 'Oilers'},1,1,0,0,0,0,1,13,0,0,EDM,0,8:49,2025
+2025020695,LAK,R,2026-01-09,0,1,{'default': 'Kings'},{'default': 'Jets'},1,1,0,0,0,0,0,20,0,0,WPG,0,15:30,2025
+2025020681,LAK,H,2026-01-07,0,0,{'default': 'Kings'},{'default': 'Sharks'},0,1,0,0,0,0,1,17,0,0,SJS,0,10:20,2025
+2024020653,LAK,H,2025-04-17,1,0,{'default': 'Kings'},{'default': 'Flames'},1,0,1,1,0,0,4,19,0,0,CGY,0,14:52,2024
