@@ -1,236 +1,236 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020601,TOR,R,2025-12-28,0,0,{'default': 'Maple Leafs'},{'default': 'Red Wings'},0,0,0,0,0,0,2,16,0,0,DET,0,12:23,2025
-2025020590,TOR,H,2025-12-27,0,0,{'default': 'Maple Leafs'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,20,0,0,OTT,0,13:09,2025
-2025020575,TOR,H,2025-12-23,0,0,{'default': 'Maple Leafs'},{'default': 'Penguins'},0,1,0,0,0,0,0,17,0,0,PIT,0,12:33,2025
-2025020568,TOR,R,2025-12-21,0,0,{'default': 'Maple Leafs'},{'default': 'Stars'},0,-2,0,0,0,0,0,14,0,0,DAL,0,10:21,2025
-2025020558,TOR,R,2025-12-20,0,0,{'default': 'Maple Leafs'},{'default': 'Predators'},0,0,0,0,0,0,2,15,0,0,NSH,0,10:35,2025
-2025020539,TOR,R,2025-12-18,0,0,{'default': 'Maple Leafs'},{'default': 'Capitals'},0,0,0,0,0,0,0,16,0,0,WSH,0,10:30,2025
-2025020520,TOR,H,2025-12-16,1,0,{'default': 'Maple Leafs'},{'default': 'Blackhawks'},1,1,0,0,1,0,3,17,0,0,CHI,2,13:14,2025
-2025020480,TOR,H,2025-12-11,1,0,{'default': 'Maple Leafs'},{'default': 'Sharks'},1,0,0,0,0,0,2,21,0,0,SJS,2,15:03,2025
-2025020461,TOR,H,2025-12-08,0,0,{'default': 'Maple Leafs'},{'default': 'Lightning'},0,0,0,0,0,0,0,13,0,0,TBL,5,8:11,2025
-2025020444,TOR,H,2025-12-06,0,0,{'default': 'Maple Leafs'},{'default': 'Canadiens'},0,0,0,0,0,0,1,19,0,0,MTL,0,15:12,2025
-2025020431,TOR,R,2025-12-04,0,0,{'default': 'Maple Leafs'},{'default': 'Hurricanes'},0,1,0,0,0,0,0,18,0,0,CAR,0,13:27,2025
-2025020413,TOR,R,2025-12-02,1,1,{'default': 'Maple Leafs'},{'default': 'Panthers'},2,2,0,0,1,0,1,19,0,0,FLA,2,11:07,2025
-2025020396,TOR,R,2025-11-29,1,0,{'default': 'Maple Leafs'},{'default': 'Penguins'},1,2,0,0,0,0,2,18,0,0,PIT,0,12:51,2025
-2025020386,TOR,R,2025-11-28,0,0,{'default': 'Maple Leafs'},{'default': 'Capitals'},0,1,0,0,0,0,0,18,0,0,WSH,0,13:19,2025
-2025020337,TOR,R,2025-11-22,0,0,{'default': 'Maple Leafs'},{'default': 'Canadiens'},0,-2,0,0,0,0,1,19,0,0,MTL,10,14:11,2025
-2025020319,TOR,H,2025-11-20,0,0,{'default': 'Maple Leafs'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,14,0,0,CBJ,0,9:25,2025
-2025020307,TOR,H,2025-11-18,0,0,{'default': 'Maple Leafs'},{'default': 'Blues'},0,1,0,0,0,0,0,21,0,0,STL,0,14:08,2025
-2025020291,TOR,R,2025-11-15,0,0,{'default': 'Maple Leafs'},{'default': 'Blackhawks'},0,0,0,0,0,0,2,16,0,0,CHI,0,11:55,2025
-2025020269,TOR,H,2025-11-13,0,0,{'default': 'Maple Leafs'},{'default': 'Kings'},0,0,0,0,0,0,0,19,0,0,LAK,0,12:56,2025
-2025020256,TOR,R,2025-11-11,0,0,{'default': 'Maple Leafs'},{'default': 'Bruins'},0,-1,0,0,0,0,0,18,0,0,BOS,2,11:26,2025
-2025020246,TOR,H,2025-11-09,0,0,{'default': 'Maple Leafs'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,19,0,0,CAR,0,12:13,2025
-2025020234,TOR,H,2025-11-08,0,0,{'default': 'Maple Leafs'},{'default': 'Bruins'},0,-2,0,0,0,0,2,21,0,0,BOS,0,13:57,2025
-2025020213,TOR,H,2025-11-05,0,1,{'default': 'Maple Leafs'},{'default': 'Mammoth'},1,1,0,0,0,0,0,20,0,0,UTA,0,13:51,2025
-2025020199,TOR,H,2025-11-03,0,0,{'default': 'Maple Leafs'},{'default': 'Penguins'},0,0,0,0,0,0,1,15,0,0,PIT,0,12:11,2025
-2025020188,TOR,R,2025-11-01,0,1,{'default': 'Maple Leafs'},{'default': 'Flyers'},1,2,0,0,0,0,0,21,0,0,PHI,0,14:28,2025
-2025020166,TOR,R,2025-10-29,0,0,{'default': 'Maple Leafs'},{'default': 'Blue Jackets'},0,0,0,0,0,0,2,19,0,0,CBJ,0,15:46,2025
-2025020151,TOR,H,2025-10-28,0,0,{'default': 'Maple Leafs'},{'default': 'Flames'},0,-1,0,0,0,0,1,16,0,0,CGY,0,10:16,2025
-2025020132,TOR,H,2025-10-25,1,0,{'default': 'Maple Leafs'},{'default': 'Sabres'},1,0,0,0,0,0,1,19,0,0,BUF,0,12:55,2025
-2025020123,TOR,R,2025-10-24,1,0,{'default': 'Maple Leafs'},{'default': 'Sabres'},1,0,0,0,0,0,2,20,0,0,BUF,0,12:36,2025
-2025020098,TOR,H,2025-10-21,0,0,{'default': 'Maple Leafs'},{'default': 'Devils'},0,-1,0,0,0,0,1,19,0,0,NJD,0,11:54,2025
-2025020079,TOR,H,2025-10-18,0,0,{'default': 'Maple Leafs'},{'default': 'Kraken'},0,0,0,0,0,0,1,20,0,0,SEA,0,13:49,2025
-2025020061,TOR,H,2025-10-16,0,0,{'default': 'Maple Leafs'},{'default': 'Rangers'},0,-1,0,0,0,0,0,16,0,0,NYR,2,9:15,2025
-2025020049,TOR,H,2025-10-14,0,1,{'default': 'Maple Leafs'},{'default': 'Predators'},1,-1,0,0,0,0,1,16,0,0,NSH,0,11:28,2025
-2025020043,TOR,H,2025-10-13,0,0,{'default': 'Maple Leafs'},{'default': 'Red Wings'},0,0,0,0,0,0,1,15,0,0,DET,0,9:18,2025
-2025020025,TOR,R,2025-10-11,0,0,{'default': 'Maple Leafs'},{'default': 'Red Wings'},0,-2,0,0,0,0,2,18,0,0,DET,0,11:22,2025
-2025020004,TOR,H,2025-10-08,0,0,{'default': 'Maple Leafs'},{'default': 'Canadiens'},0,-1,0,0,0,0,1,17,0,0,MTL,0,12:18,2025
-2024021305,VAN,H,2025-04-16,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,0,19,0,0,VGK,0,13:50,2024
-2024021290,VAN,H,2025-04-14,0,0,{'default': 'Canucks'},{'default': 'Sharks'},0,0,0,0,0,0,0,18,0,0,SJS,0,11:08,2024
-2024021273,VAN,H,2025-04-12,0,0,{'default': 'Canucks'},{'default': 'Wild'},0,0,0,0,0,0,0,19,0,0,MIN,0,13:18,2024
-2024021256,VAN,R,2025-04-10,1,1,{'default': 'Canucks'},{'default': 'Avalanche'},2,2,0,0,0,0,2,20,0,0,COL,0,12:18,2024
-2024021242,VAN,R,2025-04-08,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,0,0,0,0,0,3,19,0,0,DAL,0,12:56,2024
-2024021229,VAN,H,2025-04-06,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,2,18,0,0,VGK,0,11:07,2024
-2024021212,VAN,H,2025-04-05,1,0,{'default': 'Canucks'},{'default': 'Ducks'},1,0,0,0,0,0,4,21,0,0,ANA,0,14:34,2024
-2024021196,VAN,H,2025-04-02,0,0,{'default': 'Canucks'},{'default': 'Kraken'},0,-2,0,0,0,0,2,18,0,0,SEA,12,10:11,2024
-2024021172,VAN,R,2025-03-30,0,0,{'default': 'Canucks'},{'default': 'Jets'},0,0,0,0,0,0,1,24,0,0,WPG,0,16:04,2024
-2024021155,VAN,R,2025-03-28,0,2,{'default': 'Canucks'},{'default': 'Blue Jackets'},2,1,0,0,0,0,0,25,0,0,CBJ,0,12:58,2024
-2024021139,VAN,R,2025-03-26,0,0,{'default': 'Canucks'},{'default': 'Islanders'},0,1,0,0,0,0,1,18,0,0,NYI,0,12:41,2024
-2024021125,VAN,R,2025-03-24,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,-2,0,0,0,0,1,16,0,0,NJD,0,11:02,2024
-2024021104,VAN,R,2025-03-22,1,0,{'default': 'Canucks'},{'default': 'Rangers'},1,0,0,0,0,0,3,19,0,0,NYR,0,13:19,2024
-2024021095,VAN,R,2025-03-20,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,1,17,0,0,STL,0,12:41,2024
-2024021086,VAN,H,2025-03-18,0,0,{'default': 'Canucks'},{'default': 'Jets'},0,0,0,0,0,0,0,18,0,0,WPG,0,11:16,2024
-2024021071,VAN,H,2025-03-16,0,0,{'default': 'Canucks'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",0,-1,0,0,0,0,1,23,0,0,UTA,2,14:56,2024
-2024021065,VAN,H,2025-03-15,0,1,{'default': 'Canucks'},{'default': 'Blackhawks'},1,1,0,0,0,0,1,20,0,0,CHI,0,11:08,2024
-2024021037,VAN,R,2025-03-12,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,0,0,0,0,0,2,19,0,0,CGY,0,11:42,2024
-2024021032,VAN,H,2025-03-11,0,0,{'default': 'Canucks'},{'default': 'Canadiens'},0,0,0,0,0,0,1,20,0,0,MTL,0,12:59,2024
-2024021019,VAN,H,2025-03-09,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,-2,0,0,0,0,2,18,0,0,DAL,2,11:35,2024
-2024021000,VAN,H,2025-03-07,0,0,{'default': 'Canucks'},{'default': 'Wild'},0,0,0,0,0,0,0,17,0,0,MIN,0,12:52,2024
-2024020986,VAN,H,2025-03-05,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,4,18,0,0,ANA,0,11:38,2024
-2024020960,VAN,R,2025-03-01,1,0,{'default': 'Canucks'},{'default': 'Kraken'},1,-1,0,0,0,0,3,21,1,1,SEA,0,16:00,2024
-2024020944,VAN,R,2025-02-27,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,0,21,0,0,ANA,0,15:45,2024
-2024020932,VAN,R,2025-02-26,0,1,{'default': 'Canucks'},{'default': 'Kings'},1,0,0,1,0,0,0,23,0,0,LAK,0,15:51,2024
-2024020915,VAN,R,2025-02-23,0,0,{'default': 'Canucks'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",0,0,0,0,0,0,0,18,0,0,UTA,0,15:22,2024
-2024020905,VAN,R,2025-02-22,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,2,20,0,0,VGK,0,13:53,2024
-2024020884,VAN,H,2025-02-08,0,0,{'default': 'Canucks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,20,0,0,TOR,0,15:50,2024
-2024020870,VAN,R,2025-02-06,1,0,{'default': 'Canucks'},{'default': 'Sharks'},1,0,1,1,0,0,2,19,0,0,SJS,0,14:56,2024
-2024020855,VAN,H,2025-02-04,0,0,{'default': 'Canucks'},{'default': 'Avalanche'},0,0,0,0,0,0,2,23,0,0,COL,0,14:20,2024
-2024020842,VAN,H,2025-02-02,0,0,{'default': 'Canucks'},{'default': 'Red Wings'},0,0,0,0,0,0,0,23,0,0,DET,0,17:31,2024
-2024020823,VAN,R,2025-01-31,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,-1,0,0,0,0,1,21,0,0,DAL,0,14:56,2024
-2024020810,VAN,R,2025-01-29,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,0,0,0,0,0,0,20,0,0,NSH,2,11:48,2024
-2024020619,VAN,H,2025-01-03,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,0,0,0,0,0,0,16,0,0,NSH,5,10:23,2024
-2024020613,VAN,R,2025-01-02,0,0,{'default': 'Canucks'},{'default': 'Kraken'},0,-1,0,0,0,0,2,22,0,0,SEA,2,14:23,2024
-2024020600,VAN,R,2024-12-31,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,-1,0,0,0,0,0,20,0,0,CGY,0,11:59,2024
-2024020567,VAN,H,2024-12-28,0,0,{'default': 'Canucks'},{'default': 'Kraken'},0,-1,0,0,0,0,3,20,0,0,SEA,0,12:41,2024
-2024020555,VAN,H,2024-12-23,0,0,{'default': 'Canucks'},{'default': 'Sharks'},0,-1,0,0,0,0,0,17,0,0,SJS,0,12:11,2024
-2024020537,VAN,H,2024-12-21,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,15,0,0,OTT,0,9:22,2024
-2024020519,VAN,R,2024-12-19,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,0,19,0,0,VGK,0,12:04,2024
-2024020510,VAN,R,2024-12-18,1,0,{'default': 'Canucks'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",1,0,0,0,0,0,1,15,0,0,UTA,0,10:18,2024
-2024020496,VAN,H,2024-12-16,0,0,{'default': 'Canucks'},{'default': 'Avalanche'},0,0,0,0,0,0,0,14,0,0,COL,0,8:52,2024
-2024020486,VAN,H,2024-12-14,0,0,{'default': 'Canucks'},{'default': 'Bruins'},0,0,0,0,0,0,0,15,0,0,BOS,0,10:23,2024
-2024020471,VAN,H,2024-12-12,0,0,{'default': 'Canucks'},{'default': 'Panthers'},0,0,0,0,0,0,0,18,0,0,FLA,0,10:58,2024
-2024020455,VAN,H,2024-12-10,1,0,{'default': 'Canucks'},{'default': 'Blues'},1,1,0,0,0,0,1,21,0,0,STL,0,14:41,2024
-2024020437,VAN,H,2024-12-08,0,0,{'default': 'Canucks'},{'default': 'Lightning'},0,1,0,0,0,0,0,19,0,0,TBL,0,13:02,2024
-2024020422,VAN,H,2024-12-06,0,0,{'default': 'Canucks'},{'default': 'Blue Jackets'},0,1,0,0,0,0,1,22,0,0,CBJ,2,13:19,2024
-2024020402,VAN,R,2024-12-03,0,0,{'default': 'Canucks'},{'default': 'Wild'},0,0,0,0,0,0,0,21,0,0,MIN,0,15:22,2024
-2024020388,VAN,R,2024-12-01,0,1,{'default': 'Canucks'},{'default': 'Red Wings'},1,1,0,0,0,0,0,19,0,0,DET,0,13:52,2024
-2024020364,VAN,R,2024-11-29,0,0,{'default': 'Canucks'},{'default': 'Sabres'},0,-2,0,0,0,0,0,19,0,0,BUF,0,11:07,2024
-2024020354,VAN,R,2024-11-27,0,0,{'default': 'Canucks'},{'default': 'Penguins'},0,-1,0,0,0,0,0,21,0,0,PIT,0,14:10,2024
-2024020345,VAN,R,2024-11-26,0,0,{'default': 'Canucks'},{'default': 'Bruins'},0,1,0,0,0,0,0,23,0,0,BOS,2,13:24,2024
-2024020323,VAN,R,2024-11-23,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,2,21,0,0,OTT,5,13:22,2024
-2024020300,VAN,H,2024-11-19,0,1,{'default': 'Canucks'},{'default': 'Rangers'},1,0,0,0,0,0,0,22,0,0,NYR,2,13:24,2024
-2024020285,VAN,H,2024-11-17,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,-2,0,0,0,0,0,21,0,0,NSH,0,13:30,2024
-2024020283,VAN,H,2024-11-16,0,0,{'default': 'Canucks'},{'default': 'Blackhawks'},0,0,0,0,0,0,0,17,0,0,CHI,0,11:29,2024
-2024020265,VAN,H,2024-11-14,0,0,{'default': 'Canucks'},{'default': 'Islanders'},0,-1,0,0,0,0,0,20,0,0,NYI,2,12:05,2024
-2023021308,VAN,R,2024-04-18,0,0,{'default': 'Canucks'},{'default': 'Jets'},0,0,0,0,0,0,2,24,0,0,WPG,0,16:35,2023
-2023021302,VAN,H,2024-04-16,1,0,{'default': 'Canucks'},{'default': 'Flames'},1,1,0,0,0,0,2,20,0,0,CGY,2,15:36,2023
-2023021280,VAN,R,2024-04-13,1,0,{'default': 'Canucks'},{'default': 'Oilers'},1,1,0,0,0,0,2,24,0,0,EDM,0,15:08,2023
-2023021254,VAN,H,2024-04-10,0,0,{'default': 'Canucks'},{'default': 'Coyotes'},0,-1,0,0,0,0,0,24,0,0,ARI,0,16:58,2023
-2023021238,VAN,H,2024-04-08,0,1,{'default': 'Canucks'},{'default': 'Golden Knights'},1,1,0,0,0,0,2,25,0,0,VGK,0,18:08,2023
-2023021227,VAN,R,2024-04-06,1,0,{'default': 'Canucks'},{'default': 'Kings'},1,2,0,0,0,0,2,17,0,0,LAK,12,11:24,2023
-2023021200,VAN,R,2024-04-03,0,0,{'default': 'Canucks'},{'default': 'Coyotes'},0,0,0,0,0,0,2,30,0,0,ARI,0,19:39,2023
-2023021196,VAN,R,2024-04-02,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,0,25,0,0,VGK,0,14:56,2023
-2023021180,VAN,H,2024-03-31,2,0,{'default': 'Canucks'},{'default': 'Ducks'},2,0,1,1,1,0,2,22,0,0,ANA,0,17:50,2023
-2023021163,VAN,H,2024-03-28,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,0,0,0,0,0,1,25,0,0,DAL,0,15:47,2023
-2023020832,VAN,R,2024-02-13,1,2,{'default': 'Canucks'},{'default': 'Blackhawks'},3,2,0,0,0,0,2,22,0,0,CHI,5,12:27,2023
-2023020818,VAN,R,2024-02-11,0,0,{'default': 'Canucks'},{'default': 'Capitals'},0,0,0,0,0,0,2,24,0,0,WSH,0,18:28,2023
-2023020805,VAN,R,2024-02-10,0,0,{'default': 'Canucks'},{'default': 'Red Wings'},0,0,0,0,0,0,1,23,0,0,DET,2,16:46,2023
-2023020794,VAN,R,2024-02-08,0,0,{'default': 'Canucks'},{'default': 'Bruins'},0,0,0,0,0,0,4,24,0,0,BOS,0,14:06,2023
-2023020785,VAN,R,2024-02-06,0,0,{'default': 'Canucks'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,22,0,0,CAR,0,14:37,2023
-2023020772,VAN,H,2024-01-27,0,0,{'default': 'Canucks'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,1,21,0,0,CBJ,0,15:12,2023
-2023020744,VAN,H,2024-01-24,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,1,21,0,0,STL,0,14:45,2023
-2023020728,VAN,H,2024-01-22,0,0,{'default': 'Canucks'},{'default': 'Blackhawks'},0,0,0,0,0,0,4,20,0,0,CHI,0,18:10,2023
-2023020712,VAN,H,2024-01-20,0,1,{'default': 'Canucks'},{'default': 'Maple Leafs'},1,1,0,0,0,0,0,23,0,0,TOR,0,16:37,2023
-2023020700,VAN,H,2024-01-18,1,0,{'default': 'Canucks'},{'default': 'Coyotes'},1,1,0,0,1,0,2,23,0,0,ARI,0,14:19,2023
-2023020673,VAN,R,2024-01-15,0,1,{'default': 'Canucks'},{'default': 'Blue Jackets'},1,0,0,0,0,0,2,25,0,0,CBJ,0,15:09,2023
-2023020654,VAN,R,2024-01-13,0,0,{'default': 'Canucks'},{'default': 'Sabres'},0,0,0,0,0,0,2,23,0,0,BUF,2,14:18,2023
-2023020643,VAN,R,2024-01-11,0,0,{'default': 'Canucks'},{'default': 'Penguins'},0,-1,0,0,0,0,1,27,0,0,PIT,0,15:07,2023
-2023020628,VAN,R,2024-01-09,1,0,{'default': 'Canucks'},{'default': 'Islanders'},1,2,0,0,0,0,1,22,0,0,NYI,0,13:40,2023
-2023020621,VAN,R,2024-01-08,0,0,{'default': 'Canucks'},{'default': 'Rangers'},0,-1,0,0,0,0,1,25,0,0,NYR,0,16:02,2023
-2023020611,VAN,R,2024-01-06,1,1,{'default': 'Canucks'},{'default': 'Devils'},2,1,0,0,0,0,5,24,0,0,NJD,2,13:24,2023
-2023020596,VAN,R,2024-01-04,0,1,{'default': 'Canucks'},{'default': 'Blues'},1,0,0,0,0,0,1,20,0,0,STL,0,13:47,2023
-2023020584,VAN,H,2024-01-02,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,1,25,0,0,OTT,0,18:05,2023
-2023020543,VAN,H,2023-12-28,0,1,{'default': 'Canucks'},{'default': 'Flyers'},1,1,0,0,0,0,0,20,0,0,PHI,0,11:44,2023
-2023020527,VAN,H,2023-12-23,1,0,{'default': 'Canucks'},{'default': 'Sharks'},1,2,0,0,1,0,1,21,0,0,SJS,2,16:09,2023
-2023020505,VAN,R,2023-12-21,1,1,{'default': 'Canucks'},{'default': 'Stars'},2,1,0,0,0,0,2,28,0,0,DAL,0,18:04,2023
-2023020491,VAN,R,2023-12-19,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,1,0,0,0,0,1,21,0,0,NSH,0,14:58,2023
-2023020474,VAN,R,2023-12-17,1,0,{'default': 'Canucks'},{'default': 'Blackhawks'},1,1,0,0,0,0,2,23,0,0,CHI,2,15:09,2023
-2023020461,VAN,R,2023-12-16,0,1,{'default': 'Canucks'},{'default': 'Wild'},1,1,0,0,0,0,0,23,0,0,MIN,0,15:41,2023
-2023020454,VAN,H,2023-12-14,2,0,{'default': 'Canucks'},{'default': 'Panthers'},2,2,0,0,0,0,3,22,0,0,FLA,0,15:44,2023
-2023020439,VAN,H,2023-12-12,0,0,{'default': 'Canucks'},{'default': 'Lightning'},0,0,0,0,0,0,0,23,0,0,TBL,0,14:43,2023
-2023020419,VAN,H,2023-12-09,0,0,{'default': 'Canucks'},{'default': 'Hurricanes'},0,-1,0,0,0,0,2,26,0,0,CAR,0,16:06,2023
-2023020404,VAN,H,2023-12-07,0,1,{'default': 'Canucks'},{'default': 'Wild'},1,1,0,0,0,0,0,20,0,0,MIN,5,11:12,2023
-2023020387,VAN,H,2023-12-05,1,0,{'default': 'Canucks'},{'default': 'Devils'},1,0,0,0,0,0,1,24,0,0,NJD,2,15:14,2023
-2023020367,VAN,R,2023-12-02,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,1,0,0,0,0,0,25,0,0,CGY,2,14:52,2023
-2023020353,VAN,H,2023-11-30,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,1,21,0,0,VGK,2,12:43,2023
-2023020336,VAN,H,2023-11-28,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,2,18,0,0,ANA,0,12:59,2023
-2023020314,VAN,R,2023-11-25,0,0,{'default': 'Canucks'},{'default': 'Sharks'},0,-1,0,0,0,0,0,19,0,0,SJS,2,10:23,2023
-2023020307,VAN,R,2023-11-24,1,0,{'default': 'Canucks'},{'default': 'Kraken'},1,1,0,0,1,0,2,18,0,0,SEA,0,14:00,2023
-2023020291,VAN,R,2023-11-22,0,0,{'default': 'Canucks'},{'default': 'Avalanche'},0,0,0,0,0,0,1,20,0,0,COL,0,11:10,2023
-2023020278,VAN,H,2023-11-20,0,0,{'default': 'Canucks'},{'default': 'Sharks'},0,0,0,0,0,0,1,21,0,0,SJS,0,12:34,2023
-2023020265,VAN,H,2023-11-18,0,0,{'default': 'Canucks'},{'default': 'Kraken'},0,0,0,0,0,0,0,17,0,0,SEA,0,12:16,2023
-2023020247,VAN,R,2023-11-16,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,0,0,0,0,0,1,17,0,0,CGY,0,12:54,2023
-2023020241,VAN,H,2023-11-15,0,0,{'default': 'Canucks'},{'default': 'Islanders'},0,0,0,0,0,0,2,20,0,0,NYI,0,12:31,2023
-2023020224,VAN,R,2023-11-12,1,1,{'default': 'Canucks'},{'default': 'Canadiens'},2,2,0,0,1,0,2,18,0,0,MTL,0,12:11,2023
-2023020215,VAN,R,2023-11-11,0,0,{'default': 'Canucks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,21,0,0,TOR,5,13:39,2023
-2023020197,VAN,R,2023-11-09,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,2,22,0,0,OTT,0,14:08,2023
-2023020179,VAN,H,2023-11-06,0,1,{'default': 'Canucks'},{'default': 'Oilers'},1,1,0,0,0,0,1,17,0,0,EDM,2,10:27,2023
-2023020172,VAN,H,2023-11-04,0,1,{'default': 'Canucks'},{'default': 'Stars'},1,1,0,0,0,0,0,20,0,0,DAL,0,12:41,2023
-2023020140,VAN,H,2023-10-31,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,0,0,0,0,0,3,18,0,0,NSH,0,10:56,2023
-2023020124,VAN,H,2023-10-28,0,0,{'default': 'Canucks'},{'default': 'Rangers'},0,1,0,0,0,0,0,16,0,0,NYR,2,10:21,2023
-2023020116,VAN,H,2023-10-27,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,2,20,0,0,STL,0,13:42,2023
-2023020095,VAN,R,2023-10-24,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,0,0,0,0,0,1,20,0,0,NSH,0,13:26,2023
-2023020068,VAN,R,2023-10-21,0,0,{'default': 'Canucks'},{'default': 'Panthers'},0,-2,0,0,0,0,0,18,0,0,FLA,0,12:02,2023
-2023020055,VAN,R,2023-10-19,0,0,{'default': 'Canucks'},{'default': 'Lightning'},0,0,0,0,0,0,0,22,0,0,TBL,0,14:22,2023
-2023020042,VAN,R,2023-10-17,0,0,{'default': 'Canucks'},{'default': 'Flyers'},0,0,0,0,0,0,1,18,0,0,PHI,0,9:56,2023
-2023020029,VAN,R,2023-10-14,0,0,{'default': 'Canucks'},{'default': 'Oilers'},0,0,0,0,0,0,1,23,0,0,EDM,2,14:58,2023
-2023020009,VAN,H,2023-10-11,1,0,{'default': 'Canucks'},{'default': 'Oilers'},1,1,0,0,0,0,2,27,0,0,EDM,7,15:21,2023
-2022021311,VAN,R,2023-04-13,0,0,{'default': 'Canucks'},{'default': 'Coyotes'},0,-2,0,0,0,0,1,17,0,0,ARI,0,10:56,2022
-2022021294,VAN,R,2023-04-11,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,1,20,0,0,ANA,0,13:43,2022
-2022021284,VAN,R,2023-04-10,0,0,{'default': 'Canucks'},{'default': 'Kings'},0,-1,0,0,0,0,1,17,0,0,LAK,0,12:06,2022
-2022021270,VAN,H,2023-04-08,0,1,{'default': 'Canucks'},{'default': 'Flames'},1,1,0,0,0,0,1,21,0,0,CGY,0,12:57,2022
-2022021254,VAN,H,2023-04-06,0,0,{'default': 'Canucks'},{'default': 'Blackhawks'},0,0,0,0,0,0,0,20,0,0,CHI,0,12:25,2022
-2022021238,VAN,H,2023-04-04,0,1,{'default': 'Canucks'},{'default': 'Kraken'},1,0,0,0,0,0,0,20,0,0,SEA,2,14:15,2022
-2022021225,VAN,H,2023-04-02,0,0,{'default': 'Canucks'},{'default': 'Kings'},0,-1,0,0,0,0,2,20,0,0,LAK,0,15:26,2022
-2022021202,VAN,H,2023-03-31,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,-1,0,0,0,0,3,27,0,0,CGY,0,15:56,2022
-2022021181,VAN,R,2023-03-28,0,1,{'default': 'Canucks'},{'default': 'Blues'},1,2,0,0,0,0,2,22,0,0,STL,2,14:01,2022
-2022021168,VAN,R,2023-03-26,0,0,{'default': 'Canucks'},{'default': 'Blackhawks'},0,0,0,0,0,0,1,21,0,0,CHI,0,14:27,2022
-2022021161,VAN,R,2023-03-25,1,0,{'default': 'Canucks'},{'default': 'Stars'},1,0,0,0,0,0,1,20,1,1,DAL,2,12:19,2022
-2022021145,VAN,H,2023-03-23,1,1,{'default': 'Canucks'},{'default': 'Sharks'},2,2,0,0,1,0,1,17,0,0,SJS,0,12:08,2022
-2022021132,VAN,H,2023-03-21,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,0,15,0,0,VGK,0,10:55,2022
-2022021114,VAN,R,2023-03-19,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,0,20,0,0,ANA,0,14:29,2022
-2022021105,VAN,R,2023-03-18,0,0,{'default': 'Canucks'},{'default': 'Kings'},0,-1,0,0,0,0,0,21,0,0,LAK,0,14:39,2022
-2022021088,VAN,R,2023-03-16,0,0,{'default': 'Canucks'},{'default': 'Coyotes'},0,0,0,0,0,0,1,17,0,0,ARI,0,12:25,2022
-2022021073,VAN,H,2023-03-14,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,0,0,0,0,0,1,22,0,0,DAL,0,14:01,2022
-2022021050,VAN,H,2023-03-11,0,2,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",2,2,0,0,0,0,1,20,0,0,OTT,0,11:47,2022
-2022021024,VAN,H,2023-03-08,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,-1,0,0,0,0,1,22,0,0,ANA,0,11:10,2022
-2022021010,VAN,H,2023-03-06,1,0,{'default': 'Canucks'},{'default': 'Predators'},1,1,0,0,0,0,4,21,0,0,NSH,0,13:48,2022
-2022020996,VAN,H,2023-03-04,0,0,{'default': 'Canucks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,21,0,0,TOR,0,11:48,2022
-2022020981,VAN,H,2023-03-02,0,0,{'default': 'Canucks'},{'default': 'Wild'},0,-1,0,0,0,0,1,14,0,0,MIN,0,9:31,2022
-2022020955,VAN,R,2023-02-27,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,0,0,0,0,0,0,30,0,0,DAL,0,18:14,2022
-2022020939,VAN,H,2023-02-25,0,0,{'default': 'Canucks'},{'default': 'Bruins'},0,0,0,0,0,0,1,20,0,0,BOS,0,14:15,2022
-2022020926,VAN,R,2023-02-23,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,0,20,0,0,STL,0,14:07,2022
-2022020914,VAN,R,2023-02-21,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,-1,0,0,0,0,0,16,0,0,NSH,2,10:08,2022
-2022020891,VAN,H,2023-02-18,0,0,{'default': 'Canucks'},{'default': 'Flyers'},0,0,0,0,0,0,1,16,0,0,PHI,0,10:38,2022
-2022020869,VAN,H,2023-02-15,0,1,{'default': 'Canucks'},{'default': 'Rangers'},1,0,0,0,0,0,0,19,0,0,NYR,0,11:57,2022
-2022020853,VAN,H,2023-02-13,0,0,{'default': 'Canucks'},{'default': 'Red Wings'},0,-1,0,0,0,0,0,16,0,0,DET,0,11:43,2022
-2022020832,VAN,R,2023-02-11,0,0,{'default': 'Canucks'},{'default': 'Red Wings'},0,0,0,0,0,0,0,21,0,0,DET,0,14:10,2022
-2022020826,VAN,R,2023-02-09,0,1,{'default': 'Canucks'},{'default': 'Islanders'},1,-1,0,0,0,0,0,17,0,0,NYI,0,10:20,2022
-2022020819,VAN,R,2023-02-08,0,0,{'default': 'Canucks'},{'default': 'Rangers'},0,0,0,0,0,0,0,16,0,0,NYR,2,9:08,2022
-2022020810,VAN,R,2023-02-06,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,-1,0,0,0,0,2,24,0,0,NJD,0,12:42,2022
-2022020787,VAN,H,2023-01-27,1,0,{'default': 'Canucks'},{'default': 'Blue Jackets'},1,1,0,0,0,0,2,20,0,0,CBJ,0,13:40,2022
-2022020770,VAN,R,2023-01-25,0,1,{'default': 'Canucks'},{'default': 'Kraken'},1,0,0,0,0,0,1,23,0,0,SEA,0,14:12,2022
-2022020765,VAN,H,2023-01-24,1,0,{'default': 'Canucks'},{'default': 'Blackhawks'},1,1,0,0,1,0,2,20,0,0,CHI,5,12:07,2022
-2022020744,VAN,H,2023-01-21,0,0,{'default': 'Canucks'},{'default': 'Oilers'},0,0,0,0,0,0,1,18,0,0,EDM,0,11:56,2022
-2022020731,VAN,H,2023-01-20,0,0,{'default': 'Canucks'},{'default': 'Avalanche'},0,0,0,0,0,0,2,17,0,0,COL,0,10:44,2022
-2022020715,VAN,H,2023-01-18,0,0,{'default': 'Canucks'},{'default': 'Lightning'},0,-2,0,0,0,0,1,15,0,0,TBL,0,11:08,2022
-2022020692,VAN,R,2023-01-15,0,0,{'default': 'Canucks'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,18,0,0,CAR,2,12:44,2022
-2022020684,VAN,R,2023-01-14,0,0,{'default': 'Canucks'},{'default': 'Panthers'},0,-1,0,0,0,0,0,9,0,0,FLA,4,5:25,2022
-2022020667,VAN,R,2023-01-12,0,0,{'default': 'Canucks'},{'default': 'Lightning'},0,-1,0,0,0,0,1,17,0,0,TBL,0,10:23,2022
-2022020652,VAN,R,2023-01-10,0,0,{'default': 'Canucks'},{'default': 'Penguins'},0,0,0,0,0,0,1,19,0,0,PIT,2,12:20,2022
-2022020638,VAN,R,2023-01-08,0,1,{'default': 'Canucks'},{'default': 'Jets'},1,1,0,0,0,0,1,18,0,0,WPG,0,14:13,2022
-2022020619,VAN,H,2023-01-05,0,0,{'default': 'Canucks'},{'default': 'Avalanche'},0,0,0,0,0,0,1,16,0,0,COL,0,11:44,2022
-2022020607,VAN,H,2023-01-03,0,0,{'default': 'Canucks'},{'default': 'Islanders'},0,-1,0,0,0,0,1,16,0,0,NYI,0,12:13,2022
-2022020587,VAN,R,2022-12-31,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,-1,0,0,0,0,1,13,0,0,CGY,0,7:27,2022
-2022020570,VAN,R,2022-12-29,0,0,{'default': 'Canucks'},{'default': 'Jets'},0,0,0,0,0,0,0,10,0,0,WPG,0,6:29,2022
-2022020556,VAN,H,2022-12-27,0,0,{'default': 'Canucks'},{'default': 'Sharks'},0,-1,0,0,0,0,1,15,0,0,SJS,0,9:17,2022
-2022020542,VAN,R,2022-12-23,0,0,{'default': 'Canucks'},{'default': 'Oilers'},0,0,0,0,0,0,1,11,0,0,EDM,0,7:15,2022
-2022020530,VAN,H,2022-12-22,0,0,{'default': 'Canucks'},{'default': 'Kraken'},0,-2,0,0,0,0,1,14,0,0,SEA,0,9:27,2022
-2022020509,VAN,H,2022-12-19,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,-2,0,0,0,0,1,16,0,0,STL,0,10:53,2022
-2022020495,VAN,H,2022-12-17,0,0,{'default': 'Canucks'},{'default': 'Jets'},0,-2,0,0,0,0,0,19,0,0,WPG,0,14:21,2022
-2022020468,VAN,R,2022-12-14,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,0,0,0,0,0,0,17,0,0,CGY,0,9:57,2022
-2022020441,VAN,H,2022-12-10,0,0,{'default': 'Canucks'},{'default': 'Wild'},0,0,0,0,0,0,0,18,0,0,MIN,0,14:19,2022
-2022020418,VAN,R,2022-12-07,2,0,{'default': 'Canucks'},{'default': 'Sharks'},2,-2,1,1,0,0,5,19,0,0,SJS,5,11:54,2022
-2022020373,VAN,H,2022-12-01,1,0,{'default': 'Canucks'},{'default': 'Panthers'},1,0,0,0,0,0,1,16,0,0,FLA,2,9:57,2022
-2022020359,VAN,H,2022-11-29,0,0,{'default': 'Canucks'},{'default': 'Capitals'},0,0,0,0,0,0,1,18,0,0,WSH,0,13:44,2022
-2022020344,VAN,R,2022-11-27,0,0,{'default': 'Canucks'},{'default': 'Sharks'},0,0,0,0,0,0,1,14,0,0,SJS,0,10:40,2022
-2022020340,VAN,R,2022-11-26,0,1,{'default': 'Canucks'},{'default': 'Golden Knights'},1,1,0,0,0,0,0,14,0,0,VGK,5,11:43,2022
-2022020317,VAN,R,2022-11-23,0,0,{'default': 'Canucks'},{'default': 'Avalanche'},0,-1,0,0,0,0,0,18,0,0,COL,2,10:38,2022
-2022020300,VAN,H,2022-11-21,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,19,0,0,VGK,0,9:52,2022
-2022020273,VAN,H,2022-11-18,0,0,{'default': 'Canucks'},{'default': 'Kings'},0,1,0,0,0,0,1,16,0,0,LAK,0,11:16,2022
-2022020252,VAN,R,2022-11-15,1,0,{'default': 'Canucks'},{'default': 'Sabres'},1,0,0,0,0,0,1,17,0,0,BUF,0,11:21,2022
-2022020241,VAN,R,2022-11-13,0,0,{'default': 'Canucks'},{'default': 'Bruins'},0,0,0,0,0,0,0,19,0,0,BOS,0,12:04,2022
-2022020230,VAN,R,2022-11-12,0,0,{'default': 'Canucks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,15,0,0,TOR,0,9:49,2022
-2022020200,VAN,R,2022-11-08,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,0,16,0,0,OTT,0,9:14,2022
-2022020186,VAN,H,2022-11-05,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,0,0,0,0,0,0,14,0,0,NSH,2,10:27,2022
-2022020171,VAN,H,2022-11-03,1,0,{'default': 'Canucks'},{'default': 'Ducks'},1,0,0,0,0,0,1,16,0,0,ANA,7,9:49,2022
-2022020157,VAN,H,2022-11-01,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,0,0,0,0,0,0,8,0,0,NJD,10,5:48,2022
-2022020125,VAN,H,2022-10-28,0,0,{'default': 'Canucks'},{'default': 'Penguins'},0,0,0,0,0,0,3,11,0,0,PIT,0,7:51,2022
-2022020118,VAN,R,2022-10-27,0,0,{'default': 'Canucks'},{'default': 'Kraken'},0,-1,0,0,0,0,3,16,0,0,SEA,0,9:23,2022
-2022020097,VAN,H,2022-10-24,0,0,{'default': 'Canucks'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,15,0,0,CAR,2,9:01,2022
-2022020084,VAN,H,2022-10-22,0,0,{'default': 'Canucks'},{'default': 'Sabres'},0,0,0,0,0,0,0,17,0,0,BUF,0,11:55,2022
-2022020067,VAN,R,2022-10-20,1,1,{'default': 'Canucks'},{'default': 'Wild'},2,2,0,0,0,0,3,14,0,0,MIN,0,8:42,2022
-2022020050,VAN,R,2022-10-18,0,0,{'default': 'Canucks'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,14,0,0,CBJ,0,8:57,2022
-2022020043,VAN,R,2022-10-17,0,0,{'default': 'Canucks'},{'default': 'Capitals'},0,0,0,0,0,0,0,18,0,0,WSH,2,12:50,2022
-2022020026,VAN,R,2022-10-15,0,0,{'default': 'Canucks'},{'default': 'Flyers'},0,0,0,0,0,0,2,18,0,0,PHI,0,11:41,2022
-2022020010,VAN,R,2022-10-12,0,0,{'default': 'Canucks'},{'default': 'Oilers'},0,0,0,0,0,0,0,10,0,0,EDM,0,6:48,2022
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020601,TOR,R,2025-12-28,0,0,{'default': 'Maple Leafs'},{'default': 'Red Wings'},0,0,0,0,0,0,2,16,0,0,12:23,DET,0,2025
+2025020590,TOR,H,2025-12-27,0,0,{'default': 'Maple Leafs'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,20,0,0,13:09,OTT,0,2025
+2025020575,TOR,H,2025-12-23,0,0,{'default': 'Maple Leafs'},{'default': 'Penguins'},0,1,0,0,0,0,0,17,0,0,12:33,PIT,0,2025
+2025020568,TOR,R,2025-12-21,0,0,{'default': 'Maple Leafs'},{'default': 'Stars'},0,-2,0,0,0,0,0,14,0,0,10:21,DAL,0,2025
+2025020558,TOR,R,2025-12-20,0,0,{'default': 'Maple Leafs'},{'default': 'Predators'},0,0,0,0,0,0,2,15,0,0,10:35,NSH,0,2025
+2025020539,TOR,R,2025-12-18,0,0,{'default': 'Maple Leafs'},{'default': 'Capitals'},0,0,0,0,0,0,0,16,0,0,10:30,WSH,0,2025
+2025020520,TOR,H,2025-12-16,1,0,{'default': 'Maple Leafs'},{'default': 'Blackhawks'},1,1,0,0,1,0,3,17,0,0,13:14,CHI,2,2025
+2025020480,TOR,H,2025-12-11,1,0,{'default': 'Maple Leafs'},{'default': 'Sharks'},1,0,0,0,0,0,2,21,0,0,15:03,SJS,2,2025
+2025020461,TOR,H,2025-12-08,0,0,{'default': 'Maple Leafs'},{'default': 'Lightning'},0,0,0,0,0,0,0,13,0,0,8:11,TBL,5,2025
+2025020444,TOR,H,2025-12-06,0,0,{'default': 'Maple Leafs'},{'default': 'Canadiens'},0,0,0,0,0,0,1,19,0,0,15:12,MTL,0,2025
+2025020431,TOR,R,2025-12-04,0,0,{'default': 'Maple Leafs'},{'default': 'Hurricanes'},0,1,0,0,0,0,0,18,0,0,13:27,CAR,0,2025
+2025020413,TOR,R,2025-12-02,1,1,{'default': 'Maple Leafs'},{'default': 'Panthers'},2,2,0,0,1,0,1,19,0,0,11:07,FLA,2,2025
+2025020396,TOR,R,2025-11-29,1,0,{'default': 'Maple Leafs'},{'default': 'Penguins'},1,2,0,0,0,0,2,18,0,0,12:51,PIT,0,2025
+2025020386,TOR,R,2025-11-28,0,0,{'default': 'Maple Leafs'},{'default': 'Capitals'},0,1,0,0,0,0,0,18,0,0,13:19,WSH,0,2025
+2025020337,TOR,R,2025-11-22,0,0,{'default': 'Maple Leafs'},{'default': 'Canadiens'},0,-2,0,0,0,0,1,19,0,0,14:11,MTL,10,2025
+2025020319,TOR,H,2025-11-20,0,0,{'default': 'Maple Leafs'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,14,0,0,9:25,CBJ,0,2025
+2025020307,TOR,H,2025-11-18,0,0,{'default': 'Maple Leafs'},{'default': 'Blues'},0,1,0,0,0,0,0,21,0,0,14:08,STL,0,2025
+2025020291,TOR,R,2025-11-15,0,0,{'default': 'Maple Leafs'},{'default': 'Blackhawks'},0,0,0,0,0,0,2,16,0,0,11:55,CHI,0,2025
+2025020269,TOR,H,2025-11-13,0,0,{'default': 'Maple Leafs'},{'default': 'Kings'},0,0,0,0,0,0,0,19,0,0,12:56,LAK,0,2025
+2025020256,TOR,R,2025-11-11,0,0,{'default': 'Maple Leafs'},{'default': 'Bruins'},0,-1,0,0,0,0,0,18,0,0,11:26,BOS,2,2025
+2025020246,TOR,H,2025-11-09,0,0,{'default': 'Maple Leafs'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,19,0,0,12:13,CAR,0,2025
+2025020234,TOR,H,2025-11-08,0,0,{'default': 'Maple Leafs'},{'default': 'Bruins'},0,-2,0,0,0,0,2,21,0,0,13:57,BOS,0,2025
+2025020213,TOR,H,2025-11-05,0,1,{'default': 'Maple Leafs'},{'default': 'Mammoth'},1,1,0,0,0,0,0,20,0,0,13:51,UTA,0,2025
+2025020199,TOR,H,2025-11-03,0,0,{'default': 'Maple Leafs'},{'default': 'Penguins'},0,0,0,0,0,0,1,15,0,0,12:11,PIT,0,2025
+2025020188,TOR,R,2025-11-01,0,1,{'default': 'Maple Leafs'},{'default': 'Flyers'},1,2,0,0,0,0,0,21,0,0,14:28,PHI,0,2025
+2025020166,TOR,R,2025-10-29,0,0,{'default': 'Maple Leafs'},{'default': 'Blue Jackets'},0,0,0,0,0,0,2,19,0,0,15:46,CBJ,0,2025
+2025020151,TOR,H,2025-10-28,0,0,{'default': 'Maple Leafs'},{'default': 'Flames'},0,-1,0,0,0,0,1,16,0,0,10:16,CGY,0,2025
+2025020132,TOR,H,2025-10-25,1,0,{'default': 'Maple Leafs'},{'default': 'Sabres'},1,0,0,0,0,0,1,19,0,0,12:55,BUF,0,2025
+2025020123,TOR,R,2025-10-24,1,0,{'default': 'Maple Leafs'},{'default': 'Sabres'},1,0,0,0,0,0,2,20,0,0,12:36,BUF,0,2025
+2025020098,TOR,H,2025-10-21,0,0,{'default': 'Maple Leafs'},{'default': 'Devils'},0,-1,0,0,0,0,1,19,0,0,11:54,NJD,0,2025
+2025020079,TOR,H,2025-10-18,0,0,{'default': 'Maple Leafs'},{'default': 'Kraken'},0,0,0,0,0,0,1,20,0,0,13:49,SEA,0,2025
+2025020061,TOR,H,2025-10-16,0,0,{'default': 'Maple Leafs'},{'default': 'Rangers'},0,-1,0,0,0,0,0,16,0,0,9:15,NYR,2,2025
+2025020049,TOR,H,2025-10-14,0,1,{'default': 'Maple Leafs'},{'default': 'Predators'},1,-1,0,0,0,0,1,16,0,0,11:28,NSH,0,2025
+2025020043,TOR,H,2025-10-13,0,0,{'default': 'Maple Leafs'},{'default': 'Red Wings'},0,0,0,0,0,0,1,15,0,0,9:18,DET,0,2025
+2025020025,TOR,R,2025-10-11,0,0,{'default': 'Maple Leafs'},{'default': 'Red Wings'},0,-2,0,0,0,0,2,18,0,0,11:22,DET,0,2025
+2025020004,TOR,H,2025-10-08,0,0,{'default': 'Maple Leafs'},{'default': 'Canadiens'},0,-1,0,0,0,0,1,17,0,0,12:18,MTL,0,2025
+2024021305,VAN,H,2025-04-16,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,0,19,0,0,13:50,VGK,0,2024
+2024021290,VAN,H,2025-04-14,0,0,{'default': 'Canucks'},{'default': 'Sharks'},0,0,0,0,0,0,0,18,0,0,11:08,SJS,0,2024
+2024021273,VAN,H,2025-04-12,0,0,{'default': 'Canucks'},{'default': 'Wild'},0,0,0,0,0,0,0,19,0,0,13:18,MIN,0,2024
+2024021256,VAN,R,2025-04-10,1,1,{'default': 'Canucks'},{'default': 'Avalanche'},2,2,0,0,0,0,2,20,0,0,12:18,COL,0,2024
+2024021242,VAN,R,2025-04-08,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,0,0,0,0,0,3,19,0,0,12:56,DAL,0,2024
+2024021229,VAN,H,2025-04-06,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,2,18,0,0,11:07,VGK,0,2024
+2024021212,VAN,H,2025-04-05,1,0,{'default': 'Canucks'},{'default': 'Ducks'},1,0,0,0,0,0,4,21,0,0,14:34,ANA,0,2024
+2024021196,VAN,H,2025-04-02,0,0,{'default': 'Canucks'},{'default': 'Kraken'},0,-2,0,0,0,0,2,18,0,0,10:11,SEA,12,2024
+2024021172,VAN,R,2025-03-30,0,0,{'default': 'Canucks'},{'default': 'Jets'},0,0,0,0,0,0,1,24,0,0,16:04,WPG,0,2024
+2024021155,VAN,R,2025-03-28,0,2,{'default': 'Canucks'},{'default': 'Blue Jackets'},2,1,0,0,0,0,0,25,0,0,12:58,CBJ,0,2024
+2024021139,VAN,R,2025-03-26,0,0,{'default': 'Canucks'},{'default': 'Islanders'},0,1,0,0,0,0,1,18,0,0,12:41,NYI,0,2024
+2024021125,VAN,R,2025-03-24,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,-2,0,0,0,0,1,16,0,0,11:02,NJD,0,2024
+2024021104,VAN,R,2025-03-22,1,0,{'default': 'Canucks'},{'default': 'Rangers'},1,0,0,0,0,0,3,19,0,0,13:19,NYR,0,2024
+2024021095,VAN,R,2025-03-20,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,1,17,0,0,12:41,STL,0,2024
+2024021086,VAN,H,2025-03-18,0,0,{'default': 'Canucks'},{'default': 'Jets'},0,0,0,0,0,0,0,18,0,0,11:16,WPG,0,2024
+2024021071,VAN,H,2025-03-16,0,0,{'default': 'Canucks'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",0,-1,0,0,0,0,1,23,0,0,14:56,UTA,2,2024
+2024021065,VAN,H,2025-03-15,0,1,{'default': 'Canucks'},{'default': 'Blackhawks'},1,1,0,0,0,0,1,20,0,0,11:08,CHI,0,2024
+2024021037,VAN,R,2025-03-12,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,0,0,0,0,0,2,19,0,0,11:42,CGY,0,2024
+2024021032,VAN,H,2025-03-11,0,0,{'default': 'Canucks'},{'default': 'Canadiens'},0,0,0,0,0,0,1,20,0,0,12:59,MTL,0,2024
+2024021019,VAN,H,2025-03-09,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,-2,0,0,0,0,2,18,0,0,11:35,DAL,2,2024
+2024021000,VAN,H,2025-03-07,0,0,{'default': 'Canucks'},{'default': 'Wild'},0,0,0,0,0,0,0,17,0,0,12:52,MIN,0,2024
+2024020986,VAN,H,2025-03-05,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,4,18,0,0,11:38,ANA,0,2024
+2024020960,VAN,R,2025-03-01,1,0,{'default': 'Canucks'},{'default': 'Kraken'},1,-1,0,0,0,0,3,21,1,1,16:00,SEA,0,2024
+2024020944,VAN,R,2025-02-27,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,0,21,0,0,15:45,ANA,0,2024
+2024020932,VAN,R,2025-02-26,0,1,{'default': 'Canucks'},{'default': 'Kings'},1,0,0,1,0,0,0,23,0,0,15:51,LAK,0,2024
+2024020915,VAN,R,2025-02-23,0,0,{'default': 'Canucks'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",0,0,0,0,0,0,0,18,0,0,15:22,UTA,0,2024
+2024020905,VAN,R,2025-02-22,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,2,20,0,0,13:53,VGK,0,2024
+2024020884,VAN,H,2025-02-08,0,0,{'default': 'Canucks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,20,0,0,15:50,TOR,0,2024
+2024020870,VAN,R,2025-02-06,1,0,{'default': 'Canucks'},{'default': 'Sharks'},1,0,1,1,0,0,2,19,0,0,14:56,SJS,0,2024
+2024020855,VAN,H,2025-02-04,0,0,{'default': 'Canucks'},{'default': 'Avalanche'},0,0,0,0,0,0,2,23,0,0,14:20,COL,0,2024
+2024020842,VAN,H,2025-02-02,0,0,{'default': 'Canucks'},{'default': 'Red Wings'},0,0,0,0,0,0,0,23,0,0,17:31,DET,0,2024
+2024020823,VAN,R,2025-01-31,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,-1,0,0,0,0,1,21,0,0,14:56,DAL,0,2024
+2024020810,VAN,R,2025-01-29,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,0,0,0,0,0,0,20,0,0,11:48,NSH,2,2024
+2024020619,VAN,H,2025-01-03,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,0,0,0,0,0,0,16,0,0,10:23,NSH,5,2024
+2024020613,VAN,R,2025-01-02,0,0,{'default': 'Canucks'},{'default': 'Kraken'},0,-1,0,0,0,0,2,22,0,0,14:23,SEA,2,2024
+2024020600,VAN,R,2024-12-31,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,-1,0,0,0,0,0,20,0,0,11:59,CGY,0,2024
+2024020567,VAN,H,2024-12-28,0,0,{'default': 'Canucks'},{'default': 'Kraken'},0,-1,0,0,0,0,3,20,0,0,12:41,SEA,0,2024
+2024020555,VAN,H,2024-12-23,0,0,{'default': 'Canucks'},{'default': 'Sharks'},0,-1,0,0,0,0,0,17,0,0,12:11,SJS,0,2024
+2024020537,VAN,H,2024-12-21,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,15,0,0,9:22,OTT,0,2024
+2024020519,VAN,R,2024-12-19,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,0,19,0,0,12:04,VGK,0,2024
+2024020510,VAN,R,2024-12-18,1,0,{'default': 'Canucks'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",1,0,0,0,0,0,1,15,0,0,10:18,UTA,0,2024
+2024020496,VAN,H,2024-12-16,0,0,{'default': 'Canucks'},{'default': 'Avalanche'},0,0,0,0,0,0,0,14,0,0,8:52,COL,0,2024
+2024020486,VAN,H,2024-12-14,0,0,{'default': 'Canucks'},{'default': 'Bruins'},0,0,0,0,0,0,0,15,0,0,10:23,BOS,0,2024
+2024020471,VAN,H,2024-12-12,0,0,{'default': 'Canucks'},{'default': 'Panthers'},0,0,0,0,0,0,0,18,0,0,10:58,FLA,0,2024
+2024020455,VAN,H,2024-12-10,1,0,{'default': 'Canucks'},{'default': 'Blues'},1,1,0,0,0,0,1,21,0,0,14:41,STL,0,2024
+2024020437,VAN,H,2024-12-08,0,0,{'default': 'Canucks'},{'default': 'Lightning'},0,1,0,0,0,0,0,19,0,0,13:02,TBL,0,2024
+2024020422,VAN,H,2024-12-06,0,0,{'default': 'Canucks'},{'default': 'Blue Jackets'},0,1,0,0,0,0,1,22,0,0,13:19,CBJ,2,2024
+2024020402,VAN,R,2024-12-03,0,0,{'default': 'Canucks'},{'default': 'Wild'},0,0,0,0,0,0,0,21,0,0,15:22,MIN,0,2024
+2024020388,VAN,R,2024-12-01,0,1,{'default': 'Canucks'},{'default': 'Red Wings'},1,1,0,0,0,0,0,19,0,0,13:52,DET,0,2024
+2024020364,VAN,R,2024-11-29,0,0,{'default': 'Canucks'},{'default': 'Sabres'},0,-2,0,0,0,0,0,19,0,0,11:07,BUF,0,2024
+2024020354,VAN,R,2024-11-27,0,0,{'default': 'Canucks'},{'default': 'Penguins'},0,-1,0,0,0,0,0,21,0,0,14:10,PIT,0,2024
+2024020345,VAN,R,2024-11-26,0,0,{'default': 'Canucks'},{'default': 'Bruins'},0,1,0,0,0,0,0,23,0,0,13:24,BOS,2,2024
+2024020323,VAN,R,2024-11-23,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,2,21,0,0,13:22,OTT,5,2024
+2024020300,VAN,H,2024-11-19,0,1,{'default': 'Canucks'},{'default': 'Rangers'},1,0,0,0,0,0,0,22,0,0,13:24,NYR,2,2024
+2024020285,VAN,H,2024-11-17,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,-2,0,0,0,0,0,21,0,0,13:30,NSH,0,2024
+2024020283,VAN,H,2024-11-16,0,0,{'default': 'Canucks'},{'default': 'Blackhawks'},0,0,0,0,0,0,0,17,0,0,11:29,CHI,0,2024
+2024020265,VAN,H,2024-11-14,0,0,{'default': 'Canucks'},{'default': 'Islanders'},0,-1,0,0,0,0,0,20,0,0,12:05,NYI,2,2024
+2023021308,VAN,R,2024-04-18,0,0,{'default': 'Canucks'},{'default': 'Jets'},0,0,0,0,0,0,2,24,0,0,16:35,WPG,0,2023
+2023021302,VAN,H,2024-04-16,1,0,{'default': 'Canucks'},{'default': 'Flames'},1,1,0,0,0,0,2,20,0,0,15:36,CGY,2,2023
+2023021280,VAN,R,2024-04-13,1,0,{'default': 'Canucks'},{'default': 'Oilers'},1,1,0,0,0,0,2,24,0,0,15:08,EDM,0,2023
+2023021254,VAN,H,2024-04-10,0,0,{'default': 'Canucks'},{'default': 'Coyotes'},0,-1,0,0,0,0,0,24,0,0,16:58,ARI,0,2023
+2023021238,VAN,H,2024-04-08,0,1,{'default': 'Canucks'},{'default': 'Golden Knights'},1,1,0,0,0,0,2,25,0,0,18:08,VGK,0,2023
+2023021227,VAN,R,2024-04-06,1,0,{'default': 'Canucks'},{'default': 'Kings'},1,2,0,0,0,0,2,17,0,0,11:24,LAK,12,2023
+2023021200,VAN,R,2024-04-03,0,0,{'default': 'Canucks'},{'default': 'Coyotes'},0,0,0,0,0,0,2,30,0,0,19:39,ARI,0,2023
+2023021196,VAN,R,2024-04-02,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,0,25,0,0,14:56,VGK,0,2023
+2023021180,VAN,H,2024-03-31,2,0,{'default': 'Canucks'},{'default': 'Ducks'},2,0,1,1,1,0,2,22,0,0,17:50,ANA,0,2023
+2023021163,VAN,H,2024-03-28,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,0,0,0,0,0,1,25,0,0,15:47,DAL,0,2023
+2023020832,VAN,R,2024-02-13,1,2,{'default': 'Canucks'},{'default': 'Blackhawks'},3,2,0,0,0,0,2,22,0,0,12:27,CHI,5,2023
+2023020818,VAN,R,2024-02-11,0,0,{'default': 'Canucks'},{'default': 'Capitals'},0,0,0,0,0,0,2,24,0,0,18:28,WSH,0,2023
+2023020805,VAN,R,2024-02-10,0,0,{'default': 'Canucks'},{'default': 'Red Wings'},0,0,0,0,0,0,1,23,0,0,16:46,DET,2,2023
+2023020794,VAN,R,2024-02-08,0,0,{'default': 'Canucks'},{'default': 'Bruins'},0,0,0,0,0,0,4,24,0,0,14:06,BOS,0,2023
+2023020785,VAN,R,2024-02-06,0,0,{'default': 'Canucks'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,22,0,0,14:37,CAR,0,2023
+2023020772,VAN,H,2024-01-27,0,0,{'default': 'Canucks'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,1,21,0,0,15:12,CBJ,0,2023
+2023020744,VAN,H,2024-01-24,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,1,21,0,0,14:45,STL,0,2023
+2023020728,VAN,H,2024-01-22,0,0,{'default': 'Canucks'},{'default': 'Blackhawks'},0,0,0,0,0,0,4,20,0,0,18:10,CHI,0,2023
+2023020712,VAN,H,2024-01-20,0,1,{'default': 'Canucks'},{'default': 'Maple Leafs'},1,1,0,0,0,0,0,23,0,0,16:37,TOR,0,2023
+2023020700,VAN,H,2024-01-18,1,0,{'default': 'Canucks'},{'default': 'Coyotes'},1,1,0,0,1,0,2,23,0,0,14:19,ARI,0,2023
+2023020673,VAN,R,2024-01-15,0,1,{'default': 'Canucks'},{'default': 'Blue Jackets'},1,0,0,0,0,0,2,25,0,0,15:09,CBJ,0,2023
+2023020654,VAN,R,2024-01-13,0,0,{'default': 'Canucks'},{'default': 'Sabres'},0,0,0,0,0,0,2,23,0,0,14:18,BUF,2,2023
+2023020643,VAN,R,2024-01-11,0,0,{'default': 'Canucks'},{'default': 'Penguins'},0,-1,0,0,0,0,1,27,0,0,15:07,PIT,0,2023
+2023020628,VAN,R,2024-01-09,1,0,{'default': 'Canucks'},{'default': 'Islanders'},1,2,0,0,0,0,1,22,0,0,13:40,NYI,0,2023
+2023020621,VAN,R,2024-01-08,0,0,{'default': 'Canucks'},{'default': 'Rangers'},0,-1,0,0,0,0,1,25,0,0,16:02,NYR,0,2023
+2023020611,VAN,R,2024-01-06,1,1,{'default': 'Canucks'},{'default': 'Devils'},2,1,0,0,0,0,5,24,0,0,13:24,NJD,2,2023
+2023020596,VAN,R,2024-01-04,0,1,{'default': 'Canucks'},{'default': 'Blues'},1,0,0,0,0,0,1,20,0,0,13:47,STL,0,2023
+2023020584,VAN,H,2024-01-02,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,1,25,0,0,18:05,OTT,0,2023
+2023020543,VAN,H,2023-12-28,0,1,{'default': 'Canucks'},{'default': 'Flyers'},1,1,0,0,0,0,0,20,0,0,11:44,PHI,0,2023
+2023020527,VAN,H,2023-12-23,1,0,{'default': 'Canucks'},{'default': 'Sharks'},1,2,0,0,1,0,1,21,0,0,16:09,SJS,2,2023
+2023020505,VAN,R,2023-12-21,1,1,{'default': 'Canucks'},{'default': 'Stars'},2,1,0,0,0,0,2,28,0,0,18:04,DAL,0,2023
+2023020491,VAN,R,2023-12-19,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,1,0,0,0,0,1,21,0,0,14:58,NSH,0,2023
+2023020474,VAN,R,2023-12-17,1,0,{'default': 'Canucks'},{'default': 'Blackhawks'},1,1,0,0,0,0,2,23,0,0,15:09,CHI,2,2023
+2023020461,VAN,R,2023-12-16,0,1,{'default': 'Canucks'},{'default': 'Wild'},1,1,0,0,0,0,0,23,0,0,15:41,MIN,0,2023
+2023020454,VAN,H,2023-12-14,2,0,{'default': 'Canucks'},{'default': 'Panthers'},2,2,0,0,0,0,3,22,0,0,15:44,FLA,0,2023
+2023020439,VAN,H,2023-12-12,0,0,{'default': 'Canucks'},{'default': 'Lightning'},0,0,0,0,0,0,0,23,0,0,14:43,TBL,0,2023
+2023020419,VAN,H,2023-12-09,0,0,{'default': 'Canucks'},{'default': 'Hurricanes'},0,-1,0,0,0,0,2,26,0,0,16:06,CAR,0,2023
+2023020404,VAN,H,2023-12-07,0,1,{'default': 'Canucks'},{'default': 'Wild'},1,1,0,0,0,0,0,20,0,0,11:12,MIN,5,2023
+2023020387,VAN,H,2023-12-05,1,0,{'default': 'Canucks'},{'default': 'Devils'},1,0,0,0,0,0,1,24,0,0,15:14,NJD,2,2023
+2023020367,VAN,R,2023-12-02,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,1,0,0,0,0,0,25,0,0,14:52,CGY,2,2023
+2023020353,VAN,H,2023-11-30,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,1,21,0,0,12:43,VGK,2,2023
+2023020336,VAN,H,2023-11-28,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,2,18,0,0,12:59,ANA,0,2023
+2023020314,VAN,R,2023-11-25,0,0,{'default': 'Canucks'},{'default': 'Sharks'},0,-1,0,0,0,0,0,19,0,0,10:23,SJS,2,2023
+2023020307,VAN,R,2023-11-24,1,0,{'default': 'Canucks'},{'default': 'Kraken'},1,1,0,0,1,0,2,18,0,0,14:00,SEA,0,2023
+2023020291,VAN,R,2023-11-22,0,0,{'default': 'Canucks'},{'default': 'Avalanche'},0,0,0,0,0,0,1,20,0,0,11:10,COL,0,2023
+2023020278,VAN,H,2023-11-20,0,0,{'default': 'Canucks'},{'default': 'Sharks'},0,0,0,0,0,0,1,21,0,0,12:34,SJS,0,2023
+2023020265,VAN,H,2023-11-18,0,0,{'default': 'Canucks'},{'default': 'Kraken'},0,0,0,0,0,0,0,17,0,0,12:16,SEA,0,2023
+2023020247,VAN,R,2023-11-16,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,0,0,0,0,0,1,17,0,0,12:54,CGY,0,2023
+2023020241,VAN,H,2023-11-15,0,0,{'default': 'Canucks'},{'default': 'Islanders'},0,0,0,0,0,0,2,20,0,0,12:31,NYI,0,2023
+2023020224,VAN,R,2023-11-12,1,1,{'default': 'Canucks'},{'default': 'Canadiens'},2,2,0,0,1,0,2,18,0,0,12:11,MTL,0,2023
+2023020215,VAN,R,2023-11-11,0,0,{'default': 'Canucks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,21,0,0,13:39,TOR,5,2023
+2023020197,VAN,R,2023-11-09,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,2,22,0,0,14:08,OTT,0,2023
+2023020179,VAN,H,2023-11-06,0,1,{'default': 'Canucks'},{'default': 'Oilers'},1,1,0,0,0,0,1,17,0,0,10:27,EDM,2,2023
+2023020172,VAN,H,2023-11-04,0,1,{'default': 'Canucks'},{'default': 'Stars'},1,1,0,0,0,0,0,20,0,0,12:41,DAL,0,2023
+2023020140,VAN,H,2023-10-31,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,0,0,0,0,0,3,18,0,0,10:56,NSH,0,2023
+2023020124,VAN,H,2023-10-28,0,0,{'default': 'Canucks'},{'default': 'Rangers'},0,1,0,0,0,0,0,16,0,0,10:21,NYR,2,2023
+2023020116,VAN,H,2023-10-27,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,2,20,0,0,13:42,STL,0,2023
+2023020095,VAN,R,2023-10-24,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,0,0,0,0,0,1,20,0,0,13:26,NSH,0,2023
+2023020068,VAN,R,2023-10-21,0,0,{'default': 'Canucks'},{'default': 'Panthers'},0,-2,0,0,0,0,0,18,0,0,12:02,FLA,0,2023
+2023020055,VAN,R,2023-10-19,0,0,{'default': 'Canucks'},{'default': 'Lightning'},0,0,0,0,0,0,0,22,0,0,14:22,TBL,0,2023
+2023020042,VAN,R,2023-10-17,0,0,{'default': 'Canucks'},{'default': 'Flyers'},0,0,0,0,0,0,1,18,0,0,9:56,PHI,0,2023
+2023020029,VAN,R,2023-10-14,0,0,{'default': 'Canucks'},{'default': 'Oilers'},0,0,0,0,0,0,1,23,0,0,14:58,EDM,2,2023
+2023020009,VAN,H,2023-10-11,1,0,{'default': 'Canucks'},{'default': 'Oilers'},1,1,0,0,0,0,2,27,0,0,15:21,EDM,7,2023
+2022021311,VAN,R,2023-04-13,0,0,{'default': 'Canucks'},{'default': 'Coyotes'},0,-2,0,0,0,0,1,17,0,0,10:56,ARI,0,2022
+2022021294,VAN,R,2023-04-11,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,1,20,0,0,13:43,ANA,0,2022
+2022021284,VAN,R,2023-04-10,0,0,{'default': 'Canucks'},{'default': 'Kings'},0,-1,0,0,0,0,1,17,0,0,12:06,LAK,0,2022
+2022021270,VAN,H,2023-04-08,0,1,{'default': 'Canucks'},{'default': 'Flames'},1,1,0,0,0,0,1,21,0,0,12:57,CGY,0,2022
+2022021254,VAN,H,2023-04-06,0,0,{'default': 'Canucks'},{'default': 'Blackhawks'},0,0,0,0,0,0,0,20,0,0,12:25,CHI,0,2022
+2022021238,VAN,H,2023-04-04,0,1,{'default': 'Canucks'},{'default': 'Kraken'},1,0,0,0,0,0,0,20,0,0,14:15,SEA,2,2022
+2022021225,VAN,H,2023-04-02,0,0,{'default': 'Canucks'},{'default': 'Kings'},0,-1,0,0,0,0,2,20,0,0,15:26,LAK,0,2022
+2022021202,VAN,H,2023-03-31,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,-1,0,0,0,0,3,27,0,0,15:56,CGY,0,2022
+2022021181,VAN,R,2023-03-28,0,1,{'default': 'Canucks'},{'default': 'Blues'},1,2,0,0,0,0,2,22,0,0,14:01,STL,2,2022
+2022021168,VAN,R,2023-03-26,0,0,{'default': 'Canucks'},{'default': 'Blackhawks'},0,0,0,0,0,0,1,21,0,0,14:27,CHI,0,2022
+2022021161,VAN,R,2023-03-25,1,0,{'default': 'Canucks'},{'default': 'Stars'},1,0,0,0,0,0,1,20,1,1,12:19,DAL,2,2022
+2022021145,VAN,H,2023-03-23,1,1,{'default': 'Canucks'},{'default': 'Sharks'},2,2,0,0,1,0,1,17,0,0,12:08,SJS,0,2022
+2022021132,VAN,H,2023-03-21,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,-1,0,0,0,0,0,15,0,0,10:55,VGK,0,2022
+2022021114,VAN,R,2023-03-19,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,0,20,0,0,14:29,ANA,0,2022
+2022021105,VAN,R,2023-03-18,0,0,{'default': 'Canucks'},{'default': 'Kings'},0,-1,0,0,0,0,0,21,0,0,14:39,LAK,0,2022
+2022021088,VAN,R,2023-03-16,0,0,{'default': 'Canucks'},{'default': 'Coyotes'},0,0,0,0,0,0,1,17,0,0,12:25,ARI,0,2022
+2022021073,VAN,H,2023-03-14,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,0,0,0,0,0,1,22,0,0,14:01,DAL,0,2022
+2022021050,VAN,H,2023-03-11,0,2,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",2,2,0,0,0,0,1,20,0,0,11:47,OTT,0,2022
+2022021024,VAN,H,2023-03-08,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,-1,0,0,0,0,1,22,0,0,11:10,ANA,0,2022
+2022021010,VAN,H,2023-03-06,1,0,{'default': 'Canucks'},{'default': 'Predators'},1,1,0,0,0,0,4,21,0,0,13:48,NSH,0,2022
+2022020996,VAN,H,2023-03-04,0,0,{'default': 'Canucks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,21,0,0,11:48,TOR,0,2022
+2022020981,VAN,H,2023-03-02,0,0,{'default': 'Canucks'},{'default': 'Wild'},0,-1,0,0,0,0,1,14,0,0,9:31,MIN,0,2022
+2022020955,VAN,R,2023-02-27,0,0,{'default': 'Canucks'},{'default': 'Stars'},0,0,0,0,0,0,0,30,0,0,18:14,DAL,0,2022
+2022020939,VAN,H,2023-02-25,0,0,{'default': 'Canucks'},{'default': 'Bruins'},0,0,0,0,0,0,1,20,0,0,14:15,BOS,0,2022
+2022020926,VAN,R,2023-02-23,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,0,0,0,0,0,0,20,0,0,14:07,STL,0,2022
+2022020914,VAN,R,2023-02-21,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,-1,0,0,0,0,0,16,0,0,10:08,NSH,2,2022
+2022020891,VAN,H,2023-02-18,0,0,{'default': 'Canucks'},{'default': 'Flyers'},0,0,0,0,0,0,1,16,0,0,10:38,PHI,0,2022
+2022020869,VAN,H,2023-02-15,0,1,{'default': 'Canucks'},{'default': 'Rangers'},1,0,0,0,0,0,0,19,0,0,11:57,NYR,0,2022
+2022020853,VAN,H,2023-02-13,0,0,{'default': 'Canucks'},{'default': 'Red Wings'},0,-1,0,0,0,0,0,16,0,0,11:43,DET,0,2022
+2022020832,VAN,R,2023-02-11,0,0,{'default': 'Canucks'},{'default': 'Red Wings'},0,0,0,0,0,0,0,21,0,0,14:10,DET,0,2022
+2022020826,VAN,R,2023-02-09,0,1,{'default': 'Canucks'},{'default': 'Islanders'},1,-1,0,0,0,0,0,17,0,0,10:20,NYI,0,2022
+2022020819,VAN,R,2023-02-08,0,0,{'default': 'Canucks'},{'default': 'Rangers'},0,0,0,0,0,0,0,16,0,0,9:08,NYR,2,2022
+2022020810,VAN,R,2023-02-06,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,-1,0,0,0,0,2,24,0,0,12:42,NJD,0,2022
+2022020787,VAN,H,2023-01-27,1,0,{'default': 'Canucks'},{'default': 'Blue Jackets'},1,1,0,0,0,0,2,20,0,0,13:40,CBJ,0,2022
+2022020770,VAN,R,2023-01-25,0,1,{'default': 'Canucks'},{'default': 'Kraken'},1,0,0,0,0,0,1,23,0,0,14:12,SEA,0,2022
+2022020765,VAN,H,2023-01-24,1,0,{'default': 'Canucks'},{'default': 'Blackhawks'},1,1,0,0,1,0,2,20,0,0,12:07,CHI,5,2022
+2022020744,VAN,H,2023-01-21,0,0,{'default': 'Canucks'},{'default': 'Oilers'},0,0,0,0,0,0,1,18,0,0,11:56,EDM,0,2022
+2022020731,VAN,H,2023-01-20,0,0,{'default': 'Canucks'},{'default': 'Avalanche'},0,0,0,0,0,0,2,17,0,0,10:44,COL,0,2022
+2022020715,VAN,H,2023-01-18,0,0,{'default': 'Canucks'},{'default': 'Lightning'},0,-2,0,0,0,0,1,15,0,0,11:08,TBL,0,2022
+2022020692,VAN,R,2023-01-15,0,0,{'default': 'Canucks'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,18,0,0,12:44,CAR,2,2022
+2022020684,VAN,R,2023-01-14,0,0,{'default': 'Canucks'},{'default': 'Panthers'},0,-1,0,0,0,0,0,9,0,0,5:25,FLA,4,2022
+2022020667,VAN,R,2023-01-12,0,0,{'default': 'Canucks'},{'default': 'Lightning'},0,-1,0,0,0,0,1,17,0,0,10:23,TBL,0,2022
+2022020652,VAN,R,2023-01-10,0,0,{'default': 'Canucks'},{'default': 'Penguins'},0,0,0,0,0,0,1,19,0,0,12:20,PIT,2,2022
+2022020638,VAN,R,2023-01-08,0,1,{'default': 'Canucks'},{'default': 'Jets'},1,1,0,0,0,0,1,18,0,0,14:13,WPG,0,2022
+2022020619,VAN,H,2023-01-05,0,0,{'default': 'Canucks'},{'default': 'Avalanche'},0,0,0,0,0,0,1,16,0,0,11:44,COL,0,2022
+2022020607,VAN,H,2023-01-03,0,0,{'default': 'Canucks'},{'default': 'Islanders'},0,-1,0,0,0,0,1,16,0,0,12:13,NYI,0,2022
+2022020587,VAN,R,2022-12-31,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,-1,0,0,0,0,1,13,0,0,7:27,CGY,0,2022
+2022020570,VAN,R,2022-12-29,0,0,{'default': 'Canucks'},{'default': 'Jets'},0,0,0,0,0,0,0,10,0,0,6:29,WPG,0,2022
+2022020556,VAN,H,2022-12-27,0,0,{'default': 'Canucks'},{'default': 'Sharks'},0,-1,0,0,0,0,1,15,0,0,9:17,SJS,0,2022
+2022020542,VAN,R,2022-12-23,0,0,{'default': 'Canucks'},{'default': 'Oilers'},0,0,0,0,0,0,1,11,0,0,7:15,EDM,0,2022
+2022020530,VAN,H,2022-12-22,0,0,{'default': 'Canucks'},{'default': 'Kraken'},0,-2,0,0,0,0,1,14,0,0,9:27,SEA,0,2022
+2022020509,VAN,H,2022-12-19,0,0,{'default': 'Canucks'},{'default': 'Blues'},0,-2,0,0,0,0,1,16,0,0,10:53,STL,0,2022
+2022020495,VAN,H,2022-12-17,0,0,{'default': 'Canucks'},{'default': 'Jets'},0,-2,0,0,0,0,0,19,0,0,14:21,WPG,0,2022
+2022020468,VAN,R,2022-12-14,0,0,{'default': 'Canucks'},{'default': 'Flames'},0,0,0,0,0,0,0,17,0,0,9:57,CGY,0,2022
+2022020441,VAN,H,2022-12-10,0,0,{'default': 'Canucks'},{'default': 'Wild'},0,0,0,0,0,0,0,18,0,0,14:19,MIN,0,2022
+2022020418,VAN,R,2022-12-07,2,0,{'default': 'Canucks'},{'default': 'Sharks'},2,-2,1,1,0,0,5,19,0,0,11:54,SJS,5,2022
+2022020373,VAN,H,2022-12-01,1,0,{'default': 'Canucks'},{'default': 'Panthers'},1,0,0,0,0,0,1,16,0,0,9:57,FLA,2,2022
+2022020359,VAN,H,2022-11-29,0,0,{'default': 'Canucks'},{'default': 'Capitals'},0,0,0,0,0,0,1,18,0,0,13:44,WSH,0,2022
+2022020344,VAN,R,2022-11-27,0,0,{'default': 'Canucks'},{'default': 'Sharks'},0,0,0,0,0,0,1,14,0,0,10:40,SJS,0,2022
+2022020340,VAN,R,2022-11-26,0,1,{'default': 'Canucks'},{'default': 'Golden Knights'},1,1,0,0,0,0,0,14,0,0,11:43,VGK,5,2022
+2022020317,VAN,R,2022-11-23,0,0,{'default': 'Canucks'},{'default': 'Avalanche'},0,-1,0,0,0,0,0,18,0,0,10:38,COL,2,2022
+2022020300,VAN,H,2022-11-21,0,0,{'default': 'Canucks'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,19,0,0,9:52,VGK,0,2022
+2022020273,VAN,H,2022-11-18,0,0,{'default': 'Canucks'},{'default': 'Kings'},0,1,0,0,0,0,1,16,0,0,11:16,LAK,0,2022
+2022020252,VAN,R,2022-11-15,1,0,{'default': 'Canucks'},{'default': 'Sabres'},1,0,0,0,0,0,1,17,0,0,11:21,BUF,0,2022
+2022020241,VAN,R,2022-11-13,0,0,{'default': 'Canucks'},{'default': 'Bruins'},0,0,0,0,0,0,0,19,0,0,12:04,BOS,0,2022
+2022020230,VAN,R,2022-11-12,0,0,{'default': 'Canucks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,15,0,0,9:49,TOR,0,2022
+2022020200,VAN,R,2022-11-08,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,0,16,0,0,9:14,OTT,0,2022
+2022020186,VAN,H,2022-11-05,0,0,{'default': 'Canucks'},{'default': 'Predators'},0,0,0,0,0,0,0,14,0,0,10:27,NSH,2,2022
+2022020171,VAN,H,2022-11-03,1,0,{'default': 'Canucks'},{'default': 'Ducks'},1,0,0,0,0,0,1,16,0,0,9:49,ANA,7,2022
+2022020157,VAN,H,2022-11-01,0,0,{'default': 'Canucks'},{'default': 'Devils'},0,0,0,0,0,0,0,8,0,0,5:48,NJD,10,2022
+2022020125,VAN,H,2022-10-28,0,0,{'default': 'Canucks'},{'default': 'Penguins'},0,0,0,0,0,0,3,11,0,0,7:51,PIT,0,2022
+2022020118,VAN,R,2022-10-27,0,0,{'default': 'Canucks'},{'default': 'Kraken'},0,-1,0,0,0,0,3,16,0,0,9:23,SEA,0,2022
+2022020097,VAN,H,2022-10-24,0,0,{'default': 'Canucks'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,15,0,0,9:01,CAR,2,2022
+2022020084,VAN,H,2022-10-22,0,0,{'default': 'Canucks'},{'default': 'Sabres'},0,0,0,0,0,0,0,17,0,0,11:55,BUF,0,2022
+2022020067,VAN,R,2022-10-20,1,1,{'default': 'Canucks'},{'default': 'Wild'},2,2,0,0,0,0,3,14,0,0,8:42,MIN,0,2022
+2022020050,VAN,R,2022-10-18,0,0,{'default': 'Canucks'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,14,0,0,8:57,CBJ,0,2022
+2022020043,VAN,R,2022-10-17,0,0,{'default': 'Canucks'},{'default': 'Capitals'},0,0,0,0,0,0,0,18,0,0,12:50,WSH,2,2022
+2022020026,VAN,R,2022-10-15,0,0,{'default': 'Canucks'},{'default': 'Flyers'},0,0,0,0,0,0,2,18,0,0,11:41,PHI,0,2022
+2022020010,VAN,R,2022-10-12,0,0,{'default': 'Canucks'},{'default': 'Oilers'},0,0,0,0,0,0,0,10,0,0,6:48,EDM,0,2022

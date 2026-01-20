@@ -1,16 +1,16 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
-2025020769,STL,R,2026-01-18,0,0,{'default': 'Blues'},{'default': 'Oilers'},0,-1,0,0,0,0,1,21,0,0,14:49,EDM,0,2025
-2025020751,STL,H,2026-01-16,0,0,{'default': 'Blues'},{'default': 'Lightning'},0,0,0,0,0,0,0,21,0,0,14:10,TBL,0,2025
-2025020730,STL,H,2026-01-13,0,1,{'default': 'Blues'},{'default': 'Hurricanes'},1,1,0,0,0,0,1,21,0,1,14:11,CAR,0,2025
-2025020710,STL,R,2026-01-10,0,0,{'default': 'Blues'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,19,0,0,12:51,VGK,0,2025
-2025020696,STL,R,2026-01-09,0,0,{'default': 'Blues'},{'default': 'Mammoth'},0,-1,0,0,0,0,0,22,0,0,13:11,UTA,0,2025
-2025020679,STL,R,2026-01-07,1,0,{'default': 'Blues'},{'default': 'Blackhawks'},1,1,0,0,0,0,1,16,0,0,13:55,CHI,0,2025
-2025020648,STL,H,2026-01-03,0,1,{'default': 'Blues'},{'default': 'Canadiens'},1,1,0,0,0,0,1,20,0,0,13:43,MTL,0,2025
-2025020640,STL,H,2026-01-02,0,0,{'default': 'Blues'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,24,0,0,14:16,VGK,0,2025
-2025020629,STL,R,2025-12-31,0,0,{'default': 'Blues'},{'default': 'Avalanche'},0,1,0,0,0,0,2,20,0,0,13:33,COL,0,2025
-2025020610,STL,H,2025-12-29,0,1,{'default': 'Blues'},{'default': 'Sabres'},1,0,0,0,0,0,0,21,0,0,14:02,BUF,0,2025
-2025020595,STL,H,2025-12-27,0,0,{'default': 'Blues'},{'default': 'Predators'},0,-1,0,0,0,0,3,17,0,0,12:17,NSH,0,2025
-2025020571,STL,R,2025-12-22,0,1,{'default': 'Blues'},{'default': 'Lightning'},1,1,0,0,0,0,0,19,0,0,14:22,TBL,0,2025
-2025020554,STL,R,2025-12-20,0,2,{'default': 'Blues'},{'default': 'Panthers'},2,2,0,0,0,0,1,20,0,0,11:39,FLA,0,2025
-2025020541,STL,H,2025-12-18,0,0,{'default': 'Blues'},{'default': 'Rangers'},0,0,0,0,0,0,0,23,0,0,15:12,NYR,0,2025
-2025020531,STL,H,2025-12-17,0,0,{'default': 'Blues'},{'default': 'Jets'},0,0,0,0,0,0,0,19,0,0,13:38,WPG,0,2025
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+2025020769,STL,R,2026-01-18,0,0,{'default': 'Blues'},{'default': 'Oilers'},0,-1,0,0,0,0,1,21,0,0,EDM,0,14:49,2025
+2025020751,STL,H,2026-01-16,0,0,{'default': 'Blues'},{'default': 'Lightning'},0,0,0,0,0,0,0,21,0,0,TBL,0,14:10,2025
+2025020730,STL,H,2026-01-13,0,1,{'default': 'Blues'},{'default': 'Hurricanes'},1,1,0,0,0,0,1,21,0,1,CAR,0,14:11,2025
+2025020710,STL,R,2026-01-10,0,0,{'default': 'Blues'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,19,0,0,VGK,0,12:51,2025
+2025020696,STL,R,2026-01-09,0,0,{'default': 'Blues'},{'default': 'Mammoth'},0,-1,0,0,0,0,0,22,0,0,UTA,0,13:11,2025
+2025020679,STL,R,2026-01-07,1,0,{'default': 'Blues'},{'default': 'Blackhawks'},1,1,0,0,0,0,1,16,0,0,CHI,0,13:55,2025
+2025020648,STL,H,2026-01-03,0,1,{'default': 'Blues'},{'default': 'Canadiens'},1,1,0,0,0,0,1,20,0,0,MTL,0,13:43,2025
+2025020640,STL,H,2026-01-02,0,0,{'default': 'Blues'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,24,0,0,VGK,0,14:16,2025
+2025020629,STL,R,2025-12-31,0,0,{'default': 'Blues'},{'default': 'Avalanche'},0,1,0,0,0,0,2,20,0,0,COL,0,13:33,2025
+2025020610,STL,H,2025-12-29,0,1,{'default': 'Blues'},{'default': 'Sabres'},1,0,0,0,0,0,0,21,0,0,BUF,0,14:02,2025
+2025020595,STL,H,2025-12-27,0,0,{'default': 'Blues'},{'default': 'Predators'},0,-1,0,0,0,0,3,17,0,0,NSH,0,12:17,2025
+2025020571,STL,R,2025-12-22,0,1,{'default': 'Blues'},{'default': 'Lightning'},1,1,0,0,0,0,0,19,0,0,TBL,0,14:22,2025
+2025020554,STL,R,2025-12-20,0,2,{'default': 'Blues'},{'default': 'Panthers'},2,2,0,0,0,0,1,20,0,0,FLA,0,11:39,2025
+2025020541,STL,H,2025-12-18,0,0,{'default': 'Blues'},{'default': 'Rangers'},0,0,0,0,0,0,0,23,0,0,NYR,0,15:12,2025
+2025020531,STL,H,2025-12-17,0,0,{'default': 'Blues'},{'default': 'Jets'},0,0,0,0,0,0,0,19,0,0,WPG,0,13:38,2025
