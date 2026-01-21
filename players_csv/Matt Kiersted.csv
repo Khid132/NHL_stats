@@ -1,27 +1,27 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020666,MIN,R,2026-01-05,0,0,{'default': 'Wild'},{'default': 'Kings'},0,-2,0,0,0,0,0,10,0,0,LAK,0,8:31,2025
-2025020540,MIN,R,2025-12-18,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,1,0,0,0,0,0,23,0,0,CBJ,0,17:37,2025
-2025020526,MIN,H,2025-12-16,0,1,{'default': 'Wild'},{'default': 'Capitals'},1,0,0,0,0,0,3,19,0,1,WSH,0,16:16,2025
-2025020496,MIN,H,2025-12-13,0,0,{'default': 'Wild'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,1,18,0,0,OTT,0,12:24,2025
-2024021294,FLA,R,2025-04-15,0,1,{'default': 'Panthers'},{'default': 'Lightning'},1,1,0,0,0,0,0,14,0,0,TBL,2,10:00,2024
-2024021225,FLA,R,2025-04-06,0,0,{'default': 'Panthers'},{'default': 'Red Wings'},0,0,0,0,0,0,0,21,0,0,DET,0,15:21,2024
-2022020538,FLA,R,2022-12-23,0,0,{'default': 'Panthers'},{'default': 'Islanders'},0,0,0,0,0,0,0,20,0,0,NYI,0,13:43,2022
-2022020518,FLA,H,2022-12-21,0,0,{'default': 'Panthers'},{'default': 'Devils'},0,-1,0,0,0,0,0,11,0,0,NJD,0,6:25,2022
-2022020504,FLA,R,2022-12-19,0,1,{'default': 'Panthers'},{'default': 'Bruins'},1,1,0,0,0,0,2,13,0,0,BOS,2,9:07,2022
-2022020488,FLA,R,2022-12-17,0,0,{'default': 'Panthers'},{'default': 'Devils'},0,1,0,0,0,0,0,9,0,0,NJD,0,6:09,2022
-2022020474,FLA,H,2022-12-15,0,0,{'default': 'Panthers'},{'default': 'Penguins'},0,1,0,0,0,0,0,13,0,0,PIT,0,9:02,2022
-2022020455,FLA,H,2022-12-13,0,0,{'default': 'Panthers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,13,0,0,CBJ,0,9:48,2022
-2022020444,FLA,H,2022-12-11,0,1,{'default': 'Panthers'},{'default': 'Kraken'},1,0,0,0,0,0,0,10,0,0,SEA,0,8:20,2022
-2022020436,FLA,R,2022-12-10,0,0,{'default': 'Panthers'},{'default': 'Lightning'},0,-1,0,0,0,0,0,8,0,0,TBL,0,5:18,2022
-2022020419,FLA,H,2022-12-08,1,0,{'default': 'Panthers'},{'default': 'Red Wings'},1,1,0,0,0,0,1,15,0,0,DET,0,10:12,2022
-2022020408,FLA,R,2022-12-06,0,1,{'default': 'Panthers'},{'default': 'Jets'},1,1,0,0,0,0,1,18,0,0,WPG,0,12:59,2022
-2022020207,FLA,H,2022-11-09,0,0,{'default': 'Panthers'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,16,0,0,CAR,0,8:53,2022
-2022020192,FLA,R,2022-11-06,0,0,{'default': 'Panthers'},{'default': 'Ducks'},0,0,0,0,0,0,1,20,0,0,ANA,0,14:59,2022
-2022020189,FLA,R,2022-11-05,0,0,{'default': 'Panthers'},{'default': 'Kings'},0,0,0,0,0,0,0,17,0,0,LAK,0,10:09,2022
-2022020173,FLA,R,2022-11-03,0,0,{'default': 'Panthers'},{'default': 'Sharks'},0,0,0,0,0,0,2,18,0,0,SJS,0,11:37,2022
-2022020128,FLA,H,2022-10-29,0,0,{'default': 'Panthers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,2,8,0,0,OTT,0,5:18,2022
-2022020112,FLA,R,2022-10-27,0,0,{'default': 'Panthers'},{'default': 'Flyers'},0,0,0,0,0,0,0,17,0,0,PHI,0,12:49,2022
-2022020103,FLA,R,2022-10-25,0,0,{'default': 'Panthers'},{'default': 'Blackhawks'},0,1,0,0,0,0,1,16,0,0,CHI,0,10:02,2022
-2022020090,FLA,H,2022-10-23,0,0,{'default': 'Panthers'},{'default': 'Islanders'},0,1,0,0,0,0,0,14,0,0,NYI,4,10:14,2022
-2022020071,FLA,H,2022-10-21,0,0,{'default': 'Panthers'},{'default': 'Lightning'},0,0,0,0,0,0,0,10,0,0,TBL,0,8:34,2022
-2022020056,FLA,H,2022-10-19,0,0,{'default': 'Panthers'},{'default': 'Flyers'},0,0,0,0,0,0,2,19,0,0,PHI,0,13:15,2022
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020666,MIN,R,2026-01-05,0,0,{'default': 'Wild'},{'default': 'Kings'},0,-2,0,0,0,0,0,10,0,0,8:31,LAK,0,2025
+2025020540,MIN,R,2025-12-18,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,1,0,0,0,0,0,23,0,0,17:37,CBJ,0,2025
+2025020526,MIN,H,2025-12-16,0,1,{'default': 'Wild'},{'default': 'Capitals'},1,0,0,0,0,0,3,19,0,1,16:16,WSH,0,2025
+2025020496,MIN,H,2025-12-13,0,0,{'default': 'Wild'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,1,18,0,0,12:24,OTT,0,2025
+2024021294,FLA,R,2025-04-15,0,1,{'default': 'Panthers'},{'default': 'Lightning'},1,1,0,0,0,0,0,14,0,0,10:00,TBL,2,2024
+2024021225,FLA,R,2025-04-06,0,0,{'default': 'Panthers'},{'default': 'Red Wings'},0,0,0,0,0,0,0,21,0,0,15:21,DET,0,2024
+2022020538,FLA,R,2022-12-23,0,0,{'default': 'Panthers'},{'default': 'Islanders'},0,0,0,0,0,0,0,20,0,0,13:43,NYI,0,2022
+2022020518,FLA,H,2022-12-21,0,0,{'default': 'Panthers'},{'default': 'Devils'},0,-1,0,0,0,0,0,11,0,0,6:25,NJD,0,2022
+2022020504,FLA,R,2022-12-19,0,1,{'default': 'Panthers'},{'default': 'Bruins'},1,1,0,0,0,0,2,13,0,0,9:07,BOS,2,2022
+2022020488,FLA,R,2022-12-17,0,0,{'default': 'Panthers'},{'default': 'Devils'},0,1,0,0,0,0,0,9,0,0,6:09,NJD,0,2022
+2022020474,FLA,H,2022-12-15,0,0,{'default': 'Panthers'},{'default': 'Penguins'},0,1,0,0,0,0,0,13,0,0,9:02,PIT,0,2022
+2022020455,FLA,H,2022-12-13,0,0,{'default': 'Panthers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,13,0,0,9:48,CBJ,0,2022
+2022020444,FLA,H,2022-12-11,0,1,{'default': 'Panthers'},{'default': 'Kraken'},1,0,0,0,0,0,0,10,0,0,8:20,SEA,0,2022
+2022020436,FLA,R,2022-12-10,0,0,{'default': 'Panthers'},{'default': 'Lightning'},0,-1,0,0,0,0,0,8,0,0,5:18,TBL,0,2022
+2022020419,FLA,H,2022-12-08,1,0,{'default': 'Panthers'},{'default': 'Red Wings'},1,1,0,0,0,0,1,15,0,0,10:12,DET,0,2022
+2022020408,FLA,R,2022-12-06,0,1,{'default': 'Panthers'},{'default': 'Jets'},1,1,0,0,0,0,1,18,0,0,12:59,WPG,0,2022
+2022020207,FLA,H,2022-11-09,0,0,{'default': 'Panthers'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,16,0,0,8:53,CAR,0,2022
+2022020192,FLA,R,2022-11-06,0,0,{'default': 'Panthers'},{'default': 'Ducks'},0,0,0,0,0,0,1,20,0,0,14:59,ANA,0,2022
+2022020189,FLA,R,2022-11-05,0,0,{'default': 'Panthers'},{'default': 'Kings'},0,0,0,0,0,0,0,17,0,0,10:09,LAK,0,2022
+2022020173,FLA,R,2022-11-03,0,0,{'default': 'Panthers'},{'default': 'Sharks'},0,0,0,0,0,0,2,18,0,0,11:37,SJS,0,2022
+2022020128,FLA,H,2022-10-29,0,0,{'default': 'Panthers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,2,8,0,0,5:18,OTT,0,2022
+2022020112,FLA,R,2022-10-27,0,0,{'default': 'Panthers'},{'default': 'Flyers'},0,0,0,0,0,0,0,17,0,0,12:49,PHI,0,2022
+2022020103,FLA,R,2022-10-25,0,0,{'default': 'Panthers'},{'default': 'Blackhawks'},0,1,0,0,0,0,1,16,0,0,10:02,CHI,0,2022
+2022020090,FLA,H,2022-10-23,0,0,{'default': 'Panthers'},{'default': 'Islanders'},0,1,0,0,0,0,0,14,0,0,10:14,NYI,4,2022
+2022020071,FLA,H,2022-10-21,0,0,{'default': 'Panthers'},{'default': 'Lightning'},0,0,0,0,0,0,0,10,0,0,8:34,TBL,0,2022
+2022020056,FLA,H,2022-10-19,0,0,{'default': 'Panthers'},{'default': 'Flyers'},0,0,0,0,0,0,2,19,0,0,13:15,PHI,0,2022

@@ -1,33 +1,34 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020722,EDM,R,2026-01-12,0,0,{'default': 'Oilers'},{'default': 'Blackhawks'},0,0,0,0,0,0,2,17,0,0,CHI,0,14:36,2025
-2025020709,EDM,H,2026-01-10,0,0,{'default': 'Oilers'},{'default': 'Kings'},0,-1,0,0,0,0,1,14,0,0,LAK,0,9:56,2025
-2025020674,EDM,H,2026-01-06,0,0,{'default': 'Oilers'},{'default': 'Predators'},0,-2,0,0,0,0,1,19,0,0,NSH,2,16:08,2025
-2025020647,EDM,H,2026-01-03,0,0,{'default': 'Oilers'},{'default': 'Flyers'},0,-1,0,0,0,0,0,20,0,0,PHI,2,14:21,2025
-2025020631,EDM,H,2025-12-31,0,0,{'default': 'Oilers'},{'default': 'Bruins'},0,-2,0,0,0,0,0,14,0,0,BOS,0,10:56,2025
-2025020598,EDM,R,2025-12-27,0,0,{'default': 'Oilers'},{'default': 'Flames'},0,-2,0,0,0,0,1,18,0,0,CGY,0,13:06,2025
-2025020585,EDM,H,2025-12-23,0,0,{'default': 'Oilers'},{'default': 'Flames'},0,0,0,0,0,0,0,22,0,0,CGY,12,15:37,2025
-2025020570,EDM,H,2025-12-21,0,1,{'default': 'Oilers'},{'default': 'Golden Knights'},1,0,0,0,0,0,1,19,0,0,VGK,2,17:00,2025
-2025020524,EDM,R,2025-12-16,0,1,{'default': 'Oilers'},{'default': 'Penguins'},1,-1,0,0,0,0,0,26,0,0,PIT,2,18:17,2025
-2025020512,EDM,R,2025-12-14,0,0,{'default': 'Oilers'},{'default': 'Canadiens'},0,-1,0,0,0,0,1,20,0,0,MTL,4,14:10,2025
-2025020499,EDM,R,2025-12-13,0,1,{'default': 'Oilers'},{'default': 'Maple Leafs'},1,3,0,0,0,0,1,22,0,0,TOR,0,21:15,2025
-2025020491,EDM,H,2025-12-11,0,0,{'default': 'Oilers'},{'default': 'Red Wings'},0,0,0,0,0,0,0,20,0,0,DET,0,17:36,2025
-2025020474,EDM,H,2025-12-09,0,0,{'default': 'Oilers'},{'default': 'Sabres'},0,0,0,0,0,0,0,16,0,0,BUF,0,14:46,2025
-2025020450,EDM,H,2025-12-06,0,0,{'default': 'Oilers'},{'default': 'Jets'},0,1,0,0,0,0,1,25,0,0,WPG,2,21:33,2025
-2025020434,EDM,H,2025-12-04,0,0,{'default': 'Oilers'},{'default': 'Kraken'},0,0,0,0,0,0,0,22,0,0,SEA,0,18:12,2025
-2025020418,EDM,H,2025-12-02,0,0,{'default': 'Oilers'},{'default': 'Wild'},0,0,0,0,0,0,1,20,0,0,MIN,0,16:10,2025
-2025020393,EDM,R,2025-11-29,0,0,{'default': 'Oilers'},{'default': 'Kraken'},0,0,0,0,0,0,2,21,0,0,SEA,5,16:25,2025
-2025020360,EDM,H,2025-11-25,0,0,{'default': 'Oilers'},{'default': 'Stars'},0,-2,0,0,0,0,1,28,0,0,DAL,0,21:47,2025
-2025020338,EDM,R,2025-11-22,0,0,{'default': 'Oilers'},{'default': 'Panthers'},0,-1,0,0,0,0,0,20,0,0,FLA,0,16:22,2025
-2025020322,EDM,R,2025-11-20,0,0,{'default': 'Oilers'},{'default': 'Lightning'},0,0,0,0,0,0,0,15,0,0,TBL,2,8:35,2025
-2025020315,EDM,R,2025-11-19,0,0,{'default': 'Oilers'},{'default': 'Capitals'},0,-1,0,0,0,0,0,3,0,0,WSH,0,1:33,2025
-2025020302,EDM,R,2025-11-17,0,0,{'default': 'Oilers'},{'default': 'Sabres'},0,-1,0,0,0,0,2,14,0,0,BUF,0,12:09,2025
-2025020289,EDM,R,2025-11-15,0,0,{'default': 'Oilers'},{'default': 'Hurricanes'},0,-2,0,0,0,0,0,17,0,0,CAR,0,13:55,2025
-2025020274,EDM,R,2025-11-13,0,0,{'default': 'Oilers'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,0,19,0,0,CBJ,0,13:49,2025
-2025020240,EDM,H,2025-11-08,0,0,{'default': 'Oilers'},{'default': 'Avalanche'},0,-1,0,0,0,0,0,17,0,0,COL,0,13:46,2025
-2025020207,EDM,R,2025-11-04,0,0,{'default': 'Oilers'},{'default': 'Stars'},0,0,0,0,0,0,0,19,0,0,DAL,2,13:14,2025
-2025020035,EDM,H,2025-10-11,0,0,{'default': 'Oilers'},{'default': 'Canucks'},0,1,0,0,0,0,1,17,0,0,VAN,0,16:44,2025
-2025020006,EDM,H,2025-10-08,0,0,{'default': 'Oilers'},{'default': 'Flames'},0,-2,0,0,0,0,2,20,0,0,CGY,0,15:03,2025
-2022020258,CHI,H,2022-11-16,0,0,{'default': 'Blackhawks'},{'default': 'Blues'},0,-3,0,0,0,0,0,21,0,0,STL,2,15:01,2022
-2022020220,CHI,R,2022-11-10,0,0,{'default': 'Blackhawks'},{'default': 'Kings'},0,0,0,0,0,0,1,17,0,0,LAK,0,17:07,2022
-2022020176,CHI,R,2022-11-05,0,0,{'default': 'Blackhawks'},{'default': 'Jets'},0,0,0,0,0,0,1,24,0,0,WPG,0,17:00,2022
-2022020008,CHI,R,2022-10-12,0,0,{'default': 'Blackhawks'},{'default': 'Avalanche'},0,0,0,0,0,0,0,20,0,0,COL,2,17:15,2022
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020786,EDM,H,2026-01-20,0,0,{'default': 'Oilers'},{'default': 'Devils'},0,0,0,0,0,0,0,3,0,0,2:35,NJD,0,2025
+2025020722,EDM,R,2026-01-12,0,0,{'default': 'Oilers'},{'default': 'Blackhawks'},0,0,0,0,0,0,2,17,0,0,14:36,CHI,0,2025
+2025020709,EDM,H,2026-01-10,0,0,{'default': 'Oilers'},{'default': 'Kings'},0,-1,0,0,0,0,1,14,0,0,9:56,LAK,0,2025
+2025020674,EDM,H,2026-01-06,0,0,{'default': 'Oilers'},{'default': 'Predators'},0,-2,0,0,0,0,1,19,0,0,16:08,NSH,2,2025
+2025020647,EDM,H,2026-01-03,0,0,{'default': 'Oilers'},{'default': 'Flyers'},0,-1,0,0,0,0,0,20,0,0,14:21,PHI,2,2025
+2025020631,EDM,H,2025-12-31,0,0,{'default': 'Oilers'},{'default': 'Bruins'},0,-2,0,0,0,0,0,14,0,0,10:56,BOS,0,2025
+2025020598,EDM,R,2025-12-27,0,0,{'default': 'Oilers'},{'default': 'Flames'},0,-2,0,0,0,0,1,18,0,0,13:06,CGY,0,2025
+2025020585,EDM,H,2025-12-23,0,0,{'default': 'Oilers'},{'default': 'Flames'},0,0,0,0,0,0,0,22,0,0,15:37,CGY,12,2025
+2025020570,EDM,H,2025-12-21,0,1,{'default': 'Oilers'},{'default': 'Golden Knights'},1,0,0,0,0,0,1,19,0,0,17:00,VGK,2,2025
+2025020524,EDM,R,2025-12-16,0,1,{'default': 'Oilers'},{'default': 'Penguins'},1,-1,0,0,0,0,0,26,0,0,18:17,PIT,2,2025
+2025020512,EDM,R,2025-12-14,0,0,{'default': 'Oilers'},{'default': 'Canadiens'},0,-1,0,0,0,0,1,20,0,0,14:10,MTL,4,2025
+2025020499,EDM,R,2025-12-13,0,1,{'default': 'Oilers'},{'default': 'Maple Leafs'},1,3,0,0,0,0,1,22,0,0,21:15,TOR,0,2025
+2025020491,EDM,H,2025-12-11,0,0,{'default': 'Oilers'},{'default': 'Red Wings'},0,0,0,0,0,0,0,20,0,0,17:36,DET,0,2025
+2025020474,EDM,H,2025-12-09,0,0,{'default': 'Oilers'},{'default': 'Sabres'},0,0,0,0,0,0,0,16,0,0,14:46,BUF,0,2025
+2025020450,EDM,H,2025-12-06,0,0,{'default': 'Oilers'},{'default': 'Jets'},0,1,0,0,0,0,1,25,0,0,21:33,WPG,2,2025
+2025020434,EDM,H,2025-12-04,0,0,{'default': 'Oilers'},{'default': 'Kraken'},0,0,0,0,0,0,0,22,0,0,18:12,SEA,0,2025
+2025020418,EDM,H,2025-12-02,0,0,{'default': 'Oilers'},{'default': 'Wild'},0,0,0,0,0,0,1,20,0,0,16:10,MIN,0,2025
+2025020393,EDM,R,2025-11-29,0,0,{'default': 'Oilers'},{'default': 'Kraken'},0,0,0,0,0,0,2,21,0,0,16:25,SEA,5,2025
+2025020360,EDM,H,2025-11-25,0,0,{'default': 'Oilers'},{'default': 'Stars'},0,-2,0,0,0,0,1,28,0,0,21:47,DAL,0,2025
+2025020338,EDM,R,2025-11-22,0,0,{'default': 'Oilers'},{'default': 'Panthers'},0,-1,0,0,0,0,0,20,0,0,16:22,FLA,0,2025
+2025020322,EDM,R,2025-11-20,0,0,{'default': 'Oilers'},{'default': 'Lightning'},0,0,0,0,0,0,0,15,0,0,8:35,TBL,2,2025
+2025020315,EDM,R,2025-11-19,0,0,{'default': 'Oilers'},{'default': 'Capitals'},0,-1,0,0,0,0,0,3,0,0,1:33,WSH,0,2025
+2025020302,EDM,R,2025-11-17,0,0,{'default': 'Oilers'},{'default': 'Sabres'},0,-1,0,0,0,0,2,14,0,0,12:09,BUF,0,2025
+2025020289,EDM,R,2025-11-15,0,0,{'default': 'Oilers'},{'default': 'Hurricanes'},0,-2,0,0,0,0,0,17,0,0,13:55,CAR,0,2025
+2025020274,EDM,R,2025-11-13,0,0,{'default': 'Oilers'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,0,19,0,0,13:49,CBJ,0,2025
+2025020240,EDM,H,2025-11-08,0,0,{'default': 'Oilers'},{'default': 'Avalanche'},0,-1,0,0,0,0,0,17,0,0,13:46,COL,0,2025
+2025020207,EDM,R,2025-11-04,0,0,{'default': 'Oilers'},{'default': 'Stars'},0,0,0,0,0,0,0,19,0,0,13:14,DAL,2,2025
+2025020035,EDM,H,2025-10-11,0,0,{'default': 'Oilers'},{'default': 'Canucks'},0,1,0,0,0,0,1,17,0,0,16:44,VAN,0,2025
+2025020006,EDM,H,2025-10-08,0,0,{'default': 'Oilers'},{'default': 'Flames'},0,-2,0,0,0,0,2,20,0,0,15:03,CGY,0,2025
+2022020258,CHI,H,2022-11-16,0,0,{'default': 'Blackhawks'},{'default': 'Blues'},0,-3,0,0,0,0,0,21,0,0,15:01,STL,2,2022
+2022020220,CHI,R,2022-11-10,0,0,{'default': 'Blackhawks'},{'default': 'Kings'},0,0,0,0,0,0,1,17,0,0,17:07,LAK,0,2022
+2022020176,CHI,R,2022-11-05,0,0,{'default': 'Blackhawks'},{'default': 'Jets'},0,0,0,0,0,0,1,24,0,0,17:00,WPG,0,2022
+2022020008,CHI,R,2022-10-12,0,0,{'default': 'Blackhawks'},{'default': 'Avalanche'},0,0,0,0,0,0,0,20,0,0,17:15,COL,2,2022
