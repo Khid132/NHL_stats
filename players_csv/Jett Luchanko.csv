@@ -1,9 +1,9 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020094,PHI,H,2025-10-20,0,0,{'default': 'Flyers'},{'default': 'Kraken'},0,-1,0,0,0,0,1,12,0,0,SEA,2,8:43,2025
-2025020066,PHI,H,2025-10-16,0,0,{'default': 'Flyers'},{'default': 'Jets'},0,-1,0,0,0,0,0,13,0,0,WPG,0,10:40,2025
-2025020044,PHI,H,2025-10-13,0,0,{'default': 'Flyers'},{'default': 'Panthers'},0,0,0,0,0,0,0,11,0,0,FLA,0,8:49,2025
-2025020030,PHI,R,2025-10-11,0,0,{'default': 'Flyers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,9,0,0,CAR,0,7:40,2025
-2024020082,PHI,H,2024-10-19,0,0,{'default': 'Flyers'},{'default': 'Canucks'},0,0,0,0,0,0,0,19,0,0,VAN,0,12:23,2024
-2024020071,PHI,R,2024-10-17,0,0,{'default': 'Flyers'},{'default': 'Kraken'},0,-2,0,0,0,0,0,17,0,0,SEA,0,12:14,2024
-2024020056,PHI,R,2024-10-15,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,0,0,0,0,0,2,22,0,0,EDM,2,17:00,2024
-2024020022,PHI,R,2024-10-11,0,0,{'default': 'Flyers'},{'default': 'Canucks'},0,-1,0,0,0,0,1,18,0,0,VAN,0,14:36,2024
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,pim,opponentAbbrev,season
+2025020094,PHI,H,2025-10-20,0,0,{'default': 'Flyers'},{'default': 'Kraken'},0,-1,0,0,0,0,1,12,0,0,8:43,2,SEA,2025
+2025020066,PHI,H,2025-10-16,0,0,{'default': 'Flyers'},{'default': 'Jets'},0,-1,0,0,0,0,0,13,0,0,10:40,0,WPG,2025
+2025020044,PHI,H,2025-10-13,0,0,{'default': 'Flyers'},{'default': 'Panthers'},0,0,0,0,0,0,0,11,0,0,8:49,0,FLA,2025
+2025020030,PHI,R,2025-10-11,0,0,{'default': 'Flyers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,9,0,0,7:40,0,CAR,2025
+2024020082,PHI,H,2024-10-19,0,0,{'default': 'Flyers'},{'default': 'Canucks'},0,0,0,0,0,0,0,19,0,0,12:23,0,VAN,2024
+2024020071,PHI,R,2024-10-17,0,0,{'default': 'Flyers'},{'default': 'Kraken'},0,-2,0,0,0,0,0,17,0,0,12:14,0,SEA,2024
+2024020056,PHI,R,2024-10-15,0,0,{'default': 'Flyers'},{'default': 'Oilers'},0,0,0,0,0,0,2,22,0,0,17:00,2,EDM,2024
+2024020022,PHI,R,2024-10-11,0,0,{'default': 'Flyers'},{'default': 'Canucks'},0,-1,0,0,0,0,1,18,0,0,14:36,0,VAN,2024

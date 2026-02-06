@@ -1,10 +1,11 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+2025020905,NYI,R,2026-02-05,0,0,{'default': 'Islanders'},{'default': 'Devils'},0,1,0,0,0,0,1,27,0,0,NJD,0,22:31,2025
 2025020888,NYI,H,2026-02-03,0,1,{'default': 'Islanders'},{'default': 'Penguins'},1,1,0,0,0,0,2,25,0,0,PIT,0,20:12,2025
 2025020878,NYI,R,2026-02-02,0,0,{'default': 'Islanders'},{'default': 'Capitals'},0,-2,0,0,0,0,1,26,0,0,WSH,0,21:14,2025
 2025020867,NYI,H,2026-01-31,0,0,{'default': 'Islanders'},{'default': 'Predators'},0,2,0,0,0,0,0,25,0,0,NSH,4,19:18,2025
 2025020849,NYI,R,2026-01-29,0,0,{'default': 'Islanders'},{'default': 'Rangers'},0,0,0,0,0,0,0,24,0,0,NYR,0,21:19,2025
 2025020842,NYI,H,2026-01-28,0,1,{'default': 'Islanders'},{'default': 'Rangers'},1,2,0,0,0,0,2,23,0,0,NYR,0,17:29,2025
-2025020827,NYI,R,2026-01-26,0,1,{'default': 'Islanders'},{'default': 'Flyers'},1,2,0,0,0,0,0,26,0,1,PHI,0,24:09,2025
+2025020827,NYI,R,2026-01-26,0,1,{'default': 'Islanders'},{'default': 'Flyers'},1,2,0,0,0,0,0,26,1,0,PHI,0,24:09,2025
 2025020810,NYI,H,2026-01-24,0,0,{'default': 'Islanders'},{'default': 'Sabres'},0,-3,0,0,0,0,1,26,0,0,BUF,0,20:26,2025
 2025020793,NYI,R,2026-01-21,0,0,{'default': 'Islanders'},{'default': 'Kraken'},0,-1,0,0,0,0,3,27,0,0,SEA,0,22:02,2025
 2025020778,NYI,R,2026-01-19,0,0,{'default': 'Islanders'},{'default': 'Canucks'},0,-1,0,0,0,0,1,27,0,0,VAN,0,19:58,2025
@@ -150,7 +151,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020798,NYI,H,2024-02-08,0,1,{'default': 'Islanders'},{'default': 'Lightning'},1,2,0,0,0,0,0,23,0,0,TBL,0,17:30,2023
 2023020782,NYI,R,2024-02-05,0,0,{'default': 'Islanders'},{'default': 'Maple Leafs'},0,-1,0,0,0,0,3,29,0,0,TOR,0,20:49,2023
 2023020748,NYI,R,2024-01-25,0,0,{'default': 'Islanders'},{'default': 'Canadiens'},0,0,0,0,0,0,0,24,0,0,MTL,0,17:27,2023
-2023020733,NYI,H,2024-01-23,0,1,{'default': 'Islanders'},{'default': 'Golden Knights'},1,0,0,0,0,0,2,27,0,1,VGK,0,19:12,2023
+2023020733,NYI,H,2024-01-23,0,1,{'default': 'Islanders'},{'default': 'Golden Knights'},1,0,0,0,0,0,2,27,1,0,VGK,0,19:12,2023
 2023020721,NYI,H,2024-01-21,0,0,{'default': 'Islanders'},{'default': 'Stars'},0,-1,0,0,0,0,1,34,0,0,DAL,0,23:40,2023
 2023020705,NYI,R,2024-01-19,0,0,{'default': 'Islanders'},{'default': 'Blackhawks'},0,-1,0,0,0,0,2,26,0,0,CHI,0,21:18,2023
 2023020685,NYI,R,2024-01-16,0,0,{'default': 'Islanders'},{'default': 'Jets'},0,-2,0,0,0,0,1,29,0,0,WPG,0,19:32,2023
@@ -214,7 +215,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020353,NYI,R,2022-11-29,0,0,{'default': 'Islanders'},{'default': 'Flyers'},0,-1,0,0,0,0,1,23,0,0,PHI,4,17:55,2022
 2022020337,NYI,H,2022-11-26,1,0,{'default': 'Islanders'},{'default': 'Flyers'},1,3,0,0,0,0,1,25,0,0,PHI,0,18:18,2022
 2022020326,NYI,R,2022-11-25,0,0,{'default': 'Islanders'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,26,0,0,CBJ,2,20:03,2022
-2022020310,NYI,H,2022-11-23,0,1,{'default': 'Islanders'},{'default': 'Oilers'},1,1,0,0,0,0,0,28,0,1,EDM,0,24:09,2022
+2022020310,NYI,H,2022-11-23,0,1,{'default': 'Islanders'},{'default': 'Oilers'},1,1,0,0,0,0,0,28,1,0,EDM,0,24:09,2022
 2022020295,NYI,R,2022-11-21,0,0,{'default': 'Islanders'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,32,0,0,TOR,0,21:52,2022
 2022020284,NYI,R,2022-11-19,0,0,{'default': 'Islanders'},{'default': 'Stars'},0,-3,0,0,0,0,1,28,0,0,DAL,0,19:06,2022
 2022020267,NYI,R,2022-11-17,1,1,{'default': 'Islanders'},{'default': 'Predators'},2,1,0,0,0,0,4,31,0,0,NSH,0,22:04,2022

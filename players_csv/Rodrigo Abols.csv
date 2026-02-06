@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020755,PHI,H,2026-01-17,0,0,{'default': 'Flyers'},{'default': 'Rangers'},0,0,0,0,0,0,0,2,0,0,NYR,0,1:19,2025
 2025020741,PHI,R,2026-01-15,1,0,{'default': 'Flyers'},{'default': 'Penguins'},1,0,0,0,0,0,1,14,0,0,PIT,0,10:37,2025
 2025020736,PHI,R,2026-01-14,0,0,{'default': 'Flyers'},{'default': 'Sabres'},0,-1,0,0,0,0,0,14,0,0,BUF,0,9:09,2025
@@ -8,7 +8,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020670,PHI,H,2026-01-06,0,0,{'default': 'Flyers'},{'default': 'Ducks'},0,0,0,0,0,0,1,18,0,0,ANA,0,11:07,2025
 2025020647,PHI,R,2026-01-03,0,1,{'default': 'Flyers'},{'default': 'Oilers'},1,1,0,0,0,0,2,16,0,0,EDM,2,10:41,2025
 2025020630,PHI,R,2025-12-31,0,0,{'default': 'Flyers'},{'default': 'Flames'},0,-1,0,0,0,0,2,17,0,0,CGY,0,12:12,2025
-2025020621,PHI,R,2025-12-30,0,1,{'default': 'Flyers'},{'default': 'Canucks'},1,1,0,0,0,0,1,19,0,1,VAN,0,13:24,2025
+2025020621,PHI,R,2025-12-30,0,1,{'default': 'Flyers'},{'default': 'Canucks'},1,1,0,0,0,0,1,19,1,0,VAN,0,13:24,2025
 2025020605,PHI,R,2025-12-28,0,1,{'default': 'Flyers'},{'default': 'Kraken'},1,0,0,0,0,0,1,16,0,0,SEA,0,13:27,2025
 2025020583,PHI,R,2025-12-23,0,0,{'default': 'Flyers'},{'default': 'Blackhawks'},0,1,0,0,0,0,2,20,0,0,CHI,0,11:58,2025
 2025020572,PHI,H,2025-12-22,0,2,{'default': 'Flyers'},{'default': 'Canucks'},2,2,0,0,0,0,1,17,0,0,VAN,0,14:07,2025

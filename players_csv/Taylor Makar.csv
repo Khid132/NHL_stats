@@ -1,13 +1,13 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020897,COL,H,2026-02-04,0,0,{'default': 'Avalanche'},{'default': 'Sharks'},0,0,0,0,0,0,0,6,0,0,SJS,0,3:25,2025
-2025020883,COL,H,2026-02-02,0,0,{'default': 'Avalanche'},{'default': 'Red Wings'},0,0,0,0,0,0,0,9,0,0,DET,2,5:44,2025
-2025020860,COL,R,2026-01-31,0,0,{'default': 'Avalanche'},{'default': 'Red Wings'},0,0,0,0,0,0,0,13,0,0,DET,0,8:01,2025
-2025020841,COL,R,2026-01-28,0,0,{'default': 'Avalanche'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,8,0,0,OTT,2,5:30,2025
-2025020819,COL,R,2026-01-25,0,0,{'default': 'Avalanche'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,12,0,0,TOR,0,9:56,2025
-2025020805,COL,H,2026-01-23,0,0,{'default': 'Avalanche'},{'default': 'Flyers'},0,-1,0,0,0,0,1,11,0,0,PHI,0,7:16,2025
-2025020789,COL,H,2026-01-21,0,0,{'default': 'Avalanche'},{'default': 'Ducks'},0,0,0,0,0,0,1,11,0,0,ANA,0,7:13,2025
-2025020668,COL,R,2026-01-06,0,0,{'default': 'Avalanche'},{'default': 'Lightning'},0,1,0,0,0,0,1,8,0,0,TBL,0,5:29,2025
-2025020653,COL,R,2026-01-03,0,0,{'default': 'Avalanche'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,8,0,0,CAR,0,5:18,2025
-2025020300,COL,H,2025-11-16,0,0,{'default': 'Avalanche'},{'default': 'Islanders'},0,0,0,0,0,0,0,7,0,0,NYI,0,3:21,2025
-2025020275,COL,H,2025-11-13,0,0,{'default': 'Avalanche'},{'default': 'Sabres'},0,0,0,0,0,0,3,12,0,0,BUF,0,7:11,2025
-2025020184,COL,R,2025-11-01,0,0,{'default': 'Avalanche'},{'default': 'Sharks'},0,0,0,0,0,0,0,8,0,0,SJS,0,6:07,2025
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,pim,opponentAbbrev,season
+2025020897,COL,H,2026-02-04,0,0,{'default': 'Avalanche'},{'default': 'Sharks'},0,0,0,0,0,0,0,6,0,0,3:25,0,SJS,2025
+2025020883,COL,H,2026-02-02,0,0,{'default': 'Avalanche'},{'default': 'Red Wings'},0,0,0,0,0,0,0,9,0,0,5:44,2,DET,2025
+2025020860,COL,R,2026-01-31,0,0,{'default': 'Avalanche'},{'default': 'Red Wings'},0,0,0,0,0,0,0,13,0,0,8:01,0,DET,2025
+2025020841,COL,R,2026-01-28,0,0,{'default': 'Avalanche'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,8,0,0,5:30,2,OTT,2025
+2025020819,COL,R,2026-01-25,0,0,{'default': 'Avalanche'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,12,0,0,9:56,0,TOR,2025
+2025020805,COL,H,2026-01-23,0,0,{'default': 'Avalanche'},{'default': 'Flyers'},0,-1,0,0,0,0,1,11,0,0,7:16,0,PHI,2025
+2025020789,COL,H,2026-01-21,0,0,{'default': 'Avalanche'},{'default': 'Ducks'},0,0,0,0,0,0,1,11,0,0,7:13,0,ANA,2025
+2025020668,COL,R,2026-01-06,0,0,{'default': 'Avalanche'},{'default': 'Lightning'},0,1,0,0,0,0,1,8,0,0,5:29,0,TBL,2025
+2025020653,COL,R,2026-01-03,0,0,{'default': 'Avalanche'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,8,0,0,5:18,0,CAR,2025
+2025020300,COL,H,2025-11-16,0,0,{'default': 'Avalanche'},{'default': 'Islanders'},0,0,0,0,0,0,0,7,0,0,3:21,0,NYI,2025
+2025020275,COL,H,2025-11-13,0,0,{'default': 'Avalanche'},{'default': 'Sabres'},0,0,0,0,0,0,3,12,0,0,7:11,0,BUF,2025
+2025020184,COL,R,2025-11-01,0,0,{'default': 'Avalanche'},{'default': 'Sharks'},0,0,0,0,0,0,0,8,0,0,6:07,0,SJS,2025

@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020887,NJD,H,2026-02-03,0,0,{'default': 'Devils'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,11,0,0,CBJ,0,8:04,2025
 2025020866,NJD,R,2026-01-31,0,0,{'default': 'Devils'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,9,0,0,OTT,0,5:44,2025
 2025020848,NJD,H,2026-01-29,0,0,{'default': 'Devils'},{'default': 'Predators'},0,0,0,0,0,0,1,12,0,0,NSH,0,8:36,2025
@@ -46,7 +46,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020124,NJD,H,2025-10-24,0,0,{'default': 'Devils'},{'default': 'Sharks'},0,0,0,0,0,0,1,17,0,0,SJS,0,10:38,2025
 2025020108,NJD,H,2025-10-22,0,0,{'default': 'Devils'},{'default': 'Wild'},0,-1,0,0,0,0,0,16,0,0,MIN,0,9:37,2025
 2025020098,NJD,R,2025-10-21,0,1,{'default': 'Devils'},{'default': 'Maple Leafs'},1,1,0,0,0,0,1,18,0,0,TOR,0,12:13,2025
-2025020078,NJD,H,2025-10-18,0,1,{'default': 'Devils'},{'default': 'Oilers'},1,0,0,0,0,0,1,16,0,1,EDM,0,11:10,2025
+2025020078,NJD,H,2025-10-18,0,1,{'default': 'Devils'},{'default': 'Oilers'},1,0,0,0,0,0,1,16,1,0,EDM,0,11:10,2025
 2025020064,NJD,H,2025-10-16,0,0,{'default': 'Devils'},{'default': 'Panthers'},0,0,0,0,0,0,1,13,0,0,FLA,0,9:21,2025
 2025020045,NJD,R,2025-10-13,0,0,{'default': 'Devils'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,18,0,0,CBJ,0,10:24,2025
 2025020026,NJD,R,2025-10-11,0,0,{'default': 'Devils'},{'default': 'Lightning'},0,-2,0,0,0,0,0,18,0,0,TBL,0,12:52,2025
@@ -106,7 +106,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020437,TBL,R,2024-12-08,0,0,{'default': 'Lightning'},{'default': 'Canucks'},0,0,0,0,0,0,0,21,0,0,VAN,0,12:58,2024
 2024020413,TBL,H,2024-12-05,0,0,{'default': 'Lightning'},{'default': 'Sharks'},0,-1,0,0,0,0,1,22,0,0,SJS,0,12:27,2024
 2024020378,TBL,H,2024-11-30,0,0,{'default': 'Lightning'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,15,0,0,TOR,0,8:08,2024
-2024020369,TBL,R,2024-11-29,0,1,{'default': 'Lightning'},{'default': 'Predators'},1,0,0,0,0,0,0,28,0,1,NSH,0,15:34,2024
+2024020369,TBL,R,2024-11-29,0,1,{'default': 'Lightning'},{'default': 'Predators'},1,0,0,0,0,0,0,28,1,0,NSH,0,15:34,2024
 2024020351,TBL,H,2024-11-27,0,0,{'default': 'Lightning'},{'default': 'Capitals'},0,1,0,0,0,0,1,18,0,0,WSH,0,11:34,2024
 2024020334,TBL,H,2024-11-25,1,0,{'default': 'Lightning'},{'default': 'Avalanche'},1,2,0,0,0,0,1,21,1,1,COL,0,15:38,2024
 2024020325,TBL,H,2024-11-23,0,0,{'default': 'Lightning'},{'default': 'Stars'},0,-1,0,0,0,0,0,18,0,0,DAL,0,9:56,2024

@@ -1,4 +1,5 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+2025020906,CAR,R,2026-02-05,0,0,{'default': 'Hurricanes'},{'default': 'Rangers'},0,0,0,0,0,0,2,22,0,0,NYR,0,21:55,2025
 2025020890,CAR,H,2026-02-03,2,0,{'default': 'Hurricanes'},"{'default': 'Senators', 'fr': 'Sénateurs'}",2,2,1,1,0,0,4,24,0,0,OTT,0,15:50,2025
 2025020874,CAR,H,2026-02-01,0,1,{'default': 'Hurricanes'},{'default': 'Kings'},1,1,0,0,0,0,2,22,0,0,LAK,0,19:04,2025
 2025020864,CAR,R,2026-01-31,0,0,{'default': 'Hurricanes'},{'default': 'Capitals'},0,1,0,0,0,0,4,22,0,0,WSH,0,18:48,2025
@@ -71,7 +72,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020940,CAR,H,2025-02-27,1,0,{'default': 'Hurricanes'},{'default': 'Sabres'},1,1,0,0,0,0,3,20,0,0,BUF,0,15:36,2024
 2024020920,CAR,R,2025-02-25,0,0,{'default': 'Hurricanes'},{'default': 'Canadiens'},0,-1,0,0,0,0,1,18,0,0,MTL,0,19:35,2024
 2024020900,CAR,R,2025-02-22,0,0,{'default': 'Hurricanes'},{'default': 'Maple Leafs'},0,-3,0,0,0,0,2,27,0,0,TOR,0,20:44,2024
-2024020878,CAR,H,2025-02-08,2,2,{'default': 'Hurricanes'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",4,4,1,1,0,0,5,25,0,1,UTA,0,19:54,2024
+2024020878,CAR,H,2025-02-08,2,2,{'default': 'Hurricanes'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",4,4,1,1,0,0,5,25,1,0,UTA,0,19:54,2024
 2024020867,CAR,R,2025-02-06,0,1,{'default': 'Hurricanes'},{'default': 'Wild'},1,1,0,0,0,0,1,20,0,0,MIN,0,21:59,2024
 2024020852,CAR,R,2025-02-04,0,0,{'default': 'Hurricanes'},{'default': 'Jets'},0,0,0,0,0,0,2,24,0,0,WPG,0,22:59,2024
 2024020832,CAR,H,2025-02-01,0,0,{'default': 'Hurricanes'},{'default': 'Kings'},0,0,0,0,0,0,0,19,0,0,LAK,0,19:37,2024
@@ -97,7 +98,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020539,CAR,R,2024-12-22,0,0,{'default': 'Hurricanes'},{'default': 'Rangers'},0,1,0,0,0,0,1,25,0,0,NYR,0,23:39,2024
 2024020524,CAR,R,2024-12-20,1,0,{'default': 'Hurricanes'},{'default': 'Capitals'},1,0,0,0,0,0,3,23,0,0,WSH,0,18:03,2024
 2024020500,CAR,H,2024-12-17,0,0,{'default': 'Hurricanes'},{'default': 'Islanders'},0,1,0,0,0,0,1,19,0,0,NYI,0,18:20,2024
-2024020491,CAR,H,2024-12-15,0,1,{'default': 'Hurricanes'},{'default': 'Blue Jackets'},1,1,0,0,0,0,2,20,0,1,CBJ,2,18:24,2024
+2024020491,CAR,H,2024-12-15,0,1,{'default': 'Hurricanes'},{'default': 'Blue Jackets'},1,1,0,0,0,0,2,20,1,0,CBJ,2,18:24,2024
 2024020473,CAR,H,2024-12-13,0,0,{'default': 'Hurricanes'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,5,23,0,0,OTT,0,18:35,2024
 2024020448,CAR,H,2024-12-10,0,0,{'default': 'Hurricanes'},{'default': 'Sharks'},0,1,0,0,0,0,0,21,0,0,SJS,0,20:44,2024
 2024020428,CAR,R,2024-12-07,0,1,{'default': 'Hurricanes'},{'default': 'Islanders'},1,1,0,1,0,0,1,19,0,0,NYI,0,18:10,2024
@@ -200,7 +201,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020047,CAR,R,2023-10-17,2,0,{'default': 'Hurricanes'},{'default': 'Sharks'},2,1,2,2,1,0,4,24,0,0,SJS,0,21:00,2023
 2023020034,CAR,R,2023-10-15,0,0,{'default': 'Hurricanes'},{'default': 'Ducks'},0,-2,0,0,0,0,3,22,0,0,ANA,0,18:07,2023
 2023020032,CAR,R,2023-10-14,0,0,{'default': 'Hurricanes'},{'default': 'Kings'},0,0,0,0,0,0,0,26,0,0,LAK,2,19:01,2023
-2023020004,CAR,H,2023-10-11,0,1,{'default': 'Hurricanes'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,-1,0,0,0,0,4,24,0,1,OTT,0,21:49,2023
+2023020004,CAR,H,2023-10-11,0,1,{'default': 'Hurricanes'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,-1,0,0,0,0,4,24,1,0,OTT,0,21:49,2023
 2022021299,CAR,R,2023-04-13,0,2,{'default': 'Hurricanes'},{'default': 'Panthers'},2,2,0,0,0,0,1,20,0,0,FLA,0,18:41,2022
 2022021288,CAR,H,2023-04-11,0,0,{'default': 'Hurricanes'},{'default': 'Red Wings'},0,0,0,0,0,0,2,18,0,0,DET,0,16:39,2022
 2022021276,CAR,R,2023-04-10,0,1,{'default': 'Hurricanes'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,-2,0,1,0,0,5,24,0,0,OTT,0,19:03,2022
