@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020904,FLA,R,2026-02-05,0,0,{'default': 'Panthers'},{'default': 'Lightning'},0,-3,0,0,0,0,2,27,0,0,TBL,0,22:05,2025
 2025020893,FLA,H,2026-02-04,0,0,{'default': 'Panthers'},{'default': 'Bruins'},0,0,0,0,0,0,0,18,0,0,BOS,0,14:55,2025
 2025020876,FLA,H,2026-02-02,0,0,{'default': 'Panthers'},{'default': 'Sabres'},0,0,0,0,0,0,1,21,0,0,BUF,2,12:00,2025
@@ -132,7 +132,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020805,DET,H,2024-02-10,0,1,{'default': 'Red Wings'},{'default': 'Canucks'},1,-1,0,0,0,0,1,25,0,0,VAN,0,20:13,2023
 2023020778,DET,H,2024-01-31,0,0,{'default': 'Red Wings'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,1,0,0,0,0,1,28,0,0,OTT,0,20:30,2023
 2023020764,DET,H,2024-01-27,0,0,{'default': 'Red Wings'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,27,0,0,VGK,0,19:29,2023
-2023020747,DET,H,2024-01-25,0,1,{'default': 'Red Wings'},{'default': 'Flyers'},1,0,0,0,0,0,1,24,1,0,PHI,2,18:28,2023
+2023020747,DET,H,2024-01-25,0,1,{'default': 'Red Wings'},{'default': 'Flyers'},1,0,0,0,0,0,1,24,0,1,PHI,2,18:28,2023
 2023020730,DET,H,2024-01-23,0,0,{'default': 'Red Wings'},{'default': 'Stars'},0,-2,0,0,0,0,3,24,0,0,DAL,2,18:27,2023
 2023020720,DET,H,2024-01-21,0,0,{'default': 'Red Wings'},{'default': 'Lightning'},0,1,0,0,0,0,2,25,0,0,TBL,2,19:18,2023
 2023020702,DET,R,2024-01-19,0,0,{'default': 'Red Wings'},{'default': 'Hurricanes'},0,1,0,0,0,0,1,24,0,0,CAR,2,16:57,2023

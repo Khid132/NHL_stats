@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020897,SJS,R,2026-02-04,0,0,{'default': 'Sharks'},{'default': 'Avalanche'},0,-1,0,0,0,0,3,27,0,0,COL,0,19:29,2025
 2025020881,SJS,R,2026-02-02,0,0,{'default': 'Sharks'},{'default': 'Blackhawks'},0,-3,0,0,0,0,1,21,0,0,CHI,0,24:27,2025
 2025020863,SJS,R,2026-01-31,0,0,{'default': 'Sharks'},{'default': 'Flames'},0,0,0,0,0,0,1,22,0,0,CGY,2,16:33,2025
@@ -231,7 +231,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022021038,BOS,H,2023-03-11,0,1,{'default': 'Bruins'},{'default': 'Red Wings'},1,1,0,1,0,0,0,28,0,0,DET,0,21:51,2022
 2022021026,BOS,H,2023-03-09,0,0,{'default': 'Bruins'},{'default': 'Oilers'},0,0,0,0,0,0,2,27,0,0,EDM,0,19:17,2022
 2022020991,BOS,H,2023-03-04,0,1,{'default': 'Bruins'},{'default': 'Rangers'},1,2,0,0,0,0,2,24,0,0,NYR,0,19:03,2022
-2022020974,BOS,H,2023-03-02,1,2,{'default': 'Bruins'},{'default': 'Sabres'},3,3,1,1,0,0,2,26,0,1,BUF,0,21:02,2022
+2022020974,BOS,H,2023-03-02,1,2,{'default': 'Bruins'},{'default': 'Sabres'},3,3,1,1,0,0,2,26,1,0,BUF,0,21:02,2022
 2022020965,BOS,R,2023-02-28,2,1,{'default': 'Bruins'},{'default': 'Flames'},3,2,0,1,0,0,3,31,0,0,CGY,2,22:27,2022
 2022020954,BOS,R,2023-02-27,0,2,{'default': 'Bruins'},{'default': 'Oilers'},2,0,0,0,0,0,0,26,0,0,EDM,0,19:17,2022
 2022020939,BOS,R,2023-02-25,0,0,{'default': 'Bruins'},{'default': 'Canucks'},0,-1,0,0,0,0,1,24,0,0,VAN,0,20:04,2022

@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020898,DET,R,2026-02-04,0,0,{'default': 'Red Wings'},{'default': 'Mammoth'},0,0,0,0,0,0,3,23,0,0,UTA,0,16:54,2025
 2025020883,DET,R,2026-02-02,0,0,{'default': 'Red Wings'},{'default': 'Avalanche'},0,1,0,0,0,0,0,26,0,0,COL,0,21:41,2025
 2025020860,DET,H,2026-01-31,0,0,{'default': 'Red Wings'},{'default': 'Avalanche'},0,-2,0,0,0,0,2,24,0,0,COL,0,17:44,2025
@@ -91,7 +91,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023021205,OTT,H,2024-04-04,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Panthers'},0,-2,0,0,0,0,0,22,0,0,FLA,0,15:07,2023
 2023021193,OTT,R,2024-04-02,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Wild'},0,-1,0,0,0,0,0,28,0,0,MIN,0,20:11,2023
 2023021175,OTT,R,2024-03-30,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Jets'},0,0,0,0,0,0,1,19,0,0,WPG,0,16:03,2023
-2023021153,OTT,H,2024-03-28,0,1,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Blackhawks'},1,1,0,0,0,0,1,24,0,1,CHI,0,17:39,2023
+2023021153,OTT,H,2024-03-28,0,1,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Blackhawks'},1,1,0,0,0,0,1,24,1,0,CHI,0,17:39,2023
 2023021148,OTT,R,2024-03-27,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Sabres'},0,1,0,0,0,0,0,23,0,0,BUF,0,18:08,2023
 2023021128,OTT,H,2024-03-24,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Oilers'},0,0,0,0,0,0,0,20,0,0,EDM,0,17:01,2023
 2023021117,OTT,R,2024-03-23,0,0,"{'default': 'Senators', 'fr': 'Sénateurs'}",{'default': 'Devils'},0,1,0,0,0,0,0,19,0,0,NJD,2,12:07,2023

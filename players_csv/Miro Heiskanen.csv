@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020899,DAL,H,2026-02-04,0,2,{'default': 'Stars'},{'default': 'Blues'},2,1,0,0,0,0,2,23,0,0,STL,2,25:20,2025
 2025020882,DAL,H,2026-02-02,0,2,{'default': 'Stars'},{'default': 'Jets'},2,-1,0,0,0,0,3,26,0,0,WPG,2,26:18,2025
 2025020870,DAL,R,2026-01-31,0,1,{'default': 'Stars'},{'default': 'Mammoth'},1,0,0,1,0,0,5,26,0,0,UTA,0,25:35,2025
@@ -252,5 +252,5 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020078,DAL,R,2022-10-22,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,2,0,0,0,0,3,27,0,0,MTL,0,22:45,2022
 2022020061,DAL,R,2022-10-20,0,0,{'default': 'Stars'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,29,0,0,TOR,4,24:27,2022
 2022020046,DAL,H,2022-10-17,1,0,{'default': 'Stars'},{'default': 'Jets'},1,1,1,1,0,0,3,27,0,0,WPG,0,24:41,2022
-2022020035,DAL,H,2022-10-15,1,1,{'default': 'Stars'},{'default': 'Predators'},2,2,0,0,0,0,3,26,1,0,NSH,0,23:21,2022
+2022020035,DAL,H,2022-10-15,1,1,{'default': 'Stars'},{'default': 'Predators'},2,2,0,0,0,0,3,26,0,1,NSH,0,23:21,2022
 2022020016,DAL,R,2022-10-13,0,0,{'default': 'Stars'},{'default': 'Predators'},0,2,0,0,0,0,2,33,0,0,NSH,2,26:53,2022
