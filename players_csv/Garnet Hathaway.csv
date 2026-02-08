@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020907,PHI,H,2026-02-05,0,0,{'default': 'Flyers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,11,0,0,OTT,0,8:17,2025
 2025020859,PHI,H,2026-01-31,0,0,{'default': 'Flyers'},{'default': 'Kings'},0,0,0,0,0,0,1,12,0,0,LAK,0,9:02,2025
 2025020843,PHI,R,2026-01-29,0,0,{'default': 'Flyers'},{'default': 'Bruins'},0,-1,0,0,0,0,1,19,0,0,BOS,2,12:50,2025
@@ -142,7 +142,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020859,PHI,R,2024-02-17,0,0,{'default': 'Flyers'},{'default': 'Devils'},0,1,0,0,0,0,2,23,0,0,NJD,0,15:02,2023
 2023020843,PHI,R,2024-02-15,1,0,{'default': 'Flyers'},{'default': 'Maple Leafs'},1,1,0,0,0,0,3,20,0,0,TOR,0,14:59,2023
 2023020821,PHI,H,2024-02-12,0,0,{'default': 'Flyers'},{'default': 'Coyotes'},0,1,0,0,0,0,3,21,0,0,ARI,2,13:23,2023
-2023020813,PHI,H,2024-02-10,0,1,{'default': 'Flyers'},{'default': 'Kraken'},1,1,0,0,0,0,1,16,0,1,SEA,0,9:19,2023
+2023020813,PHI,H,2024-02-10,0,1,{'default': 'Flyers'},{'default': 'Kraken'},1,1,0,0,0,0,1,16,1,0,SEA,0,9:19,2023
 2023020797,PHI,H,2024-02-08,0,0,{'default': 'Flyers'},{'default': 'Jets'},0,1,0,0,0,0,2,21,0,0,WPG,2,13:12,2023
 2023020786,PHI,R,2024-02-06,0,0,{'default': 'Flyers'},{'default': 'Panthers'},0,0,0,0,0,0,0,12,0,0,FLA,0,8:40,2023
 2023020759,PHI,H,2024-01-27,0,0,{'default': 'Flyers'},{'default': 'Bruins'},0,-1,0,0,0,0,0,12,0,0,BOS,0,9:20,2023
@@ -177,7 +177,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020312,PHI,R,2023-11-25,0,0,{'default': 'Flyers'},{'default': 'Islanders'},0,0,0,0,0,0,0,17,0,0,NYI,0,9:56,2023
 2023020294,PHI,H,2023-11-24,0,0,{'default': 'Flyers'},{'default': 'Rangers'},0,-1,0,0,0,0,2,13,0,0,NYR,10,8:16,2023
 2023020286,PHI,R,2023-11-22,0,0,{'default': 'Flyers'},{'default': 'Islanders'},0,0,0,0,0,0,2,14,0,0,NYI,2,9:18,2023
-2023020268,PHI,H,2023-11-19,0,1,{'default': 'Flyers'},{'default': 'Blue Jackets'},1,2,0,0,0,0,0,21,0,1,CBJ,0,13:10,2023
+2023020268,PHI,H,2023-11-19,0,1,{'default': 'Flyers'},{'default': 'Blue Jackets'},1,2,0,0,0,0,0,21,1,0,CBJ,0,13:10,2023
 2023020255,PHI,H,2023-11-18,0,0,{'default': 'Flyers'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,21,0,0,VGK,2,12:36,2023
 2023020238,PHI,R,2023-11-15,0,0,{'default': 'Flyers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,13,0,0,CAR,0,9:15,2023
 2023020221,PHI,R,2023-11-11,0,0,{'default': 'Flyers'},{'default': 'Kings'},0,0,0,0,0,0,0,14,0,0,LAK,0,10:11,2023
@@ -216,7 +216,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022021038,BOS,H,2023-03-11,1,0,{'default': 'Bruins'},{'default': 'Red Wings'},1,1,0,0,1,0,2,17,0,0,DET,0,9:01,2022
 2022021026,BOS,H,2023-03-09,0,0,{'default': 'Bruins'},{'default': 'Oilers'},0,0,0,0,0,0,2,16,0,0,EDM,0,8:34,2022
 2022020991,BOS,H,2023-03-04,0,0,{'default': 'Bruins'},{'default': 'Rangers'},0,0,0,0,0,0,0,17,0,0,NYR,0,10:03,2022
-2022020974,BOS,H,2023-03-02,0,1,{'default': 'Bruins'},{'default': 'Sabres'},1,1,0,0,0,0,0,21,0,1,BUF,0,12:56,2022
+2022020974,BOS,H,2023-03-02,0,1,{'default': 'Bruins'},{'default': 'Sabres'},1,1,0,0,0,0,0,21,1,0,BUF,0,12:56,2022
 2022020965,BOS,R,2023-02-28,0,0,{'default': 'Bruins'},{'default': 'Flames'},0,-1,0,0,0,0,0,25,0,0,CGY,0,13:34,2022
 2022020954,BOS,R,2023-02-27,0,1,{'default': 'Bruins'},{'default': 'Oilers'},1,1,0,0,0,0,1,16,0,0,EDM,0,10:47,2022
 2022020939,BOS,R,2023-02-25,0,0,{'default': 'Bruins'},{'default': 'Canucks'},0,0,0,0,0,0,0,17,0,0,VAN,0,11:40,2022

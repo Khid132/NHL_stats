@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020830,BOS,H,2026-01-27,0,0,{'default': 'Bruins'},{'default': 'Predators'},0,0,0,0,0,0,1,12,0,0,NSH,0,11:03,2025
 2025020826,BOS,R,2026-01-26,2,0,{'default': 'Bruins'},{'default': 'Rangers'},2,1,0,0,0,0,4,24,0,0,NYR,0,20:43,2025
 2025020812,BOS,H,2026-01-24,0,0,{'default': 'Bruins'},{'default': 'Canadiens'},0,-1,0,0,0,0,1,23,0,0,MTL,0,19:25,2025
@@ -79,7 +79,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020758,BOS,R,2025-01-22,0,0,{'default': 'Bruins'},{'default': 'Devils'},0,0,0,0,0,0,1,20,0,0,NJD,0,16:12,2024
 2024020740,BOS,H,2025-01-20,1,1,{'default': 'Bruins'},{'default': 'Sharks'},2,2,0,1,0,0,1,23,0,0,SJS,0,17:05,2024
 2024020723,BOS,R,2025-01-18,0,0,{'default': 'Bruins'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-2,0,0,0,0,3,26,0,0,OTT,2,21:40,2024
-2024020692,BOS,H,2025-01-14,0,1,{'default': 'Bruins'},{'default': 'Lightning'},1,1,0,0,0,0,2,23,1,0,TBL,0,18:01,2024
+2024020692,BOS,H,2025-01-14,0,1,{'default': 'Bruins'},{'default': 'Lightning'},1,1,0,0,0,0,2,23,0,1,TBL,0,18:01,2024
 2024020669,BOS,R,2025-01-11,0,1,{'default': 'Bruins'},{'default': 'Panthers'},1,0,0,1,0,0,1,32,0,0,FLA,0,23:09,2024
 2024020655,BOS,R,2025-01-09,0,0,{'default': 'Bruins'},{'default': 'Lightning'},0,0,0,0,0,0,4,27,0,0,TBL,0,16:42,2024
 2024020641,BOS,H,2025-01-07,0,0,{'default': 'Bruins'},{'default': 'Oilers'},0,-1,0,0,0,0,3,24,0,0,EDM,0,17:46,2024
@@ -124,9 +124,9 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020042,BOS,H,2024-10-14,0,0,{'default': 'Bruins'},{'default': 'Panthers'},0,0,0,0,0,0,1,28,0,0,FLA,0,19:54,2024
 2024020024,BOS,H,2024-10-12,1,0,{'default': 'Bruins'},{'default': 'Kings'},1,1,0,0,0,0,1,23,0,0,LAK,0,17:35,2024
 2024020011,BOS,H,2024-10-10,1,2,{'default': 'Bruins'},{'default': 'Canadiens'},3,2,0,1,0,0,1,26,0,0,MTL,0,18:27,2024
-2024020004,BOS,R,2024-10-08,0,1,{'default': 'Bruins'},{'default': 'Panthers'},1,0,0,0,0,0,2,25,1,0,FLA,0,19:20,2024
+2024020004,BOS,R,2024-10-08,0,1,{'default': 'Bruins'},{'default': 'Panthers'},1,0,0,0,0,0,2,25,0,1,FLA,0,19:20,2024
 2023021308,VAN,R,2024-04-18,1,0,{'default': 'Canucks'},{'default': 'Jets'},1,0,1,1,0,0,3,25,0,0,WPG,0,17:25,2023
-2023021302,VAN,H,2024-04-16,0,1,{'default': 'Canucks'},{'default': 'Flames'},1,0,0,0,0,0,3,22,1,0,CGY,0,17:31,2023
+2023021302,VAN,H,2024-04-16,0,1,{'default': 'Canucks'},{'default': 'Flames'},1,0,0,0,0,0,3,22,0,1,CGY,0,17:31,2023
 2023021280,VAN,R,2024-04-13,0,1,{'default': 'Canucks'},{'default': 'Oilers'},1,1,0,0,0,0,2,26,0,0,EDM,0,17:54,2023
 2023021254,VAN,H,2024-04-10,0,0,{'default': 'Canucks'},{'default': 'Coyotes'},0,-2,0,0,0,0,3,24,0,0,ARI,0,18:30,2023
 2023021120,VAN,H,2024-03-23,1,0,{'default': 'Canucks'},{'default': 'Flames'},1,1,0,0,0,0,2,22,0,0,CGY,0,15:42,2023
@@ -199,7 +199,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020051,CGY,R,2023-10-19,0,1,{'default': 'Flames'},{'default': 'Sabres'},1,1,0,0,0,0,3,29,0,0,BUF,0,22:47,2023
 2023020039,CGY,R,2023-10-16,0,0,{'default': 'Flames'},{'default': 'Capitals'},0,0,0,0,0,0,3,27,0,0,WSH,0,20:50,2023
 2023020025,CGY,R,2023-10-14,0,1,{'default': 'Flames'},{'default': 'Penguins'},1,-2,0,1,0,0,3,28,0,0,PIT,0,19:50,2023
-2023020007,CGY,H,2023-10-11,1,2,{'default': 'Flames'},{'default': 'Jets'},3,2,0,0,1,0,1,32,1,0,WPG,0,21:46,2023
+2023020007,CGY,H,2023-10-11,1,2,{'default': 'Flames'},{'default': 'Jets'},3,2,0,0,1,0,1,32,0,1,WPG,0,21:46,2023
 2022021297,CGY,H,2023-04-12,0,0,{'default': 'Flames'},{'default': 'Sharks'},0,0,0,0,0,0,1,25,0,0,SJS,0,17:35,2022
 2022021282,CGY,H,2023-04-10,0,0,{'default': 'Flames'},{'default': 'Predators'},0,0,0,0,0,0,2,25,0,0,NSH,0,20:32,2022
 2022021270,CGY,R,2023-04-08,1,0,{'default': 'Flames'},{'default': 'Canucks'},1,1,0,0,0,0,8,28,0,0,VAN,0,20:05,2022
@@ -215,7 +215,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022021104,CGY,H,2023-03-18,1,1,{'default': 'Flames'},{'default': 'Stars'},2,1,0,0,0,0,3,31,0,0,DAL,0,20:55,2022
 2022021087,CGY,R,2023-03-16,0,2,{'default': 'Flames'},{'default': 'Golden Knights'},2,5,0,0,0,0,1,25,0,0,VGK,0,17:27,2022
 2022021072,CGY,R,2023-03-14,0,0,{'default': 'Flames'},{'default': 'Coyotes'},0,-1,0,0,0,0,6,26,0,0,ARI,0,19:47,2022
-2022021059,CGY,H,2023-03-12,1,1,{'default': 'Flames'},"{'default': 'Senators', 'fr': 'Sénateurs'}",2,1,1,1,1,0,4,28,1,0,OTT,0,16:01,2022
+2022021059,CGY,H,2023-03-12,1,1,{'default': 'Flames'},"{'default': 'Senators', 'fr': 'Sénateurs'}",2,1,1,1,1,0,4,28,0,1,OTT,0,16:01,2022
 2022021037,CGY,H,2023-03-10,0,1,{'default': 'Flames'},{'default': 'Ducks'},1,-2,0,1,0,0,4,22,0,0,ANA,0,18:21,2022
 2022021018,CGY,R,2023-03-07,0,0,{'default': 'Flames'},{'default': 'Wild'},0,0,0,0,0,0,3,23,0,0,MIN,0,18:20,2022
 2022021008,CGY,R,2023-03-06,1,0,{'default': 'Flames'},{'default': 'Stars'},1,1,0,0,0,0,3,26,0,0,DAL,0,16:32,2022
@@ -273,7 +273,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020187,CGY,H,2022-11-05,1,0,{'default': 'Flames'},{'default': 'Devils'},1,0,0,0,0,0,4,32,0,0,NJD,2,20:17,2022
 2022020169,CGY,H,2022-11-03,0,0,{'default': 'Flames'},{'default': 'Predators'},0,-1,0,0,0,0,1,26,0,0,NSH,0,22:32,2022
 2022020155,CGY,H,2022-11-01,0,2,{'default': 'Flames'},{'default': 'Kraken'},2,0,0,0,0,0,1,26,0,0,SEA,0,19:08,2022
-2022020137,CGY,H,2022-10-29,0,1,{'default': 'Flames'},{'default': 'Oilers'},1,1,0,0,0,0,5,26,1,0,EDM,0,20:02,2022
+2022020137,CGY,H,2022-10-29,0,1,{'default': 'Flames'},{'default': 'Oilers'},1,1,0,0,0,0,5,26,0,1,EDM,0,20:02,2022
 2022020104,CGY,H,2022-10-25,0,0,{'default': 'Flames'},{'default': 'Penguins'},0,0,0,0,0,0,0,28,0,0,PIT,0,19:48,2022
 2022020085,CGY,H,2022-10-22,0,0,{'default': 'Flames'},{'default': 'Hurricanes'},0,0,0,0,0,0,2,28,0,0,CAR,0,18:32,2022
 2022020068,CGY,H,2022-10-20,0,0,{'default': 'Flames'},{'default': 'Sabres'},0,-2,0,0,0,0,0,25,0,0,BUF,0,18:14,2022

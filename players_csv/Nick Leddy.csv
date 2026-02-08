@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020749,SJS,R,2026-01-16,0,1,{'default': 'Sharks'},{'default': 'Red Wings'},1,1,0,0,0,0,0,18,0,0,DET,0,17:27,2025
 2025020700,SJS,H,2026-01-10,0,0,{'default': 'Sharks'},{'default': 'Stars'},0,-2,0,0,0,0,0,20,0,0,DAL,0,19:11,2025
 2025020681,SJS,R,2026-01-07,0,0,{'default': 'Sharks'},{'default': 'Kings'},0,-1,0,0,0,0,0,23,0,0,LAK,0,17:38,2025
@@ -104,7 +104,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020469,STL,H,2023-12-16,0,0,{'default': 'Blues'},{'default': 'Stars'},0,-1,0,0,0,0,2,29,0,0,DAL,0,23:53,2023
 2023020451,STL,H,2023-12-14,0,1,{'default': 'Blues'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,1,0,0,0,0,0,27,0,0,OTT,0,26:20,2023
 2023020436,STL,H,2023-12-12,0,1,{'default': 'Blues'},{'default': 'Red Wings'},1,1,0,0,0,0,0,26,0,0,DET,0,24:32,2023
-2023020416,STL,R,2023-12-09,0,1,{'default': 'Blues'},{'default': 'Blackhawks'},1,0,0,0,0,0,1,24,0,1,CHI,0,21:31,2023
+2023020416,STL,R,2023-12-09,0,1,{'default': 'Blues'},{'default': 'Blackhawks'},1,0,0,0,0,0,1,24,1,0,CHI,0,21:31,2023
 2023020405,STL,R,2023-12-08,0,0,{'default': 'Blues'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,1,19,0,0,CBJ,2,17:48,2023
 2023020390,STL,H,2023-12-06,0,0,{'default': 'Blues'},{'default': 'Golden Knights'},0,1,0,0,0,0,1,27,0,0,VGK,0,21:16,2023
 2023020379,STL,R,2023-12-04,0,0,{'default': 'Blues'},{'default': 'Golden Knights'},0,1,0,0,0,0,0,29,0,0,VGK,0,25:54,2023

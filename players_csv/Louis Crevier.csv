@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020894,CHI,R,2026-02-04,0,0,{'default': 'Blackhawks'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,2,26,0,0,CBJ,2,18:44,2025
 2025020881,CHI,H,2026-02-02,0,0,{'default': 'Blackhawks'},{'default': 'Sharks'},0,0,0,0,0,0,1,24,0,0,SJS,2,19:13,2025
 2025020858,CHI,H,2026-01-30,0,0,{'default': 'Blackhawks'},{'default': 'Blue Jackets'},0,0,0,0,0,0,2,26,0,0,CBJ,0,16:45,2025
@@ -21,7 +21,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020583,CHI,H,2025-12-23,0,0,{'default': 'Blackhawks'},{'default': 'Flyers'},0,0,0,0,0,0,1,24,0,0,PHI,0,17:08,2025
 2025020551,CHI,R,2025-12-20,0,0,{'default': 'Blackhawks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,3,0,0,0,0,3,27,0,0,OTT,0,16:42,2025
 2025020536,CHI,R,2025-12-18,0,0,{'default': 'Blackhawks'},{'default': 'Canadiens'},0,-2,0,0,0,0,2,23,0,0,MTL,0,18:07,2025
-2025020520,CHI,R,2025-12-16,0,1,{'default': 'Blackhawks'},{'default': 'Maple Leafs'},1,-1,0,0,0,0,2,27,1,0,TOR,0,19:51,2025
+2025020520,CHI,R,2025-12-16,0,1,{'default': 'Blackhawks'},{'default': 'Maple Leafs'},1,-1,0,0,0,0,2,27,0,1,TOR,0,19:51,2025
 2025020504,CHI,H,2025-12-13,0,0,{'default': 'Blackhawks'},{'default': 'Red Wings'},0,-1,0,0,0,0,1,20,0,0,DET,0,14:19,2025
 2025020493,CHI,R,2025-12-12,0,0,{'default': 'Blackhawks'},{'default': 'Blues'},0,-2,0,0,0,0,3,25,0,0,STL,0,18:31,2025
 2025020476,CHI,H,2025-12-10,1,0,{'default': 'Blackhawks'},{'default': 'Rangers'},1,2,0,0,1,0,3,25,1,1,NYR,2,17:18,2025

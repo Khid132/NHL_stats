@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020891,TOR,R,2026-02-03,2,0,{'default': 'Maple Leafs'},{'default': 'Oilers'},2,1,1,1,0,0,4,15,0,0,EDM,0,11:29,2025
 2025020885,TOR,R,2026-02-02,1,0,{'default': 'Maple Leafs'},{'default': 'Flames'},1,0,0,0,0,0,2,21,0,0,CGY,0,17:33,2025
 2025020869,TOR,R,2026-01-31,0,0,{'default': 'Maple Leafs'},{'default': 'Canucks'},0,-1,0,0,0,0,1,19,0,0,VAN,0,17:06,2025
@@ -155,7 +155,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020470,ARI,H,2023-12-16,0,0,{'default': 'Coyotes'},{'default': 'Sabres'},0,0,0,0,0,0,2,19,0,0,BUF,0,18:48,2023
 2023020459,ARI,H,2023-12-15,1,0,{'default': 'Coyotes'},{'default': 'Sharks'},1,1,0,0,1,0,3,21,0,0,SJS,0,18:02,2023
 2023020434,ARI,R,2023-12-12,1,0,{'default': 'Coyotes'},{'default': 'Penguins'},1,-1,1,1,0,0,3,22,0,0,PIT,0,16:42,2023
-2023020428,ARI,R,2023-12-11,0,1,{'default': 'Coyotes'},{'default': 'Sabres'},1,-1,0,0,0,0,4,24,1,0,BUF,0,19:56,2023
+2023020428,ARI,R,2023-12-11,0,1,{'default': 'Coyotes'},{'default': 'Sabres'},1,-1,0,0,0,0,4,24,0,1,BUF,0,19:56,2023
 2023020408,ARI,R,2023-12-09,0,1,{'default': 'Coyotes'},{'default': 'Bruins'},1,-2,0,0,0,0,4,24,0,0,BOS,0,22:04,2023
 2023020400,ARI,H,2023-12-07,0,1,{'default': 'Coyotes'},{'default': 'Flyers'},1,0,0,0,0,0,4,24,0,0,PHI,0,22:19,2023
 2023020378,ARI,H,2023-12-04,0,0,{'default': 'Coyotes'},{'default': 'Capitals'},0,0,0,0,0,0,1,19,0,0,WSH,0,17:36,2023

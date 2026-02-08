@@ -1,6 +1,6 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020904,FLA,R,2026-02-05,0,0,{'default': 'Panthers'},{'default': 'Lightning'},0,-2,0,0,0,0,0,21,0,0,TBL,0,20:49,2025
-2025020893,FLA,H,2026-02-04,0,1,{'default': 'Panthers'},{'default': 'Bruins'},1,1,0,0,0,0,3,29,0,1,BOS,2,22:58,2025
+2025020893,FLA,H,2026-02-04,0,1,{'default': 'Panthers'},{'default': 'Bruins'},1,1,0,0,0,0,3,29,1,0,BOS,2,22:58,2025
 2025020876,FLA,H,2026-02-02,0,2,{'default': 'Panthers'},{'default': 'Sabres'},2,-1,0,1,0,0,6,24,0,0,BUF,0,24:41,2025
 2025020862,FLA,H,2026-01-31,0,0,{'default': 'Panthers'},{'default': 'Jets'},0,-1,0,0,0,0,2,22,0,0,WPG,0,20:24,2025
 2025020852,FLA,R,2026-01-29,1,1,{'default': 'Panthers'},{'default': 'Blues'},2,-2,1,2,0,0,3,22,0,0,STL,0,22:52,2025
@@ -117,7 +117,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020321,FLA,H,2024-11-23,1,0,{'default': 'Panthers'},{'default': 'Avalanche'},1,-1,1,1,0,0,4,25,0,0,COL,0,22:14,2024
 2024020313,FLA,R,2024-11-21,1,0,{'default': 'Panthers'},{'default': 'Blackhawks'},1,0,0,0,0,0,4,25,0,0,CHI,0,22:27,2024
 2024020297,FLA,R,2024-11-19,1,0,{'default': 'Panthers'},{'default': 'Jets'},1,-2,1,1,0,0,1,28,0,0,WPG,0,21:25,2024
-2024020277,FLA,H,2024-11-16,0,3,{'default': 'Panthers'},{'default': 'Jets'},3,3,0,0,0,0,3,24,0,1,WPG,0,17:55,2024
+2024020277,FLA,H,2024-11-16,0,3,{'default': 'Panthers'},{'default': 'Jets'},3,3,0,0,0,0,3,24,1,0,WPG,0,17:55,2024
 2024020260,FLA,H,2024-11-14,1,0,{'default': 'Panthers'},{'default': 'Devils'},1,-2,0,0,0,0,3,22,0,0,NJD,0,18:19,2024
 2024020246,FLA,H,2024-11-12,1,0,{'default': 'Panthers'},{'default': 'Devils'},1,-1,1,1,0,0,2,25,0,0,NJD,2,23:54,2024
 2024020225,FLA,H,2024-11-09,0,1,{'default': 'Panthers'},{'default': 'Flyers'},1,0,0,0,0,0,0,24,0,0,PHI,0,21:05,2024
@@ -220,7 +220,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022021299,FLA,H,2023-04-13,0,1,{'default': 'Panthers'},{'default': 'Hurricanes'},1,-1,0,0,0,0,3,26,0,0,CAR,2,21:35,2022
 2022021279,FLA,H,2023-04-10,0,0,{'default': 'Panthers'},{'default': 'Maple Leafs'},0,1,0,0,0,0,2,25,0,0,TOR,0,21:41,2022
 2022021261,FLA,R,2023-04-08,1,1,{'default': 'Panthers'},{'default': 'Capitals'},2,1,0,1,0,0,8,22,0,0,WSH,0,20:05,2022
-2022021245,FLA,H,2023-04-06,1,1,{'default': 'Panthers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",2,1,1,1,0,0,1,22,0,1,OTT,0,12:56,2022
+2022021245,FLA,H,2023-04-06,1,1,{'default': 'Panthers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",2,1,1,1,0,0,1,22,1,0,OTT,0,12:56,2022
 2022021229,FLA,H,2023-04-04,0,0,{'default': 'Panthers'},{'default': 'Sabres'},0,0,0,0,0,0,1,21,0,0,BUF,0,19:30,2022
 2022021208,FLA,R,2023-04-01,1,2,{'default': 'Panthers'},{'default': 'Blue Jackets'},3,2,1,1,1,0,4,22,0,0,CBJ,0,18:14,2022
 2022021190,FLA,R,2023-03-30,0,2,{'default': 'Panthers'},{'default': 'Canadiens'},2,1,0,1,0,0,2,19,0,0,MTL,0,17:09,2022
@@ -249,7 +249,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020808,FLA,H,2023-02-06,0,0,{'default': 'Panthers'},{'default': 'Lightning'},0,-1,0,0,0,0,4,20,0,0,TBL,0,17:08,2022
 2022020789,FLA,H,2023-01-28,1,0,{'default': 'Panthers'},{'default': 'Bruins'},1,1,0,0,1,1,4,21,0,0,BOS,0,19:33,2022
 2022020781,FLA,H,2023-01-27,0,0,{'default': 'Panthers'},{'default': 'Kings'},0,-2,0,0,0,0,4,23,0,0,LAK,0,20:59,2022
-2022020756,FLA,R,2023-01-24,1,1,{'default': 'Panthers'},{'default': 'Penguins'},2,1,0,0,0,0,4,23,0,1,PIT,0,19:48,2022
+2022020756,FLA,R,2023-01-24,1,1,{'default': 'Panthers'},{'default': 'Penguins'},2,1,0,0,0,0,4,23,1,0,PIT,0,19:48,2022
 2022020751,FLA,R,2023-01-23,0,0,{'default': 'Panthers'},{'default': 'Rangers'},0,-1,0,0,0,0,0,23,0,0,NYR,0,21:05,2022
 2022020734,FLA,H,2023-01-21,1,1,{'default': 'Panthers'},{'default': 'Wild'},2,2,0,0,0,0,2,20,0,0,MIN,0,19:19,2022
 2022020720,FLA,R,2023-01-19,1,2,{'default': 'Panthers'},{'default': 'Canadiens'},3,-2,1,3,0,0,3,19,0,0,MTL,0,20:42,2022
@@ -278,7 +278,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020373,FLA,R,2022-12-01,0,1,{'default': 'Panthers'},{'default': 'Canucks'},1,1,0,0,0,0,1,25,0,0,VAN,0,20:14,2022
 2022020358,FLA,R,2022-11-29,1,0,{'default': 'Panthers'},{'default': 'Flames'},1,0,0,0,0,0,3,26,0,0,CGY,0,18:21,2022
 2022020351,FLA,R,2022-11-28,0,1,{'default': 'Panthers'},{'default': 'Oilers'},1,-1,0,0,0,0,3,24,0,0,EDM,0,20:16,2022
-2022020334,FLA,H,2022-11-26,0,2,{'default': 'Panthers'},{'default': 'Blues'},2,2,0,0,0,0,3,27,0,1,STL,0,21:37,2022
+2022020334,FLA,H,2022-11-26,0,2,{'default': 'Panthers'},{'default': 'Blues'},2,2,0,0,0,0,3,27,1,0,STL,0,21:37,2022
 2022020304,FLA,H,2022-11-23,1,1,{'default': 'Panthers'},{'default': 'Bruins'},2,2,1,1,0,0,3,24,0,0,BOS,0,18:18,2022
 2022020289,FLA,R,2022-11-20,0,0,{'default': 'Panthers'},{'default': 'Blue Jackets'},0,-2,0,0,0,0,2,20,0,0,CBJ,0,19:03,2022
 2022020275,FLA,H,2022-11-19,1,0,{'default': 'Panthers'},{'default': 'Flames'},1,-1,1,1,0,0,2,23,0,0,CGY,0,18:27,2022

@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020904,TBL,H,2026-02-05,0,1,{'default': 'Lightning'},{'default': 'Panthers'},1,1,0,0,0,0,0,17,0,0,FLA,10,14:16,2025
 2025020886,TBL,H,2026-02-03,0,0,{'default': 'Lightning'},{'default': 'Sabres'},0,1,0,0,0,0,2,23,0,0,BUF,0,20:01,2025
 2025020873,TBL,H,2026-02-01,0,0,{'default': 'Lightning'},{'default': 'Bruins'},0,-1,0,0,0,0,0,26,0,0,BOS,0,19:40,2025
@@ -131,7 +131,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023021056,SEA,H,2024-03-14,0,1,{'default': 'Kraken'},{'default': 'Capitals'},1,0,0,1,0,0,1,23,0,0,WSH,0,19:16,2023
 2023021040,SEA,H,2024-03-12,0,1,{'default': 'Kraken'},{'default': 'Golden Knights'},1,-1,0,0,0,0,1,23,0,0,VGK,0,20:35,2023
 2023021008,SEA,H,2024-03-08,0,0,{'default': 'Kraken'},{'default': 'Jets'},0,0,0,0,0,0,2,23,0,0,WPG,0,19:30,2023
-2023020986,SEA,R,2024-03-05,0,1,{'default': 'Kraken'},{'default': 'Jets'},1,1,0,0,0,0,0,21,0,1,WPG,2,18:04,2023
+2023020986,SEA,R,2024-03-05,0,1,{'default': 'Kraken'},{'default': 'Jets'},1,1,0,0,0,0,0,21,1,0,WPG,2,18:04,2023
 2023020980,SEA,R,2024-03-04,1,0,{'default': 'Kraken'},{'default': 'Flames'},1,1,0,0,0,0,1,28,0,0,CGY,0,19:33,2023
 2023020958,SEA,H,2024-03-02,0,0,{'default': 'Kraken'},{'default': 'Oilers'},0,-1,0,0,0,0,3,17,0,0,EDM,0,13:25,2023
 2023020950,SEA,H,2024-02-29,0,0,{'default': 'Kraken'},{'default': 'Penguins'},0,0,0,0,0,0,2,19,0,0,PIT,0,16:38,2023

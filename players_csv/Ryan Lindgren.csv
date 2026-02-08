@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020902,SEA,R,2026-02-04,0,0,{'default': 'Kraken'},{'default': 'Kings'},0,1,0,0,0,0,0,19,0,0,LAK,0,17:56,2025
 2025020892,SEA,R,2026-02-03,0,0,{'default': 'Kraken'},{'default': 'Ducks'},0,-1,0,0,0,0,0,20,0,0,ANA,0,17:45,2025
 2025020872,SEA,R,2026-01-31,0,0,{'default': 'Kraken'},{'default': 'Golden Knights'},0,1,0,0,0,0,0,21,0,0,VGK,0,19:34,2025
@@ -37,7 +37,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020340,SEA,R,2025-11-22,0,0,{'default': 'Kraken'},{'default': 'Penguins'},0,0,0,0,0,0,0,24,0,0,PIT,0,21:06,2025
 2025020325,SEA,R,2025-11-20,0,0,{'default': 'Kraken'},{'default': 'Blackhawks'},0,1,0,0,0,0,1,24,0,0,CHI,0,19:54,2025
 2025020308,SEA,R,2025-11-18,0,0,{'default': 'Kraken'},{'default': 'Red Wings'},0,0,0,0,0,0,1,24,0,0,DET,0,21:26,2025
-2025020295,SEA,H,2025-11-15,0,1,{'default': 'Kraken'},{'default': 'Sharks'},1,1,0,0,0,0,1,26,1,0,SJS,2,21:04,2025
+2025020295,SEA,H,2025-11-15,0,1,{'default': 'Kraken'},{'default': 'Sharks'},1,1,0,0,0,0,1,26,0,1,SJS,2,21:04,2025
 2025020278,SEA,H,2025-11-13,0,0,{'default': 'Kraken'},{'default': 'Jets'},0,2,0,0,0,0,2,24,0,0,WPG,0,17:58,2025
 2025020264,SEA,H,2025-11-11,0,0,{'default': 'Kraken'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,24,0,0,CBJ,2,18:33,2025
 2025020248,SEA,R,2025-11-09,0,0,{'default': 'Kraken'},{'default': 'Stars'},0,-1,0,0,0,0,1,17,0,0,DAL,0,16:38,2025
@@ -88,7 +88,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020750,NYR,H,2025-01-21,0,0,{'default': 'Rangers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,2,0,0,0,0,1,25,0,0,OTT,0,17:34,2024
 2024020738,NYR,R,2025-01-19,0,1,{'default': 'Rangers'},{'default': 'Canadiens'},1,0,0,0,0,0,0,30,0,0,MTL,0,22:37,2024
 2024020728,NYR,H,2025-01-18,0,0,{'default': 'Rangers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,29,0,0,CBJ,0,20:46,2024
-2024020717,NYR,R,2025-01-16,0,1,{'default': 'Rangers'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",1,1,0,0,0,0,0,28,1,0,UTA,0,19:59,2024
+2024020717,NYR,R,2025-01-16,0,1,{'default': 'Rangers'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",1,1,0,0,0,0,0,28,0,1,UTA,0,19:59,2024
 2024020703,NYR,R,2025-01-14,0,0,{'default': 'Rangers'},{'default': 'Avalanche'},0,0,0,0,0,0,0,30,0,0,COL,0,22:59,2024
 2024020682,NYR,R,2025-01-11,0,0,{'default': 'Rangers'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,26,0,0,VGK,0,21:15,2024
 2024020656,NYR,H,2025-01-09,0,0,{'default': 'Rangers'},{'default': 'Devils'},0,-1,0,0,0,0,0,29,0,0,NJD,0,21:00,2024
@@ -97,7 +97,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020620,NYR,R,2025-01-04,0,0,{'default': 'Rangers'},{'default': 'Capitals'},0,-2,0,0,0,0,1,23,0,0,WSH,2,16:22,2024
 2024020604,NYR,H,2025-01-02,0,0,{'default': 'Rangers'},{'default': 'Bruins'},0,0,0,0,0,0,1,24,0,0,BOS,0,22:03,2024
 2024020586,NYR,R,2024-12-30,1,0,{'default': 'Rangers'},{'default': 'Panthers'},1,0,0,0,0,0,1,24,0,0,FLA,2,17:27,2024
-2024020572,NYR,R,2024-12-28,0,1,{'default': 'Rangers'},{'default': 'Lightning'},1,1,0,0,0,0,1,25,1,0,TBL,0,17:42,2024
+2024020572,NYR,R,2024-12-28,0,1,{'default': 'Rangers'},{'default': 'Lightning'},1,1,0,0,0,0,1,25,0,1,TBL,0,17:42,2024
 2024020545,NYR,R,2024-12-23,0,0,{'default': 'Rangers'},{'default': 'Devils'},0,-1,0,0,0,0,1,20,0,0,NJD,0,20:09,2024
 2024020539,NYR,H,2024-12-22,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,24,0,0,CAR,0,18:42,2024
 2024020525,NYR,R,2024-12-20,0,0,{'default': 'Rangers'},{'default': 'Stars'},0,1,0,0,0,0,0,31,0,0,DAL,2,20:00,2024
@@ -213,7 +213,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020925,NYR,R,2023-02-23,0,0,{'default': 'Rangers'},{'default': 'Red Wings'},0,0,0,0,0,0,1,22,0,0,DET,2,17:30,2022
 2022020907,NYR,H,2023-02-20,0,0,{'default': 'Rangers'},{'default': 'Jets'},0,1,0,0,0,0,1,22,0,0,WPG,0,18:23,2022
 2022020890,NYR,R,2023-02-18,0,0,{'default': 'Rangers'},{'default': 'Flames'},0,-1,0,0,0,0,1,28,0,0,CGY,0,19:35,2022
-2022020881,NYR,R,2023-02-17,0,1,{'default': 'Rangers'},{'default': 'Oilers'},1,1,0,0,0,0,5,28,1,0,EDM,0,21:10,2022
+2022020881,NYR,R,2023-02-17,0,1,{'default': 'Rangers'},{'default': 'Oilers'},1,1,0,0,0,0,5,28,0,1,EDM,0,21:10,2022
 2022020869,NYR,R,2023-02-15,0,0,{'default': 'Rangers'},{'default': 'Canucks'},0,0,0,0,0,0,2,25,0,0,VAN,0,21:01,2022
 2022020841,NYR,R,2023-02-11,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,23,0,0,CAR,0,19:26,2022
 2022020828,NYR,H,2023-02-10,1,1,{'default': 'Rangers'},{'default': 'Kraken'},2,2,0,0,0,0,3,22,1,1,SEA,0,21:50,2022

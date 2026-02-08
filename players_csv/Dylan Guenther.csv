@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020898,UTA,H,2026-02-04,1,0,{'default': 'Mammoth'},{'default': 'Red Wings'},1,2,0,0,0,0,4,22,0,0,DET,2,17:38,2025
 2025020884,UTA,H,2026-02-02,0,1,{'default': 'Mammoth'},{'default': 'Canucks'},1,-2,0,1,0,0,3,16,0,0,VAN,0,12:35,2025
 2025020870,UTA,H,2026-01-31,0,0,{'default': 'Mammoth'},{'default': 'Stars'},0,0,0,0,0,0,0,19,0,0,DAL,0,15:32,2025
@@ -139,7 +139,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023021112,ARI,H,2024-03-22,1,0,{'default': 'Coyotes'},{'default': 'Kraken'},1,1,0,0,1,1,4,25,0,0,SEA,0,17:56,2023
 2023021096,ARI,R,2024-03-20,0,1,{'default': 'Coyotes'},{'default': 'Stars'},1,0,0,0,0,0,1,18,0,0,DAL,0,14:02,2023
 2023021062,ARI,H,2024-03-16,1,0,{'default': 'Coyotes'},{'default': 'Devils'},1,1,1,1,1,0,3,21,0,0,NJD,0,16:42,2023
-2023021048,ARI,R,2024-03-14,0,1,{'default': 'Coyotes'},{'default': 'Red Wings'},1,1,0,0,0,0,3,20,0,1,DET,0,16:33,2023
+2023021048,ARI,R,2024-03-14,0,1,{'default': 'Coyotes'},{'default': 'Red Wings'},1,1,0,0,0,0,3,20,1,0,DET,0,16:33,2023
 2023021037,ARI,R,2024-03-12,0,0,{'default': 'Coyotes'},{'default': 'Wild'},0,-1,0,0,0,0,3,25,0,0,MIN,0,18:30,2023
 2023021025,ARI,R,2024-03-10,1,0,{'default': 'Coyotes'},{'default': 'Blackhawks'},1,1,0,0,0,0,5,23,0,0,CHI,0,15:19,2023
 2023021005,ARI,H,2024-03-08,0,0,{'default': 'Coyotes'},{'default': 'Red Wings'},0,0,0,0,0,0,1,18,0,0,DET,0,15:55,2023
