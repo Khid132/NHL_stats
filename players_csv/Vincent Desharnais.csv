@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020897,SJS,R,2026-02-04,0,0,{'default': 'Sharks'},{'default': 'Avalanche'},0,0,0,0,0,0,0,20,0,0,COL,0,16:48,2025
 2025020881,SJS,R,2026-02-02,0,1,{'default': 'Sharks'},{'default': 'Blackhawks'},1,0,0,0,0,0,1,21,0,0,CHI,0,16:57,2025
 2025020863,SJS,R,2026-01-31,0,0,{'default': 'Sharks'},{'default': 'Flames'},0,0,0,0,0,0,0,20,0,0,CGY,2,19:01,2025
@@ -112,7 +112,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020833,EDM,H,2024-02-13,0,1,{'default': 'Oilers'},{'default': 'Red Wings'},1,2,0,0,0,0,1,22,0,0,DET,0,17:48,2023
 2023020816,EDM,R,2024-02-10,0,0,{'default': 'Oilers'},{'default': 'Kings'},0,-1,0,0,0,0,0,16,0,0,LAK,2,13:10,2023
 2023020803,EDM,R,2024-02-09,0,0,{'default': 'Oilers'},{'default': 'Ducks'},0,-1,0,0,0,0,0,19,0,0,ANA,0,19:51,2023
-2023020790,EDM,R,2024-02-06,0,1,{'default': 'Oilers'},{'default': 'Golden Knights'},1,1,0,0,0,0,1,17,1,0,VGK,0,15:28,2023
+2023020790,EDM,R,2024-02-06,0,1,{'default': 'Oilers'},{'default': 'Golden Knights'},1,1,0,0,0,0,1,17,0,1,VGK,0,15:28,2023
 2023020761,EDM,H,2024-01-27,0,0,{'default': 'Oilers'},{'default': 'Predators'},0,0,0,0,0,0,1,21,0,0,NSH,0,18:55,2023
 2023020754,EDM,H,2024-01-25,0,0,{'default': 'Oilers'},{'default': 'Blackhawks'},0,0,0,0,0,0,4,19,0,0,CHI,0,17:36,2023
 2023020736,EDM,H,2024-01-23,0,0,{'default': 'Oilers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,20,0,0,CBJ,0,16:11,2023
@@ -168,7 +168,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022021163,EDM,H,2023-03-25,0,0,{'default': 'Oilers'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,21,0,0,VGK,2,17:45,2022
 2022021134,EDM,H,2023-03-22,0,0,{'default': 'Oilers'},{'default': 'Coyotes'},0,1,0,0,0,0,0,17,0,0,ARI,0,11:58,2022
 2022021098,EDM,R,2023-03-18,0,0,{'default': 'Oilers'},{'default': 'Kraken'},0,0,0,0,0,0,0,21,0,0,SEA,2,16:00,2022
-2022021086,EDM,H,2023-03-16,0,1,{'default': 'Oilers'},{'default': 'Stars'},1,1,0,0,0,0,0,18,1,0,DAL,0,12:22,2022
+2022021086,EDM,H,2023-03-16,0,1,{'default': 'Oilers'},{'default': 'Stars'},1,1,0,0,0,0,0,18,0,1,DAL,0,12:22,2022
 2022021071,EDM,H,2023-03-14,0,0,{'default': 'Oilers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,22,0,0,OTT,0,17:55,2022
 2022021043,EDM,R,2023-03-11,0,0,{'default': 'Oilers'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,16,0,0,TOR,2,11:41,2022
 2022021026,EDM,R,2023-03-09,0,0,{'default': 'Oilers'},{'default': 'Bruins'},0,-1,0,0,0,0,0,22,0,0,BOS,0,14:54,2022

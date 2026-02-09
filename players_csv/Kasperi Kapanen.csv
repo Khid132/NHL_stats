@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020900,EDM,R,2026-02-04,1,0,{'default': 'Oilers'},{'default': 'Flames'},1,1,0,0,0,0,4,17,0,0,CGY,0,15:39,2025
 2025020891,EDM,H,2026-02-03,1,0,{'default': 'Oilers'},{'default': 'Maple Leafs'},1,1,0,0,0,0,3,17,0,0,TOR,0,15:03,2025
 2025020871,EDM,H,2026-01-31,0,0,{'default': 'Oilers'},{'default': 'Wild'},0,0,0,0,0,0,2,18,0,0,MIN,0,15:24,2025
@@ -140,7 +140,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020330,STL,R,2023-11-28,0,0,{'default': 'Blues'},{'default': 'Wild'},0,-1,0,0,0,0,0,17,0,0,MIN,0,13:16,2023
 2023020317,STL,R,2023-11-26,0,0,{'default': 'Blues'},{'default': 'Blackhawks'},0,0,0,0,0,0,0,16,0,0,CHI,2,12:42,2023
 2023020297,STL,H,2023-11-24,0,0,{'default': 'Blues'},{'default': 'Predators'},0,-2,0,0,0,0,2,20,0,0,NSH,0,15:00,2023
-2023020287,STL,R,2023-11-22,0,1,{'default': 'Blues'},{'default': 'Coyotes'},1,1,0,0,0,0,1,21,1,0,ARI,0,15:29,2023
+2023020287,STL,R,2023-11-22,0,1,{'default': 'Blues'},{'default': 'Coyotes'},1,1,0,0,0,0,1,21,0,1,ARI,0,15:29,2023
 2023020271,STL,R,2023-11-19,0,0,{'default': 'Blues'},{'default': 'Ducks'},0,-1,0,0,0,0,1,21,0,0,ANA,2,14:47,2023
 2023020266,STL,R,2023-11-18,0,0,{'default': 'Blues'},{'default': 'Kings'},0,0,0,0,0,0,0,19,0,0,LAK,0,14:19,2023
 2023020250,STL,R,2023-11-16,0,0,{'default': 'Blues'},{'default': 'Sharks'},0,0,0,0,0,0,4,21,0,0,SJS,0,17:58,2023

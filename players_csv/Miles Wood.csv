@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020894,CBJ,H,2026-02-04,0,0,{'default': 'Blue Jackets'},{'default': 'Blackhawks'},0,1,0,0,0,0,0,13,0,0,CHI,0,11:06,2025
 2025020887,CBJ,R,2026-02-03,0,0,{'default': 'Blue Jackets'},{'default': 'Devils'},0,0,0,0,0,0,1,15,0,0,NJD,2,10:42,2025
 2025020868,CBJ,R,2026-01-31,0,1,{'default': 'Blue Jackets'},{'default': 'Blues'},1,0,0,0,0,0,1,16,0,0,STL,0,12:16,2025
@@ -17,7 +17,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020442,CBJ,R,2025-12-06,1,1,{'default': 'Blue Jackets'},{'default': 'Panthers'},2,1,0,0,0,0,1,19,0,0,FLA,0,13:28,2025
 2025020432,CBJ,H,2025-12-04,0,0,{'default': 'Blue Jackets'},{'default': 'Red Wings'},0,-1,0,0,0,0,2,21,0,0,DET,0,14:01,2025
 2025020406,CBJ,R,2025-12-01,1,1,{'default': 'Blue Jackets'},{'default': 'Devils'},2,3,0,0,0,0,2,24,0,0,NJD,0,19:30,2025
-2025020388,CBJ,H,2025-11-28,0,1,{'default': 'Blue Jackets'},{'default': 'Penguins'},1,-2,0,0,0,0,3,21,0,1,PIT,0,16:00,2025
+2025020388,CBJ,H,2025-11-28,0,1,{'default': 'Blue Jackets'},{'default': 'Penguins'},1,-2,0,0,0,0,3,21,1,0,PIT,0,16:00,2025
 2025020369,CBJ,H,2025-11-26,0,1,{'default': 'Blue Jackets'},{'default': 'Maple Leafs'},1,0,0,0,0,0,3,21,0,0,TOR,4,15:52,2025
 2025020356,CBJ,R,2025-11-24,0,0,{'default': 'Blue Jackets'},{'default': 'Capitals'},0,-1,0,0,0,0,0,19,0,0,WSH,0,13:32,2025
 2025020335,CBJ,R,2025-11-22,1,0,{'default': 'Blue Jackets'},{'default': 'Red Wings'},1,0,0,0,0,0,1,20,0,0,DET,0,15:07,2025

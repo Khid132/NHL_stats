@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020906,NYR,H,2026-02-05,0,0,{'default': 'Rangers'},{'default': 'Hurricanes'},0,-1,0,0,0,0,0,27,0,0,CAR,0,22:20,2025
 2025020861,NYR,R,2026-01-31,0,1,{'default': 'Rangers'},{'default': 'Penguins'},1,2,0,0,0,0,1,27,0,0,PIT,0,20:24,2025
 2025020849,NYR,H,2026-01-29,0,0,{'default': 'Rangers'},{'default': 'Islanders'},0,-1,0,0,0,0,4,24,0,0,NYI,0,20:38,2025
@@ -92,7 +92,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020750,NYR,H,2025-01-21,0,1,{'default': 'Rangers'},"{'default': 'Senators', 'fr': 'Sénateurs'}",1,1,0,0,0,0,3,24,0,0,OTT,0,18:29,2024
 2024020738,NYR,R,2025-01-19,0,0,{'default': 'Rangers'},{'default': 'Canadiens'},0,-1,0,0,0,0,1,23,0,0,MTL,2,20:09,2024
 2024020728,NYR,H,2025-01-18,0,0,{'default': 'Rangers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,23,0,0,CBJ,0,20:46,2024
-2024020717,NYR,R,2025-01-16,0,1,{'default': 'Rangers'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",1,2,0,0,0,0,1,25,0,1,UTA,0,20:00,2024
+2024020717,NYR,R,2025-01-16,0,1,{'default': 'Rangers'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",1,2,0,0,0,0,1,25,1,0,UTA,0,20:00,2024
 2024020703,NYR,R,2025-01-14,0,0,{'default': 'Rangers'},{'default': 'Avalanche'},0,-1,0,0,0,0,1,26,0,0,COL,0,15:59,2024
 2024020682,NYR,R,2025-01-11,0,0,{'default': 'Rangers'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,23,0,0,VGK,0,18:02,2024
 2024020656,NYR,H,2025-01-09,0,0,{'default': 'Rangers'},{'default': 'Devils'},0,-1,0,0,0,0,1,22,0,0,NJD,0,18:28,2024

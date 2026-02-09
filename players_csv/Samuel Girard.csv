@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020897,COL,H,2026-02-04,0,0,{'default': 'Avalanche'},{'default': 'Sharks'},0,-1,0,0,0,0,0,20,0,0,SJS,0,14:32,2025
 2025020883,COL,H,2026-02-02,0,0,{'default': 'Avalanche'},{'default': 'Red Wings'},0,0,0,0,0,0,0,20,0,0,DET,0,17:33,2025
 2025020860,COL,R,2026-01-31,0,0,{'default': 'Avalanche'},{'default': 'Red Wings'},0,0,0,0,0,0,0,27,0,0,DET,0,18:56,2025
@@ -202,7 +202,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020883,COL,R,2023-02-18,0,2,{'default': 'Avalanche'},{'default': 'Blues'},2,0,0,1,0,0,2,29,0,0,STL,0,24:24,2022
 2022020866,COL,R,2023-02-15,0,1,{'default': 'Avalanche'},{'default': 'Wild'},1,-1,0,0,0,0,0,32,0,0,MIN,0,23:49,2022
 2022020862,COL,H,2023-02-14,0,0,{'default': 'Avalanche'},{'default': 'Lightning'},0,0,0,0,0,0,2,35,0,0,TBL,0,24:37,2022
-2022020839,COL,R,2023-02-11,0,1,{'default': 'Avalanche'},{'default': 'Panthers'},1,-1,0,0,0,0,2,34,1,0,FLA,0,25:34,2022
+2022020839,COL,R,2023-02-11,0,1,{'default': 'Avalanche'},{'default': 'Panthers'},1,-1,0,0,0,0,2,34,0,1,FLA,0,25:34,2022
 2022020821,COL,R,2023-02-09,0,0,{'default': 'Avalanche'},{'default': 'Lightning'},0,-1,0,0,0,0,2,26,0,0,TBL,0,22:44,2022
 2022020813,COL,R,2023-02-07,0,1,{'default': 'Avalanche'},{'default': 'Penguins'},1,1,0,0,0,0,3,28,0,0,PIT,0,22:34,2022
 2022020788,COL,H,2023-01-28,0,1,{'default': 'Avalanche'},{'default': 'Blues'},1,1,0,0,0,0,2,31,0,0,STL,2,22:34,2022

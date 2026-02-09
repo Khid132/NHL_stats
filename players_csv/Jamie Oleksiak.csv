@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020902,SEA,R,2026-02-04,0,0,{'default': 'Kraken'},{'default': 'Kings'},0,0,0,0,0,0,1,18,0,0,LAK,2,16:09,2025
 2025020892,SEA,R,2026-02-03,0,0,{'default': 'Kraken'},{'default': 'Ducks'},0,-1,0,0,0,0,1,20,0,0,ANA,2,19:56,2025
 2025020872,SEA,R,2026-01-31,0,0,{'default': 'Kraken'},{'default': 'Golden Knights'},0,-1,0,0,0,0,0,20,0,0,VGK,0,17:38,2025
@@ -135,7 +135,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020039,SEA,R,2024-10-13,0,0,{'default': 'Kraken'},{'default': 'Stars'},0,0,0,0,0,0,1,23,0,0,DAL,0,20:15,2024
 2024020033,SEA,R,2024-10-12,0,0,{'default': 'Kraken'},{'default': 'Wild'},0,1,0,0,0,0,0,25,0,0,MIN,0,21:30,2024
 2024020003,SEA,H,2024-10-08,0,0,{'default': 'Kraken'},{'default': 'Blues'},0,-1,0,0,0,0,0,23,0,0,STL,0,19:40,2024
-2023021307,SEA,R,2024-04-18,0,1,{'default': 'Kraken'},{'default': 'Wild'},1,2,0,0,0,0,0,23,0,1,MIN,0,19:40,2023
+2023021307,SEA,R,2024-04-18,0,1,{'default': 'Kraken'},{'default': 'Wild'},1,2,0,0,0,0,0,23,1,0,MIN,0,19:40,2023
 2023021300,SEA,R,2024-04-16,0,0,{'default': 'Kraken'},{'default': 'Jets'},0,2,0,0,0,0,1,23,0,0,WPG,0,21:03,2023
 2023021283,SEA,R,2024-04-14,0,0,{'default': 'Kraken'},{'default': 'Blues'},0,-1,0,0,0,0,1,20,0,0,STL,0,17:46,2023
 2023021271,SEA,R,2024-04-13,0,0,{'default': 'Kraken'},{'default': 'Stars'},0,-1,0,0,0,0,0,25,0,0,DAL,0,16:30,2023
@@ -155,7 +155,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023021056,SEA,H,2024-03-14,0,0,{'default': 'Kraken'},{'default': 'Capitals'},0,0,0,0,0,0,2,26,0,0,WSH,0,20:10,2023
 2023021040,SEA,H,2024-03-12,0,0,{'default': 'Kraken'},{'default': 'Golden Knights'},0,1,0,0,0,0,2,30,0,0,VGK,0,21:43,2023
 2023021008,SEA,H,2024-03-08,0,0,{'default': 'Kraken'},{'default': 'Jets'},0,-2,0,0,0,0,0,24,0,0,WPG,0,20:55,2023
-2023020986,SEA,R,2024-03-05,0,1,{'default': 'Kraken'},{'default': 'Jets'},1,0,0,0,0,0,1,25,0,1,WPG,0,20:43,2023
+2023020986,SEA,R,2024-03-05,0,1,{'default': 'Kraken'},{'default': 'Jets'},1,0,0,0,0,0,1,25,1,0,WPG,0,20:43,2023
 2023020980,SEA,R,2024-03-04,0,0,{'default': 'Kraken'},{'default': 'Flames'},0,-1,0,0,0,0,1,29,0,0,CGY,2,21:06,2023
 2023020958,SEA,H,2024-03-02,0,0,{'default': 'Kraken'},{'default': 'Oilers'},0,-2,0,0,0,0,0,22,0,0,EDM,2,16:26,2023
 2023020950,SEA,H,2024-02-29,0,0,{'default': 'Kraken'},{'default': 'Penguins'},0,1,0,0,0,0,1,28,0,0,PIT,0,22:06,2023

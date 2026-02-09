@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,pim,opponentAbbrev,season
-2025020902,SEA,R,2026-02-04,0,0,{'default': 'Kraken'},{'default': 'Kings'},0,0,0,0,0,0,0,8,0,0,6:42,0,LAK,2025
-2025020340,SEA,R,2025-11-22,0,0,{'default': 'Kraken'},{'default': 'Penguins'},0,0,0,0,0,0,1,7,0,0,5:10,0,PIT,2025
-2025020325,SEA,R,2025-11-20,0,1,{'default': 'Kraken'},{'default': 'Blackhawks'},1,1,0,0,0,0,0,12,0,0,6:50,0,CHI,2025
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+2025020902,SEA,R,2026-02-04,0,0,{'default': 'Kraken'},{'default': 'Kings'},0,0,0,0,0,0,0,8,0,0,LAK,0,6:42,2025
+2025020340,SEA,R,2025-11-22,0,0,{'default': 'Kraken'},{'default': 'Penguins'},0,0,0,0,0,0,1,7,0,0,PIT,0,5:10,2025
+2025020325,SEA,R,2025-11-20,0,1,{'default': 'Kraken'},{'default': 'Blackhawks'},1,1,0,0,0,0,0,12,0,0,CHI,0,6:50,2025

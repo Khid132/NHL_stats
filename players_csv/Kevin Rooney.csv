@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020390,UTA,R,2025-11-28,1,0,{'default': 'Mammoth'},{'default': 'Stars'},1,1,0,0,0,0,1,14,0,0,DAL,0,9:44,2025
 2024021299,CGY,H,2025-04-15,0,0,{'default': 'Flames'},{'default': 'Golden Knights'},0,-1,0,0,0,0,0,16,0,0,VGK,0,10:01,2024
 2024021283,CGY,H,2025-04-13,0,0,{'default': 'Flames'},{'default': 'Sharks'},0,0,0,0,0,0,0,17,0,0,SJS,0,9:52,2024
@@ -17,7 +17,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024021079,CGY,R,2025-03-18,0,0,{'default': 'Flames'},{'default': 'Rangers'},0,0,0,0,0,0,1,14,0,0,NYR,0,8:17,2024
 2024021076,CGY,R,2025-03-17,0,0,{'default': 'Flames'},{'default': 'Maple Leafs'},0,0,0,0,0,0,2,18,0,0,TOR,0,12:27,2024
 2024021052,CGY,H,2025-03-14,0,0,{'default': 'Flames'},{'default': 'Avalanche'},0,-1,0,0,0,0,0,12,0,0,COL,0,7:01,2024
-2024021037,CGY,H,2025-03-12,0,1,{'default': 'Flames'},{'default': 'Canucks'},1,1,0,0,0,0,1,17,0,1,VAN,0,9:55,2024
+2024021037,CGY,H,2025-03-12,0,1,{'default': 'Flames'},{'default': 'Canucks'},1,1,0,0,0,0,1,17,1,0,VAN,0,9:55,2024
 2024021008,CGY,H,2025-03-08,0,0,{'default': 'Flames'},{'default': 'Canadiens'},0,0,0,0,0,0,2,15,0,0,MTL,0,9:22,2024
 2024020994,CGY,R,2025-03-06,0,0,{'default': 'Flames'},{'default': 'Stars'},0,1,0,0,0,0,0,13,0,0,DAL,0,8:18,2024
 2024020977,CGY,R,2025-03-04,0,1,{'default': 'Flames'},{'default': 'Flyers'},1,1,0,0,0,0,0,18,0,0,PHI,0,10:14,2024

@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020897,SJS,R,2026-02-04,0,0,{'default': 'Sharks'},{'default': 'Avalanche'},0,0,0,0,0,0,3,21,0,0,COL,0,14:22,2025
 2025020881,SJS,R,2026-02-02,0,1,{'default': 'Sharks'},{'default': 'Blackhawks'},1,-2,0,0,0,0,0,22,0,0,CHI,0,18:18,2025
 2025020863,SJS,R,2026-01-31,0,0,{'default': 'Sharks'},{'default': 'Flames'},0,0,0,0,0,0,1,24,0,0,CGY,0,19:09,2025
@@ -40,7 +40,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020261,SJS,R,2025-11-11,1,0,{'default': 'Sharks'},{'default': 'Wild'},1,1,0,0,1,1,1,18,0,0,MIN,0,13:53,2025
 2025020243,SJS,H,2025-11-08,0,1,{'default': 'Sharks'},{'default': 'Panthers'},1,0,0,0,0,0,0,23,0,0,FLA,0,18:04,2025
 2025020230,SJS,H,2025-11-07,0,0,{'default': 'Sharks'},{'default': 'Jets'},0,0,0,0,0,0,1,19,0,0,WPG,0,17:23,2025
-2025020217,SJS,R,2025-11-05,0,1,{'default': 'Sharks'},{'default': 'Kraken'},1,1,0,0,0,0,1,18,1,0,SEA,0,16:27,2025
+2025020217,SJS,R,2025-11-05,0,1,{'default': 'Sharks'},{'default': 'Kraken'},1,1,0,0,0,0,1,18,0,1,SEA,0,16:27,2025
 2025020198,SJS,H,2025-11-02,0,0,{'default': 'Sharks'},{'default': 'Red Wings'},0,-1,0,0,0,0,1,20,0,0,DET,0,15:13,2025
 2025020184,SJS,H,2025-11-01,0,0,{'default': 'Sharks'},{'default': 'Avalanche'},0,-1,0,0,0,0,0,15,0,0,COL,0,9:40,2025
 2025020176,SJS,H,2025-10-30,0,0,{'default': 'Sharks'},{'default': 'Devils'},0,0,0,0,0,0,0,17,0,0,NJD,0,13:32,2025

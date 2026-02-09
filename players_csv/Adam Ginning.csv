@@ -1,17 +1,17 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,pim,opponentAbbrev,season
-2025020127,PHI,H,2025-10-25,0,0,{'default': 'Flyers'},{'default': 'Islanders'},0,0,0,0,0,0,0,18,0,0,12:07,0,NYI,2025
-2025020066,PHI,H,2025-10-16,0,0,{'default': 'Flyers'},{'default': 'Jets'},0,-1,0,0,0,0,0,16,0,0,12:20,0,WPG,2025
-2025020044,PHI,H,2025-10-13,0,0,{'default': 'Flyers'},{'default': 'Panthers'},0,1,0,0,0,0,0,27,0,0,20:33,0,FLA,2025
-2025020030,PHI,R,2025-10-11,0,0,{'default': 'Flyers'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,19,0,0,14:21,0,CAR,2025
-2025020012,PHI,R,2025-10-09,0,0,{'default': 'Flyers'},{'default': 'Panthers'},0,0,0,0,0,0,2,21,0,0,17:21,0,FLA,2025
-2024020816,PHI,H,2025-01-30,0,0,{'default': 'Flyers'},{'default': 'Islanders'},0,-1,0,0,0,0,0,18,0,0,12:48,0,NYI,2024
-2023021222,PHI,R,2024-04-06,1,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},1,0,0,0,0,0,1,18,0,0,14:26,0,CBJ,2023
-2023021173,PHI,H,2024-03-30,0,0,{'default': 'Flyers'},{'default': 'Blackhawks'},0,-1,0,0,0,0,0,15,0,0,12:36,0,CHI,2023
-2023021152,PHI,R,2024-03-28,0,0,{'default': 'Flyers'},{'default': 'Canadiens'},0,0,0,0,0,0,0,19,0,0,13:21,0,MTL,2023
-2023021137,PHI,R,2024-03-26,0,0,{'default': 'Flyers'},{'default': 'Rangers'},0,1,0,0,0,0,1,17,0,0,12:44,0,NYR,2023
-2023021129,PHI,H,2024-03-24,0,0,{'default': 'Flyers'},{'default': 'Panthers'},0,-1,0,0,0,0,0,15,0,0,10:29,0,FLA,2023
-2023021114,PHI,H,2024-03-23,0,0,{'default': 'Flyers'},{'default': 'Bruins'},0,1,0,0,0,0,3,23,0,0,16:37,0,BOS,2023
-2023021099,PHI,R,2024-03-21,0,0,{'default': 'Flyers'},{'default': 'Hurricanes'},0,1,0,0,0,0,1,22,0,0,14:19,0,CAR,2023
-2023021086,PHI,H,2024-03-19,0,0,{'default': 'Flyers'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,20,0,0,14:38,0,TOR,2023
-2023020996,PHI,R,2024-03-07,0,0,{'default': 'Flyers'},{'default': 'Panthers'},0,-1,0,0,0,0,0,23,0,0,18:11,0,FLA,2023
-2022021287,PHI,H,2023-04-11,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,21,0,0,16:40,2,CBJ,2022
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+2025020127,PHI,H,2025-10-25,0,0,{'default': 'Flyers'},{'default': 'Islanders'},0,0,0,0,0,0,0,18,0,0,NYI,0,12:07,2025
+2025020066,PHI,H,2025-10-16,0,0,{'default': 'Flyers'},{'default': 'Jets'},0,-1,0,0,0,0,0,16,0,0,WPG,0,12:20,2025
+2025020044,PHI,H,2025-10-13,0,0,{'default': 'Flyers'},{'default': 'Panthers'},0,1,0,0,0,0,0,27,0,0,FLA,0,20:33,2025
+2025020030,PHI,R,2025-10-11,0,0,{'default': 'Flyers'},{'default': 'Hurricanes'},0,0,0,0,0,0,0,19,0,0,CAR,0,14:21,2025
+2025020012,PHI,R,2025-10-09,0,0,{'default': 'Flyers'},{'default': 'Panthers'},0,0,0,0,0,0,2,21,0,0,FLA,0,17:21,2025
+2024020816,PHI,H,2025-01-30,0,0,{'default': 'Flyers'},{'default': 'Islanders'},0,-1,0,0,0,0,0,18,0,0,NYI,0,12:48,2024
+2023021222,PHI,R,2024-04-06,1,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},1,0,0,0,0,0,1,18,0,0,CBJ,0,14:26,2023
+2023021173,PHI,H,2024-03-30,0,0,{'default': 'Flyers'},{'default': 'Blackhawks'},0,-1,0,0,0,0,0,15,0,0,CHI,0,12:36,2023
+2023021152,PHI,R,2024-03-28,0,0,{'default': 'Flyers'},{'default': 'Canadiens'},0,0,0,0,0,0,0,19,0,0,MTL,0,13:21,2023
+2023021137,PHI,R,2024-03-26,0,0,{'default': 'Flyers'},{'default': 'Rangers'},0,1,0,0,0,0,1,17,0,0,NYR,0,12:44,2023
+2023021129,PHI,H,2024-03-24,0,0,{'default': 'Flyers'},{'default': 'Panthers'},0,-1,0,0,0,0,0,15,0,0,FLA,0,10:29,2023
+2023021114,PHI,H,2024-03-23,0,0,{'default': 'Flyers'},{'default': 'Bruins'},0,1,0,0,0,0,3,23,0,0,BOS,0,16:37,2023
+2023021099,PHI,R,2024-03-21,0,0,{'default': 'Flyers'},{'default': 'Hurricanes'},0,1,0,0,0,0,1,22,0,0,CAR,0,14:19,2023
+2023021086,PHI,H,2024-03-19,0,0,{'default': 'Flyers'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,20,0,0,TOR,0,14:38,2023
+2023020996,PHI,R,2024-03-07,0,0,{'default': 'Flyers'},{'default': 'Panthers'},0,-1,0,0,0,0,0,23,0,0,FLA,0,18:11,2023
+2022021287,PHI,H,2023-04-11,0,0,{'default': 'Flyers'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,21,0,0,CBJ,2,16:40,2022
