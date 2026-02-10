@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020836,DAL,R,2026-01-27,0,0,{'default': 'Stars'},{'default': 'Blues'},0,-2,0,0,0,0,2,16,0,0,STL,0,10:08,2025
 2025020804,DAL,H,2026-01-23,0,0,{'default': 'Stars'},{'default': 'Blues'},0,0,0,0,0,0,0,14,0,0,STL,0,10:38,2025
 2025020797,DAL,R,2026-01-22,0,0,{'default': 'Stars'},{'default': 'Blue Jackets'},0,-1,0,0,0,0,0,11,0,0,CBJ,0,8:41,2025
@@ -46,7 +46,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020034,DAL,R,2025-10-11,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,-1,0,0,0,0,0,18,0,0,COL,0,11:40,2025
 2025020017,DAL,R,2025-10-09,0,0,{'default': 'Stars'},{'default': 'Jets'},0,-1,0,0,0,0,0,17,0,0,WPG,0,11:53,2025
 2024021286,DAL,R,2025-04-14,1,0,{'default': 'Stars'},{'default': 'Red Wings'},1,1,0,0,0,0,2,17,1,1,DET,0,10:30,2024
-2024021272,DAL,H,2025-04-12,0,1,{'default': 'Stars'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",1,1,0,0,0,0,0,17,0,1,UTA,0,11:46,2024
+2024021272,DAL,H,2025-04-12,0,1,{'default': 'Stars'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",1,1,0,0,0,0,0,17,1,0,UTA,0,11:46,2024
 2024021242,DAL,H,2025-04-08,0,0,{'default': 'Stars'},{'default': 'Canucks'},0,-1,0,0,0,0,1,18,0,0,VAN,0,13:02,2024
 2024021211,DAL,H,2025-04-05,0,0,{'default': 'Stars'},{'default': 'Penguins'},0,1,0,0,0,0,0,17,0,0,PIT,0,12:30,2024
 2024021201,DAL,H,2025-04-03,0,0,{'default': 'Stars'},{'default': 'Predators'},0,0,0,0,0,0,0,15,0,0,NSH,4,11:01,2024
@@ -200,7 +200,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020131,CHI,R,2022-10-29,0,0,{'default': 'Blackhawks'},{'default': 'Sabres'},0,0,0,0,0,0,0,18,0,0,BUF,0,14:51,2022
 2022020116,CHI,H,2022-10-27,0,1,{'default': 'Blackhawks'},{'default': 'Oilers'},1,0,0,0,0,0,2,18,0,0,EDM,0,13:11,2022
 2022020103,CHI,H,2022-10-25,0,0,{'default': 'Blackhawks'},{'default': 'Panthers'},0,0,0,0,0,0,1,20,0,0,FLA,0,12:48,2022
-2022020087,CHI,H,2022-10-23,0,1,{'default': 'Blackhawks'},{'default': 'Kraken'},1,1,0,0,0,0,2,16,0,1,SEA,0,10:29,2022
+2022020087,CHI,H,2022-10-23,0,1,{'default': 'Blackhawks'},{'default': 'Kraken'},1,1,0,0,0,0,2,16,1,0,SEA,0,10:29,2022
 2022020072,CHI,H,2022-10-21,0,0,{'default': 'Blackhawks'},{'default': 'Red Wings'},0,-1,0,0,0,0,1,15,0,0,DET,0,10:33,2022
 2022020038,CHI,R,2022-10-15,0,0,{'default': 'Blackhawks'},{'default': 'Sharks'},0,0,0,0,0,0,0,17,0,0,SJS,0,12:55,2022
 2022020019,CHI,R,2022-10-13,0,0,{'default': 'Blackhawks'},{'default': 'Golden Knights'},0,0,0,0,0,0,2,15,0,0,VGK,0,10:01,2022

@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020896,MIN,R,2026-02-04,0,2,{'default': 'Wild'},{'default': 'Predators'},2,-1,0,1,0,0,1,28,0,0,NSH,2,28:58,2025
 2025020879,MIN,H,2026-02-02,0,3,{'default': 'Wild'},{'default': 'Canadiens'},3,0,0,1,0,0,6,28,0,0,MTL,0,33:19,2025
 2025020871,MIN,R,2026-01-31,1,1,{'default': 'Wild'},{'default': 'Oilers'},2,4,0,1,1,0,3,22,0,0,EDM,0,25:14,2025
@@ -221,7 +221,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022021050,VAN,H,2023-03-11,0,0,{'default': 'Canucks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,2,0,0,0,0,2,29,0,0,OTT,2,28:47,2022
 2022021024,VAN,H,2023-03-08,0,1,{'default': 'Canucks'},{'default': 'Ducks'},1,1,0,0,0,0,2,29,0,0,ANA,0,25:31,2022
 2022021010,VAN,H,2023-03-06,0,1,{'default': 'Canucks'},{'default': 'Predators'},1,-1,0,0,0,0,2,28,0,0,NSH,0,28:37,2022
-2022020996,VAN,H,2023-03-04,0,2,{'default': 'Canucks'},{'default': 'Maple Leafs'},2,2,0,1,0,0,2,34,0,1,TOR,0,29:16,2022
+2022020996,VAN,H,2023-03-04,0,2,{'default': 'Canucks'},{'default': 'Maple Leafs'},2,2,0,1,0,0,2,34,1,0,TOR,0,29:16,2022
 2022020981,VAN,H,2023-03-02,0,0,{'default': 'Canucks'},{'default': 'Wild'},0,-2,0,0,0,0,2,28,0,0,MIN,0,26:23,2022
 2022020955,VAN,R,2023-02-27,0,3,{'default': 'Canucks'},{'default': 'Stars'},3,2,0,0,0,0,6,35,0,0,DAL,2,26:46,2022
 2022020939,VAN,H,2023-02-25,0,0,{'default': 'Canucks'},{'default': 'Bruins'},0,-2,0,0,0,0,1,29,0,0,BOS,0,28:04,2022

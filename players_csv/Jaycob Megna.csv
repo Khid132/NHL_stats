@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020775,VGK,H,2026-01-19,0,0,{'default': 'Golden Knights'},{'default': 'Flyers'},0,0,0,0,0,0,1,13,0,0,PHI,0,11:01,2025
 2025020673,VGK,R,2026-01-06,0,0,{'default': 'Golden Knights'},{'default': 'Jets'},0,-2,0,0,0,0,0,6,0,0,WPG,0,5:04,2025
 2025020661,VGK,R,2026-01-04,0,0,{'default': 'Golden Knights'},{'default': 'Blackhawks'},0,-1,0,0,0,0,0,20,0,0,CHI,2,15:41,2025
@@ -82,7 +82,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020496,SJS,R,2022-12-17,0,0,{'default': 'Sharks'},{'default': 'Kings'},0,1,0,0,0,0,0,27,0,0,LAK,2,21:56,2022
 2022020465,SJS,H,2022-12-13,0,0,{'default': 'Sharks'},{'default': 'Coyotes'},0,0,0,0,0,0,4,25,0,0,ARI,0,21:01,2022
 2022020433,SJS,R,2022-12-09,0,0,{'default': 'Sharks'},{'default': 'Ducks'},0,1,0,0,0,0,0,24,0,0,ANA,0,15:49,2022
-2022020418,SJS,H,2022-12-07,0,1,{'default': 'Sharks'},{'default': 'Canucks'},1,1,0,0,0,0,3,26,1,0,VAN,0,21:56,2022
+2022020418,SJS,H,2022-12-07,0,1,{'default': 'Sharks'},{'default': 'Canucks'},1,1,0,0,0,0,3,26,0,1,VAN,0,21:56,2022
 2022020395,SJS,R,2022-12-04,0,0,{'default': 'Sharks'},{'default': 'Sabres'},0,-1,0,0,0,0,1,30,0,0,BUF,0,21:04,2022
 2022020383,SJS,R,2022-12-03,0,0,{'default': 'Sharks'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,1,0,0,0,0,0,26,0,0,OTT,0,20:05,2022
 2022020363,SJS,R,2022-11-30,0,0,{'default': 'Sharks'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,27,0,0,TOR,0,22:39,2022

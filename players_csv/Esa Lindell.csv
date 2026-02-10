@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020899,DAL,H,2026-02-04,0,1,{'default': 'Stars'},{'default': 'Blues'},1,1,0,0,0,0,0,23,0,0,STL,0,25:15,2025
 2025020882,DAL,H,2026-02-02,0,0,{'default': 'Stars'},{'default': 'Jets'},0,-1,0,0,0,0,3,22,0,0,WPG,0,23:26,2025
 2025020870,DAL,R,2026-01-31,0,0,{'default': 'Stars'},{'default': 'Mammoth'},0,0,0,0,0,0,1,25,0,0,UTA,0,22:39,2025
@@ -12,7 +12,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020734,DAL,R,2026-01-13,0,0,{'default': 'Stars'},{'default': 'Ducks'},0,0,0,0,0,0,0,23,0,0,ANA,0,21:37,2025
 2025020724,DAL,R,2026-01-12,0,2,{'default': 'Stars'},{'default': 'Kings'},2,2,0,0,0,0,0,28,0,0,LAK,0,26:36,2025
 2025020700,DAL,R,2026-01-10,0,0,{'default': 'Stars'},{'default': 'Sharks'},0,1,0,0,0,0,0,28,0,0,SJS,2,26:24,2025
-2025020677,DAL,R,2026-01-07,0,1,{'default': 'Stars'},{'default': 'Capitals'},1,1,0,0,0,0,0,29,1,0,WSH,0,26:49,2025
+2025020677,DAL,R,2026-01-07,0,1,{'default': 'Stars'},{'default': 'Capitals'},1,1,0,0,0,0,0,29,0,1,WSH,0,26:49,2025
 2025020671,DAL,R,2026-01-06,0,0,{'default': 'Stars'},{'default': 'Hurricanes'},0,0,0,0,0,0,2,23,0,0,CAR,0,21:09,2025
 2025020657,DAL,H,2026-01-04,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,1,0,0,0,0,0,25,0,0,MTL,2,22:22,2025
 2025020637,DAL,R,2026-01-01,0,0,{'default': 'Stars'},{'default': 'Blackhawks'},0,-1,0,0,0,0,0,24,0,0,CHI,2,19:54,2025
@@ -24,7 +24,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020543,DAL,R,2025-12-18,0,2,{'default': 'Stars'},{'default': 'Sharks'},2,2,0,0,0,0,1,24,0,0,SJS,0,25:46,2025
 2025020518,DAL,H,2025-12-15,0,0,{'default': 'Stars'},{'default': 'Kings'},0,1,0,0,0,0,1,24,0,0,LAK,0,24:07,2025
 2025020505,DAL,H,2025-12-13,0,0,{'default': 'Stars'},{'default': 'Panthers'},0,0,0,0,0,0,0,25,0,0,FLA,0,22:00,2025
-2025020488,DAL,R,2025-12-11,0,1,{'default': 'Stars'},{'default': 'Wild'},1,-1,0,0,0,0,1,28,1,0,MIN,0,25:13,2025
+2025020488,DAL,R,2025-12-11,0,1,{'default': 'Stars'},{'default': 'Wild'},1,-1,0,0,0,0,1,28,0,1,MIN,0,25:13,2025
 2025020473,DAL,R,2025-12-09,1,0,{'default': 'Stars'},{'default': 'Jets'},1,0,0,0,0,0,3,20,0,0,WPG,0,24:37,2025
 2025020456,DAL,H,2025-12-07,0,0,{'default': 'Stars'},{'default': 'Penguins'},0,0,0,0,0,0,1,27,0,0,PIT,0,28:53,2025
 2025020438,DAL,H,2025-12-05,0,0,{'default': 'Stars'},{'default': 'Sharks'},0,0,0,0,0,0,0,20,0,0,SJS,0,25:30,2025
@@ -210,7 +210,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020178,DAL,H,2023-11-06,0,1,{'default': 'Stars'},{'default': 'Bruins'},1,0,0,0,0,0,1,21,0,0,BOS,0,16:20,2023
 2023020172,DAL,R,2023-11-04,0,0,{'default': 'Stars'},{'default': 'Canucks'},0,0,0,0,0,0,1,18,0,0,VAN,2,17:48,2023
 2023020152,DAL,R,2023-11-02,0,1,{'default': 'Stars'},{'default': 'Oilers'},1,0,0,0,0,0,1,22,0,0,EDM,0,19:07,2023
-2023020142,DAL,R,2023-11-01,0,1,{'default': 'Stars'},{'default': 'Flames'},1,1,0,0,0,0,0,27,1,0,CGY,2,22:02,2023
+2023020142,DAL,R,2023-11-01,0,1,{'default': 'Stars'},{'default': 'Flames'},1,1,0,0,0,0,0,27,0,1,CGY,2,22:02,2023
 2023020136,DAL,H,2023-10-30,0,0,{'default': 'Stars'},{'default': 'Blue Jackets'},0,0,0,0,0,0,3,22,0,0,CBJ,0,20:32,2023
 2023020108,DAL,H,2023-10-26,0,0,{'default': 'Stars'},{'default': 'Maple Leafs'},0,-1,0,0,0,0,1,18,0,0,TOR,0,17:58,2023
 2023020088,DAL,R,2023-10-24,0,0,{'default': 'Stars'},{'default': 'Penguins'},0,1,0,0,0,0,1,22,0,0,PIT,0,22:23,2023
@@ -226,7 +226,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022021227,DAL,H,2023-04-03,0,0,{'default': 'Stars'},{'default': 'Predators'},0,-1,0,0,0,0,1,26,0,0,NSH,0,22:26,2022
 2022021212,DAL,R,2023-04-01,0,0,{'default': 'Stars'},{'default': 'Avalanche'},0,-1,0,0,0,0,2,24,0,0,COL,0,19:53,2022
 2022021203,DAL,R,2023-03-31,0,2,{'default': 'Stars'},{'default': 'Coyotes'},2,2,0,0,0,0,2,22,0,0,ARI,0,16:32,2022
-2022021182,DAL,R,2023-03-28,0,1,{'default': 'Stars'},{'default': 'Blackhawks'},1,1,0,0,0,0,0,22,1,0,CHI,0,19:26,2022
+2022021182,DAL,R,2023-03-28,0,1,{'default': 'Stars'},{'default': 'Blackhawks'},1,1,0,0,0,0,0,22,0,1,CHI,0,19:26,2022
 2022021161,DAL,H,2023-03-25,0,0,{'default': 'Stars'},{'default': 'Canucks'},0,-1,0,0,0,0,0,26,0,0,VAN,0,19:47,2022
 2022021143,DAL,H,2023-03-23,0,0,{'default': 'Stars'},{'default': 'Penguins'},0,0,0,0,0,0,1,28,0,0,PIT,0,20:05,2022
 2022021130,DAL,H,2023-03-21,0,0,{'default': 'Stars'},{'default': 'Kraken'},0,-2,0,0,0,0,2,26,0,0,SEA,0,18:21,2022
@@ -285,7 +285,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020284,DAL,H,2022-11-19,0,0,{'default': 'Stars'},{'default': 'Islanders'},0,3,0,0,0,0,1,25,0,0,NYI,0,23:27,2022
 2022020262,DAL,R,2022-11-17,0,1,{'default': 'Stars'},{'default': 'Panthers'},1,3,0,0,0,0,0,26,0,0,FLA,0,23:03,2022
 2022020248,DAL,R,2022-11-15,0,0,{'default': 'Stars'},{'default': 'Lightning'},0,0,0,0,0,0,1,21,0,0,TBL,0,18:33,2022
-2022020238,DAL,R,2022-11-13,1,2,{'default': 'Stars'},{'default': 'Flyers'},3,2,0,0,1,0,1,23,1,0,PHI,0,20:08,2022
+2022020238,DAL,R,2022-11-13,1,2,{'default': 'Stars'},{'default': 'Flyers'},3,2,0,0,1,0,1,23,0,1,PHI,0,20:08,2022
 2022020223,DAL,H,2022-11-11,0,0,{'default': 'Stars'},{'default': 'Sharks'},0,1,0,0,0,0,1,23,0,0,SJS,0,16:16,2022
 2022020204,DAL,R,2022-11-08,0,0,{'default': 'Stars'},{'default': 'Jets'},0,-3,0,0,0,0,1,26,0,0,WPG,0,18:08,2022
 2022020177,DAL,R,2022-11-05,0,0,{'default': 'Stars'},{'default': 'Oilers'},0,0,0,0,0,0,1,29,0,0,EDM,0,21:58,2022

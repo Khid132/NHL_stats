@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020902,SEA,R,2026-02-04,0,0,{'default': 'Kraken'},{'default': 'Kings'},0,0,0,0,0,0,2,25,0,0,LAK,0,19:41,2025
 2025020892,SEA,R,2026-02-03,0,0,{'default': 'Kraken'},{'default': 'Ducks'},0,-2,0,0,0,0,2,23,0,0,ANA,2,18:10,2025
 2025020872,SEA,R,2026-01-31,0,0,{'default': 'Kraken'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,24,0,0,VGK,0,19:13,2025
@@ -220,7 +220,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022021271,SEA,H,2023-04-08,0,0,{'default': 'Kraken'},{'default': 'Blackhawks'},0,2,0,0,0,0,1,17,0,0,CHI,0,15:32,2022
 2022021253,SEA,H,2023-04-06,1,1,{'default': 'Kraken'},{'default': 'Coyotes'},2,2,0,0,0,0,6,25,0,0,ARI,0,17:50,2022
 2022021238,SEA,R,2023-04-04,1,0,{'default': 'Kraken'},{'default': 'Canucks'},1,1,0,0,0,0,3,23,0,0,VAN,0,20:59,2022
-2022021228,SEA,H,2023-04-03,0,1,{'default': 'Kraken'},{'default': 'Coyotes'},1,2,0,0,0,0,0,22,1,0,ARI,0,18:09,2022
+2022021228,SEA,H,2023-04-03,0,1,{'default': 'Kraken'},{'default': 'Coyotes'},1,2,0,0,0,0,0,22,0,1,ARI,0,18:09,2022
 2022021214,SEA,H,2023-04-01,0,0,{'default': 'Kraken'},{'default': 'Kings'},0,-2,0,0,0,0,1,23,0,0,LAK,0,18:05,2022
 2022021198,SEA,H,2023-03-30,1,1,{'default': 'Kraken'},{'default': 'Ducks'},2,1,0,1,1,0,2,22,0,0,ANA,0,18:16,2022
 2022021173,SEA,R,2023-03-27,0,0,{'default': 'Kraken'},{'default': 'Wild'},0,-2,0,0,0,0,1,22,0,0,MIN,0,18:05,2022

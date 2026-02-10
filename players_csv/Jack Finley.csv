@@ -1,24 +1,24 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,pim,opponentAbbrev,season
-2025020904,TBL,H,2026-02-05,0,0,{'default': 'Lightning'},{'default': 'Panthers'},0,0,0,0,0,0,0,13,0,0,6:42,0,FLA,2025
-2025020886,TBL,H,2026-02-03,0,0,{'default': 'Lightning'},{'default': 'Sabres'},0,0,0,0,0,0,1,12,0,0,7:43,0,BUF,2025
-2025020847,TBL,H,2026-01-29,0,0,{'default': 'Lightning'},{'default': 'Jets'},0,0,0,0,0,0,0,17,0,0,10:15,2,WPG,2025
-2025020825,TBL,H,2026-01-26,0,0,{'default': 'Lightning'},{'default': 'Mammoth'},0,0,0,0,0,0,0,12,0,0,7:11,0,UTA,2025
-2025020803,TBL,R,2026-01-23,0,0,{'default': 'Lightning'},{'default': 'Blackhawks'},0,0,0,0,0,0,0,1,0,0,1:01,7,CHI,2025
-2025020781,TBL,H,2026-01-20,0,0,{'default': 'Lightning'},{'default': 'Sharks'},0,-1,0,0,0,0,0,15,0,0,10:21,0,SJS,2025
-2025020767,TBL,R,2026-01-18,0,0,{'default': 'Lightning'},{'default': 'Stars'},0,0,0,0,0,0,0,15,0,0,11:34,0,DAL,2025
-2025020751,TBL,R,2026-01-16,0,0,{'default': 'Lightning'},{'default': 'Blues'},0,0,0,0,0,0,0,14,0,0,7:08,0,STL,2025
-2025020726,TBL,R,2026-01-13,0,0,{'default': 'Lightning'},{'default': 'Penguins'},0,0,0,0,0,0,0,11,0,0,6:50,0,PIT,2025
-2025020571,TBL,H,2025-12-22,0,0,{'default': 'Lightning'},{'default': 'Blues'},0,0,0,0,0,0,0,15,0,0,11:01,2,STL,2025
-2025020557,TBL,H,2025-12-20,1,0,{'default': 'Lightning'},{'default': 'Hurricanes'},1,2,0,0,0,0,2,13,0,0,8:19,4,CAR,2025
-2025020461,TBL,R,2025-12-08,0,0,{'default': 'Lightning'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,11,0,0,6:39,2,TOR,2025
-2025020446,TBL,H,2025-12-06,0,0,{'default': 'Lightning'},{'default': 'Islanders'},0,0,0,0,0,0,1,13,0,0,8:50,0,NYI,2025
-2025020353,TBL,H,2025-11-24,0,0,{'default': 'Lightning'},{'default': 'Flyers'},0,0,0,0,0,0,0,13,0,0,7:36,0,PHI,2025
-2025020309,TBL,H,2025-11-18,0,0,{'default': 'Lightning'},{'default': 'Devils'},0,0,0,0,0,0,0,14,0,0,8:14,0,NJD,2025
-2025020297,TBL,H,2025-11-16,0,0,{'default': 'Lightning'},{'default': 'Canucks'},0,0,0,0,0,0,0,15,0,0,10:41,0,VAN,2025
-2025020283,TBL,R,2025-11-15,1,0,{'default': 'Lightning'},{'default': 'Panthers'},1,1,0,0,1,0,3,12,0,0,8:25,0,FLA,2025
-2025020265,TBL,H,2025-11-12,0,1,{'default': 'Lightning'},{'default': 'Rangers'},1,0,0,0,0,0,0,18,0,0,12:44,0,NYR,2025
-2025020236,TBL,H,2025-11-08,0,0,{'default': 'Lightning'},{'default': 'Capitals'},0,0,0,0,0,0,0,16,0,0,9:44,2,WSH,2025
-2025020082,TBL,R,2025-10-18,0,0,{'default': 'Lightning'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,16,0,0,7:14,0,CBJ,2025
-2025020072,TBL,R,2025-10-17,0,0,{'default': 'Lightning'},{'default': 'Red Wings'},0,0,0,0,0,0,3,15,0,0,7:51,0,DET,2025
-2025020026,TBL,H,2025-10-11,0,0,{'default': 'Lightning'},{'default': 'Devils'},0,0,0,0,0,0,0,14,0,0,9:05,2,NJD,2025
-2024020692,TBL,R,2025-01-14,0,0,{'default': 'Lightning'},{'default': 'Bruins'},0,1,0,0,0,0,1,15,0,0,8:25,0,BOS,2024
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+2025020904,TBL,H,2026-02-05,0,0,{'default': 'Lightning'},{'default': 'Panthers'},0,0,0,0,0,0,0,13,0,0,FLA,0,6:42,2025
+2025020886,TBL,H,2026-02-03,0,0,{'default': 'Lightning'},{'default': 'Sabres'},0,0,0,0,0,0,1,12,0,0,BUF,0,7:43,2025
+2025020847,TBL,H,2026-01-29,0,0,{'default': 'Lightning'},{'default': 'Jets'},0,0,0,0,0,0,0,17,0,0,WPG,2,10:15,2025
+2025020825,TBL,H,2026-01-26,0,0,{'default': 'Lightning'},{'default': 'Mammoth'},0,0,0,0,0,0,0,12,0,0,UTA,0,7:11,2025
+2025020803,TBL,R,2026-01-23,0,0,{'default': 'Lightning'},{'default': 'Blackhawks'},0,0,0,0,0,0,0,1,0,0,CHI,7,1:01,2025
+2025020781,TBL,H,2026-01-20,0,0,{'default': 'Lightning'},{'default': 'Sharks'},0,-1,0,0,0,0,0,15,0,0,SJS,0,10:21,2025
+2025020767,TBL,R,2026-01-18,0,0,{'default': 'Lightning'},{'default': 'Stars'},0,0,0,0,0,0,0,15,0,0,DAL,0,11:34,2025
+2025020751,TBL,R,2026-01-16,0,0,{'default': 'Lightning'},{'default': 'Blues'},0,0,0,0,0,0,0,14,0,0,STL,0,7:08,2025
+2025020726,TBL,R,2026-01-13,0,0,{'default': 'Lightning'},{'default': 'Penguins'},0,0,0,0,0,0,0,11,0,0,PIT,0,6:50,2025
+2025020571,TBL,H,2025-12-22,0,0,{'default': 'Lightning'},{'default': 'Blues'},0,0,0,0,0,0,0,15,0,0,STL,2,11:01,2025
+2025020557,TBL,H,2025-12-20,1,0,{'default': 'Lightning'},{'default': 'Hurricanes'},1,2,0,0,0,0,2,13,0,0,CAR,4,8:19,2025
+2025020461,TBL,R,2025-12-08,0,0,{'default': 'Lightning'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,11,0,0,TOR,2,6:39,2025
+2025020446,TBL,H,2025-12-06,0,0,{'default': 'Lightning'},{'default': 'Islanders'},0,0,0,0,0,0,1,13,0,0,NYI,0,8:50,2025
+2025020353,TBL,H,2025-11-24,0,0,{'default': 'Lightning'},{'default': 'Flyers'},0,0,0,0,0,0,0,13,0,0,PHI,0,7:36,2025
+2025020309,TBL,H,2025-11-18,0,0,{'default': 'Lightning'},{'default': 'Devils'},0,0,0,0,0,0,0,14,0,0,NJD,0,8:14,2025
+2025020297,TBL,H,2025-11-16,0,0,{'default': 'Lightning'},{'default': 'Canucks'},0,0,0,0,0,0,0,15,0,0,VAN,0,10:41,2025
+2025020283,TBL,R,2025-11-15,1,0,{'default': 'Lightning'},{'default': 'Panthers'},1,1,0,0,1,0,3,12,0,0,FLA,0,8:25,2025
+2025020265,TBL,H,2025-11-12,0,1,{'default': 'Lightning'},{'default': 'Rangers'},1,0,0,0,0,0,0,18,0,0,NYR,0,12:44,2025
+2025020236,TBL,H,2025-11-08,0,0,{'default': 'Lightning'},{'default': 'Capitals'},0,0,0,0,0,0,0,16,0,0,WSH,2,9:44,2025
+2025020082,TBL,R,2025-10-18,0,0,{'default': 'Lightning'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,16,0,0,CBJ,0,7:14,2025
+2025020072,TBL,R,2025-10-17,0,0,{'default': 'Lightning'},{'default': 'Red Wings'},0,0,0,0,0,0,3,15,0,0,DET,0,7:51,2025
+2025020026,TBL,H,2025-10-11,0,0,{'default': 'Lightning'},{'default': 'Devils'},0,0,0,0,0,0,0,14,0,0,NJD,2,9:05,2025
+2024020692,TBL,R,2025-01-14,0,0,{'default': 'Lightning'},{'default': 'Bruins'},0,1,0,0,0,0,1,15,0,0,BOS,0,8:25,2024

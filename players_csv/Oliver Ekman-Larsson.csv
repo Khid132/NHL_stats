@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020891,TOR,R,2026-02-03,0,1,{'default': 'Maple Leafs'},{'default': 'Oilers'},1,-2,0,1,0,0,0,33,0,0,EDM,4,22:19,2025
 2025020885,TOR,R,2026-02-02,0,0,{'default': 'Maple Leafs'},{'default': 'Flames'},0,0,0,0,0,0,1,30,0,0,CGY,0,18:31,2025
 2025020869,TOR,R,2026-01-31,0,1,{'default': 'Maple Leafs'},{'default': 'Canucks'},1,1,0,0,0,0,3,38,0,0,VAN,0,28:10,2025
@@ -263,7 +263,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020097,VAN,H,2022-10-24,0,1,{'default': 'Canucks'},{'default': 'Hurricanes'},1,0,0,0,0,0,1,31,0,0,CAR,0,23:54,2022
 2022020084,VAN,H,2022-10-22,0,0,{'default': 'Canucks'},{'default': 'Sabres'},0,-2,0,0,0,0,1,33,0,0,BUF,0,21:52,2022
 2022020067,VAN,R,2022-10-20,0,1,{'default': 'Canucks'},{'default': 'Wild'},1,2,0,0,0,0,1,36,0,0,MIN,0,25:26,2022
-2022020050,VAN,R,2022-10-18,0,1,{'default': 'Canucks'},{'default': 'Blue Jackets'},1,0,0,0,0,0,4,35,1,0,CBJ,0,23:40,2022
+2022020050,VAN,R,2022-10-18,0,1,{'default': 'Canucks'},{'default': 'Blue Jackets'},1,0,0,0,0,0,4,35,0,1,CBJ,0,23:40,2022
 2022020043,VAN,R,2022-10-17,0,1,{'default': 'Canucks'},{'default': 'Capitals'},1,-2,0,0,0,0,3,29,0,0,WSH,0,21:41,2022
 2022020026,VAN,R,2022-10-15,0,0,{'default': 'Canucks'},{'default': 'Flyers'},0,-1,0,0,0,0,0,29,0,0,PHI,0,21:04,2022
 2022020010,VAN,R,2022-10-12,0,0,{'default': 'Canucks'},{'default': 'Oilers'},0,0,0,0,0,0,3,33,0,0,EDM,0,22:16,2022
