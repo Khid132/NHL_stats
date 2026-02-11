@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020896,MIN,R,2026-02-04,0,0,{'default': 'Wild'},{'default': 'Predators'},0,0,0,0,0,0,1,11,0,0,NSH,5,8:09,2025
 2025020879,MIN,H,2026-02-02,0,0,{'default': 'Wild'},{'default': 'Canadiens'},0,0,0,0,0,0,1,10,0,0,MTL,0,8:09,2025
 2025020871,MIN,R,2026-01-31,0,1,{'default': 'Wild'},{'default': 'Oilers'},1,0,0,0,0,0,1,13,0,0,EDM,0,12:42,2025
@@ -119,5 +119,5 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020114,BUF,H,2022-10-27,0,0,{'default': 'Sabres'},{'default': 'Canadiens'},0,0,0,0,0,0,1,14,0,0,MTL,0,11:14,2022
 2022020105,BUF,R,2022-10-25,0,1,{'default': 'Sabres'},{'default': 'Kraken'},1,-1,0,0,0,0,1,18,0,0,SEA,0,13:00,2022
 2022020084,BUF,R,2022-10-22,0,0,{'default': 'Sabres'},{'default': 'Canucks'},0,0,0,0,0,0,1,19,0,0,VAN,0,16:03,2022
-2022020068,BUF,R,2022-10-20,0,3,{'default': 'Sabres'},{'default': 'Flames'},3,1,0,0,0,0,1,20,1,0,CGY,0,14:09,2022
+2022020068,BUF,R,2022-10-20,0,3,{'default': 'Sabres'},{'default': 'Flames'},3,1,0,0,0,0,1,20,0,1,CGY,0,14:09,2022
 2022020054,BUF,R,2022-10-18,0,1,{'default': 'Sabres'},{'default': 'Oilers'},1,1,0,0,0,0,1,17,0,0,EDM,0,11:44,2022

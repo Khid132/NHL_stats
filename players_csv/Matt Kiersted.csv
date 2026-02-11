@@ -1,7 +1,7 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020666,MIN,R,2026-01-05,0,0,{'default': 'Wild'},{'default': 'Kings'},0,-2,0,0,0,0,0,10,0,0,LAK,0,8:31,2025
 2025020540,MIN,R,2025-12-18,0,0,{'default': 'Wild'},{'default': 'Blue Jackets'},0,1,0,0,0,0,0,23,0,0,CBJ,0,17:37,2025
-2025020526,MIN,H,2025-12-16,0,1,{'default': 'Wild'},{'default': 'Capitals'},1,0,0,0,0,0,3,19,0,1,WSH,0,16:16,2025
+2025020526,MIN,H,2025-12-16,0,1,{'default': 'Wild'},{'default': 'Capitals'},1,0,0,0,0,0,3,19,1,0,WSH,0,16:16,2025
 2025020496,MIN,H,2025-12-13,0,0,{'default': 'Wild'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,1,18,0,0,OTT,0,12:24,2025
 2024021294,FLA,R,2025-04-15,0,1,{'default': 'Panthers'},{'default': 'Lightning'},1,1,0,0,0,0,0,14,0,0,TBL,2,10:00,2024
 2024021225,FLA,R,2025-04-06,0,0,{'default': 'Panthers'},{'default': 'Red Wings'},0,0,0,0,0,0,0,21,0,0,DET,0,15:21,2024

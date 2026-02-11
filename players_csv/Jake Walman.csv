@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020900,EDM,R,2026-02-04,0,0,{'default': 'Oilers'},{'default': 'Flames'},0,0,0,0,0,0,1,24,0,0,CGY,0,18:02,2025
 2025020891,EDM,H,2026-02-03,1,0,{'default': 'Oilers'},{'default': 'Maple Leafs'},1,0,0,0,0,0,4,24,0,0,TOR,0,21:34,2025
 2025020871,EDM,H,2026-01-31,0,0,{'default': 'Oilers'},{'default': 'Wild'},0,0,0,0,0,0,3,24,0,0,MIN,0,22:08,2025
@@ -35,7 +35,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024021167,EDM,H,2025-03-29,0,0,{'default': 'Oilers'},{'default': 'Flames'},0,-1,0,0,0,0,1,29,0,0,CGY,0,22:16,2024
 2024021151,EDM,R,2025-03-27,0,0,{'default': 'Oilers'},{'default': 'Kraken'},0,-1,0,0,0,0,5,25,0,0,SEA,0,21:49,2024
 2024021141,EDM,H,2025-03-26,0,1,{'default': 'Oilers'},{'default': 'Stars'},1,0,0,1,0,0,5,22,0,0,DAL,2,16:34,2024
-2024021116,EDM,H,2025-03-22,0,1,{'default': 'Oilers'},{'default': 'Kraken'},1,1,0,0,0,0,1,23,0,1,SEA,0,22:21,2024
+2024021116,EDM,H,2025-03-22,0,1,{'default': 'Oilers'},{'default': 'Kraken'},1,1,0,0,0,0,1,23,1,0,SEA,0,22:21,2024
 2024021099,EDM,H,2025-03-20,0,1,{'default': 'Oilers'},{'default': 'Jets'},1,0,0,0,0,0,0,25,0,0,WPG,0,20:13,2024
 2024021085,EDM,H,2025-03-18,0,0,{'default': 'Oilers'},"{'default': 'Utah Hockey Club', 'fr': ""Club de hockey de l'Utah""}",0,0,0,0,0,0,1,24,0,0,UTA,2,20:27,2024
 2024021069,EDM,R,2025-03-16,0,0,{'default': 'Oilers'},{'default': 'Rangers'},0,0,0,0,0,0,1,29,0,0,NYR,0,22:40,2024
@@ -136,7 +136,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020393,DET,H,2023-12-07,0,0,{'default': 'Red Wings'},{'default': 'Sharks'},0,-1,0,0,0,0,2,24,0,0,SJS,0,20:23,2023
 2023020380,DET,R,2023-12-05,0,0,{'default': 'Red Wings'},{'default': 'Sabres'},0,1,0,0,0,0,0,26,0,0,BUF,2,17:50,2023
 2023020361,DET,R,2023-12-02,1,1,{'default': 'Red Wings'},{'default': 'Canadiens'},2,3,0,0,1,1,4,27,0,0,MTL,0,20:22,2023
-2023020342,DET,H,2023-11-30,0,2,{'default': 'Red Wings'},{'default': 'Blackhawks'},2,1,0,0,0,0,0,19,0,1,CHI,0,17:38,2023
+2023020342,DET,H,2023-11-30,0,2,{'default': 'Red Wings'},{'default': 'Blackhawks'},2,1,0,0,0,0,0,19,1,0,CHI,0,17:38,2023
 2023020338,DET,R,2023-11-29,0,0,{'default': 'Red Wings'},{'default': 'Rangers'},0,-1,0,0,0,0,1,23,0,0,NYR,0,21:20,2023
 2023020281,DET,H,2023-11-22,0,1,{'default': 'Red Wings'},{'default': 'Devils'},1,2,0,1,0,0,3,27,0,0,NJD,0,20:12,2023
 2023020251,DET,H,2023-11-17,0,0,{'default': 'Red Wings'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,14,0,0,TOR,0,12:29,2023

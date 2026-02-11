@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020895,WPG,H,2026-02-04,0,0,{'default': 'Jets'},{'default': 'Canadiens'},0,0,0,0,0,0,1,13,0,0,MTL,0,8:58,2025
 2025020882,WPG,R,2026-02-02,0,0,{'default': 'Jets'},{'default': 'Stars'},0,0,0,0,0,0,2,18,0,0,DAL,2,11:06,2025
 2025020862,WPG,R,2026-01-31,0,0,{'default': 'Jets'},{'default': 'Panthers'},0,-1,0,0,0,0,1,16,0,0,FLA,0,10:45,2025
@@ -200,7 +200,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020045,WPG,H,2023-10-17,0,0,{'default': 'Jets'},{'default': 'Kings'},0,-1,0,0,0,0,1,15,0,0,LAK,4,10:27,2023
 2023020020,WPG,H,2023-10-14,1,0,{'default': 'Jets'},{'default': 'Panthers'},1,1,0,0,0,0,2,15,0,0,FLA,0,9:29,2023
 2023020007,WPG,R,2023-10-11,0,0,{'default': 'Jets'},{'default': 'Flames'},0,-1,0,0,0,0,0,16,0,0,CGY,0,8:55,2023
-2022021309,WPG,R,2023-04-13,0,1,{'default': 'Jets'},{'default': 'Avalanche'},1,0,0,0,0,0,2,20,0,1,COL,0,13:40,2022
+2022021309,WPG,R,2023-04-13,0,1,{'default': 'Jets'},{'default': 'Avalanche'},1,0,0,0,0,0,2,20,1,0,COL,0,13:40,2022
 2022021291,WPG,R,2023-04-11,0,1,{'default': 'Jets'},{'default': 'Wild'},1,1,0,0,0,0,1,14,0,0,MIN,0,9:25,2022
 2022021278,WPG,H,2023-04-10,0,0,{'default': 'Jets'},{'default': 'Sharks'},0,0,0,0,0,0,1,16,0,0,SJS,0,12:52,2022
 2022021264,WPG,H,2023-04-08,0,0,{'default': 'Jets'},{'default': 'Predators'},0,0,0,0,0,0,0,11,0,0,NSH,0,8:23,2022
@@ -210,7 +210,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022021185,WPG,R,2023-03-28,0,0,{'default': 'Jets'},{'default': 'Sharks'},0,0,0,0,0,0,4,14,0,0,SJS,0,8:57,2022
 2022021154,WPG,R,2023-03-25,0,0,{'default': 'Jets'},{'default': 'Kings'},0,0,0,0,0,0,1,14,0,0,LAK,0,9:09,2022
 2022021146,WPG,R,2023-03-23,0,0,{'default': 'Jets'},{'default': 'Ducks'},0,0,0,0,0,0,1,14,0,0,ANA,0,8:58,2022
-2022021128,WPG,H,2023-03-21,0,1,{'default': 'Jets'},{'default': 'Coyotes'},1,1,0,0,0,0,1,8,0,1,ARI,5,5:18,2022
+2022021128,WPG,H,2023-03-21,0,1,{'default': 'Jets'},{'default': 'Coyotes'},1,1,0,0,0,0,1,8,1,0,ARI,5,5:18,2022
 2022021113,WPG,R,2023-03-19,0,0,{'default': 'Jets'},{'default': 'Blues'},0,0,0,0,0,0,1,15,0,0,STL,0,11:02,2022
 2022021097,WPG,R,2023-03-18,0,0,{'default': 'Jets'},{'default': 'Predators'},0,0,0,0,0,0,2,12,0,0,NSH,0,9:24,2022
 2022021084,WPG,H,2023-03-16,0,0,{'default': 'Jets'},{'default': 'Bruins'},0,0,0,0,0,0,2,15,0,0,BOS,0,11:53,2022

@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020897,SJS,R,2026-02-04,0,0,{'default': 'Sharks'},{'default': 'Avalanche'},0,0,0,0,0,0,0,21,0,0,COL,0,20:12,2025
 2025020881,SJS,R,2026-02-02,0,0,{'default': 'Sharks'},{'default': 'Blackhawks'},0,0,0,0,0,0,1,22,0,0,CHI,0,21:15,2025
 2025020863,SJS,R,2026-01-31,0,0,{'default': 'Sharks'},{'default': 'Flames'},0,0,0,0,0,0,2,22,0,0,CGY,2,19:37,2025
@@ -61,7 +61,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024021190,SJS,R,2025-04-01,0,1,{'default': 'Sharks'},{'default': 'Ducks'},1,1,0,0,0,0,0,26,0,0,ANA,0,26:42,2024
 2024021177,SJS,R,2025-03-30,0,1,{'default': 'Sharks'},{'default': 'Kings'},1,-2,0,0,0,0,0,25,0,0,LAK,4,20:22,2024
 2024021168,SJS,H,2025-03-29,0,0,{'default': 'Sharks'},{'default': 'Rangers'},0,-3,0,0,0,0,3,25,0,0,NYR,0,24:45,2024
-2024021152,SJS,H,2025-03-27,0,1,{'default': 'Sharks'},{'default': 'Maple Leafs'},1,0,0,0,0,0,2,26,1,0,TOR,0,25:24,2024
+2024021152,SJS,H,2025-03-27,0,1,{'default': 'Sharks'},{'default': 'Maple Leafs'},1,0,0,0,0,0,2,26,0,1,TOR,0,25:24,2024
 2024021117,SJS,H,2025-03-22,0,0,{'default': 'Sharks'},{'default': 'Bruins'},0,0,0,0,0,0,1,23,0,0,BOS,0,24:52,2024
 2024021102,SJS,H,2025-03-20,0,0,{'default': 'Sharks'},{'default': 'Hurricanes'},0,-2,0,0,0,0,0,24,0,0,CAR,0,17:58,2024
 2024021057,SJS,H,2025-03-15,0,0,{'default': 'Sharks'},{'default': 'Capitals'},0,-2,0,0,0,0,0,24,0,0,WSH,4,20:55,2024

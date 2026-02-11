@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020903,BUF,H,2026-02-05,0,1,{'default': 'Sabres'},{'default': 'Penguins'},1,-1,0,1,0,0,4,20,0,0,PIT,0,19:24,2025
 2025020886,BUF,R,2026-02-03,0,1,{'default': 'Sabres'},{'default': 'Lightning'},1,0,0,0,0,0,2,23,0,0,TBL,0,17:50,2025
 2025020876,BUF,R,2026-02-02,0,1,{'default': 'Sabres'},{'default': 'Panthers'},1,-1,0,1,0,0,4,22,0,0,FLA,2,16:13,2025
@@ -164,7 +164,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022021257,BUF,H,2023-04-08,0,0,{'default': 'Sabres'},{'default': 'Hurricanes'},0,-2,0,0,0,0,0,14,0,0,CAR,0,10:35,2022
 2022021248,BUF,R,2023-04-06,0,0,{'default': 'Sabres'},{'default': 'Red Wings'},0,-1,0,0,0,0,2,19,0,0,DET,0,12:39,2022
 2022021229,BUF,R,2023-04-04,0,0,{'default': 'Sabres'},{'default': 'Panthers'},0,0,0,0,0,0,1,24,0,0,FLA,0,17:12,2022
-2022021206,BUF,R,2023-04-01,0,1,{'default': 'Sabres'},{'default': 'Flyers'},1,-1,0,0,0,0,1,22,1,0,PHI,0,14:25,2022
+2022021206,BUF,R,2023-04-01,0,1,{'default': 'Sabres'},{'default': 'Flyers'},1,-1,0,0,0,0,1,22,0,1,PHI,0,14:25,2022
 2022021200,BUF,H,2023-03-31,0,1,{'default': 'Sabres'},{'default': 'Rangers'},1,1,0,0,0,0,5,21,0,0,NYR,0,15:43,2022
 2022021171,BUF,H,2023-03-27,0,0,{'default': 'Sabres'},{'default': 'Canadiens'},0,-2,0,0,0,0,2,20,0,0,MTL,0,18:04,2022
 2022021157,BUF,R,2023-03-25,0,0,{'default': 'Sabres'},{'default': 'Islanders'},0,0,0,0,0,0,1,20,0,0,NYI,2,15:55,2022

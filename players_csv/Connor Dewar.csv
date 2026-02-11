@@ -1,5 +1,5 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020903,PIT,R,2026-02-05,0,1,{'default': 'Penguins'},{'default': 'Sabres'},1,2,0,0,0,0,1,18,0,1,BUF,0,15:41,2025
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+2025020903,PIT,R,2026-02-05,0,1,{'default': 'Penguins'},{'default': 'Sabres'},1,2,0,0,0,0,1,18,1,0,BUF,0,15:41,2025
 2025020888,PIT,R,2026-02-03,0,0,{'default': 'Penguins'},{'default': 'Islanders'},0,0,0,0,0,0,2,16,0,0,NYI,0,13:22,2025
 2025020877,PIT,H,2026-02-02,0,0,{'default': 'Penguins'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,19,0,0,OTT,0,12:51,2025
 2025020861,PIT,H,2026-01-31,0,2,{'default': 'Penguins'},{'default': 'Rangers'},2,3,0,0,0,0,0,18,0,0,NYR,0,13:04,2025
@@ -91,7 +91,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020490,TOR,H,2024-12-15,0,0,{'default': 'Maple Leafs'},{'default': 'Sabres'},0,0,0,0,0,0,0,14,0,0,BUF,0,7:50,2024
 2024020479,TOR,R,2024-12-14,0,0,{'default': 'Maple Leafs'},{'default': 'Red Wings'},0,0,0,0,0,0,1,16,0,0,DET,0,11:04,2024
 2024020459,TOR,H,2024-12-12,0,0,{'default': 'Maple Leafs'},{'default': 'Ducks'},0,0,0,0,0,0,1,13,0,0,ANA,0,8:12,2024
-2024020446,TOR,R,2024-12-10,0,1,{'default': 'Maple Leafs'},{'default': 'Devils'},1,1,0,0,0,0,0,15,0,1,NJD,0,8:53,2024
+2024020446,TOR,R,2024-12-10,0,1,{'default': 'Maple Leafs'},{'default': 'Devils'},1,1,0,0,0,0,0,15,1,0,NJD,0,8:53,2024
 2024020433,TOR,R,2024-12-07,0,0,{'default': 'Maple Leafs'},{'default': 'Penguins'},0,0,0,0,0,0,0,16,0,0,PIT,0,10:19,2024
 2024020419,TOR,H,2024-12-06,0,0,{'default': 'Maple Leafs'},{'default': 'Capitals'},0,0,0,0,0,0,1,15,0,0,WSH,0,10:52,2024
 2024020406,TOR,H,2024-12-04,0,0,{'default': 'Maple Leafs'},{'default': 'Predators'},0,0,0,0,0,0,0,15,0,0,NSH,0,12:08,2024
@@ -254,7 +254,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020132,MIN,R,2022-10-29,0,0,{'default': 'Wild'},{'default': 'Red Wings'},0,0,0,0,0,0,0,12,0,0,DET,0,11:07,2022
 2022020113,MIN,R,2022-10-27,0,0,{'default': 'Wild'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,1,13,0,0,OTT,0,10:44,2022
 2022020101,MIN,R,2022-10-25,0,0,{'default': 'Wild'},{'default': 'Canadiens'},0,0,0,0,0,0,1,11,0,0,MTL,0,8:57,2022
-2022020074,MIN,R,2022-10-22,0,1,{'default': 'Wild'},{'default': 'Bruins'},1,1,0,0,0,0,1,13,0,1,BOS,0,8:58,2022
+2022020074,MIN,R,2022-10-22,0,1,{'default': 'Wild'},{'default': 'Bruins'},1,1,0,0,0,0,1,13,1,0,BOS,0,8:58,2022
 2022020045,MIN,H,2022-10-17,0,0,{'default': 'Wild'},{'default': 'Avalanche'},0,0,0,0,0,0,0,14,0,0,COL,0,7:44,2022
 2022020034,MIN,H,2022-10-15,0,0,{'default': 'Wild'},{'default': 'Kings'},0,-1,0,0,0,0,1,11,0,0,LAK,0,6:27,2022
 2022020017,MIN,H,2022-10-13,0,0,{'default': 'Wild'},{'default': 'Rangers'},0,-1,0,0,0,0,0,14,0,0,NYR,0,8:22,2022

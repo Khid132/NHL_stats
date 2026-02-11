@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020895,MTL,R,2026-02-04,0,0,{'default': 'Canadiens'},{'default': 'Jets'},0,0,0,0,0,0,1,25,0,0,WPG,0,20:47,2025
 2025020879,MTL,R,2026-02-02,0,0,{'default': 'Canadiens'},{'default': 'Wild'},0,-2,0,0,0,0,1,24,0,0,MIN,0,20:41,2025
 2025020865,MTL,R,2026-01-31,0,0,{'default': 'Canadiens'},{'default': 'Sabres'},0,2,0,0,0,0,0,23,0,0,BUF,0,19:29,2025
@@ -22,7 +22,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024021260,MTL,R,2025-04-11,0,0,{'default': 'Canadiens'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,0,27,0,0,OTT,0,21:57,2024
 2024021236,MTL,H,2025-04-08,0,0,{'default': 'Canadiens'},{'default': 'Red Wings'},0,2,0,0,0,0,2,27,0,0,DET,0,25:02,2024
 2024021228,MTL,R,2025-04-06,0,0,{'default': 'Canadiens'},{'default': 'Predators'},0,0,0,0,0,0,2,25,0,0,NSH,4,19:08,2024
-2024021217,MTL,H,2025-04-05,0,1,{'default': 'Canadiens'},{'default': 'Flyers'},1,0,0,0,0,0,1,26,0,1,PHI,0,21:49,2024
+2024021217,MTL,H,2025-04-05,0,1,{'default': 'Canadiens'},{'default': 'Flyers'},1,0,0,0,0,0,1,26,1,0,PHI,0,21:49,2024
 2024021197,MTL,H,2025-04-03,0,0,{'default': 'Canadiens'},{'default': 'Bruins'},0,2,0,0,0,0,1,25,0,0,BOS,5,19:58,2024
 2024021183,MTL,H,2025-04-01,0,1,{'default': 'Canadiens'},{'default': 'Panthers'},1,1,0,0,0,0,3,26,0,0,FLA,0,21:15,2024
 2024021170,MTL,R,2025-03-30,0,0,{'default': 'Canadiens'},{'default': 'Panthers'},0,2,0,0,0,0,1,22,0,0,FLA,2,21:18,2024
