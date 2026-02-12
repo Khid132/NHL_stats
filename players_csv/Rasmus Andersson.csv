@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020909,VGK,H,2026-02-05,0,0,{'default': 'Golden Knights'},{'default': 'Kings'},0,2,0,0,0,0,0,32,0,0,LAK,0,24:03,2025
 2025020901,VGK,H,2026-02-04,0,1,{'default': 'Golden Knights'},{'default': 'Canucks'},1,1,0,0,0,0,0,29,0,0,VAN,0,20:31,2025
 2025020875,VGK,R,2026-02-01,0,0,{'default': 'Golden Knights'},{'default': 'Ducks'},0,0,0,0,0,0,3,30,0,0,ANA,0,23:09,2025
@@ -255,7 +255,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020640,CGY,R,2023-01-08,0,0,{'default': 'Flames'},{'default': 'Blackhawks'},0,-2,0,0,0,0,3,35,0,0,CHI,0,26:03,2022
 2022020626,CGY,H,2023-01-06,0,0,{'default': 'Flames'},{'default': 'Islanders'},0,1,0,0,0,0,0,31,0,0,NYI,0,22:54,2022
 2022020603,CGY,R,2023-01-03,0,0,{'default': 'Flames'},{'default': 'Jets'},0,1,0,0,0,0,3,33,0,0,WPG,2,25:48,2022
-2022020587,CGY,H,2022-12-31,0,1,{'default': 'Flames'},{'default': 'Canucks'},1,0,0,0,0,0,1,36,1,0,VAN,0,24:50,2022
+2022020587,CGY,H,2022-12-31,0,1,{'default': 'Flames'},{'default': 'Canucks'},1,0,0,0,0,0,1,36,0,1,VAN,0,24:50,2022
 2022020561,CGY,R,2022-12-28,0,2,{'default': 'Flames'},{'default': 'Kraken'},2,1,0,1,0,0,4,34,0,0,SEA,0,25:53,2022
 2022020555,CGY,H,2022-12-27,0,0,{'default': 'Flames'},{'default': 'Oilers'},0,1,0,0,0,0,5,33,0,0,EDM,0,26:25,2022
 2022020544,CGY,R,2022-12-23,1,0,{'default': 'Flames'},{'default': 'Ducks'},1,2,0,0,1,1,4,36,0,0,ANA,0,27:35,2022

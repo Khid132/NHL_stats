@@ -1,6 +1,6 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020411,MTL,H,2025-12-02,0,0,{'default': 'Canadiens'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,0,9,0,0,OTT,0,7:43,2025
-2025020392,MTL,R,2025-11-29,0,0,{'default': 'Canadiens'},{'default': 'Avalanche'},0,-1,0,0,0,0,0,13,0,0,COL,0,10:35,2025
-2025020383,MTL,R,2025-11-28,0,0,{'default': 'Canadiens'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,14,0,0,VGK,0,11:02,2025
-2025020372,MTL,R,2025-11-26,0,0,{'default': 'Canadiens'},{'default': 'Mammoth'},0,0,0,0,0,0,1,13,0,0,UTA,0,8:51,2025
-2025020337,MTL,H,2025-11-22,0,1,{'default': 'Canadiens'},{'default': 'Maple Leafs'},1,1,0,0,0,0,2,14,0,0,TOR,7,9:48,2025
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,pim,opponentAbbrev,season
+2025020411,MTL,H,2025-12-02,0,0,{'default': 'Canadiens'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,0,9,0,0,7:43,0,OTT,2025
+2025020392,MTL,R,2025-11-29,0,0,{'default': 'Canadiens'},{'default': 'Avalanche'},0,-1,0,0,0,0,0,13,0,0,10:35,0,COL,2025
+2025020383,MTL,R,2025-11-28,0,0,{'default': 'Canadiens'},{'default': 'Golden Knights'},0,0,0,0,0,0,1,14,0,0,11:02,0,VGK,2025
+2025020372,MTL,R,2025-11-26,0,0,{'default': 'Canadiens'},{'default': 'Mammoth'},0,0,0,0,0,0,1,13,0,0,8:51,0,UTA,2025
+2025020337,MTL,H,2025-11-22,0,1,{'default': 'Canadiens'},{'default': 'Maple Leafs'},1,1,0,0,0,0,2,14,0,0,9:48,7,TOR,2025

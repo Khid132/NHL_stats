@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020892,ANA,H,2026-02-03,0,2,{'default': 'Ducks'},{'default': 'Kraken'},2,1,0,0,0,0,0,27,0,0,SEA,0,23:19,2025
 2025020875,ANA,H,2026-02-01,0,1,{'default': 'Ducks'},{'default': 'Golden Knights'},1,0,0,1,0,0,0,30,0,0,VGK,0,23:56,2025
 2025020855,ANA,R,2026-01-29,0,0,{'default': 'Ducks'},{'default': 'Canucks'},0,-2,0,0,0,0,2,28,0,0,VAN,0,25:07,2025
@@ -24,7 +24,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2025020525,ANA,R,2025-12-16,1,0,{'default': 'Ducks'},{'default': 'Blue Jackets'},1,1,0,0,0,0,1,31,0,0,CBJ,0,31:23,2025
 2025020515,ANA,R,2025-12-15,1,0,{'default': 'Ducks'},{'default': 'Rangers'},1,1,0,0,0,0,5,34,1,1,NYR,0,28:23,2025
 2025020495,ANA,R,2025-12-13,0,0,{'default': 'Ducks'},{'default': 'Devils'},0,-1,0,0,0,0,1,28,0,0,NJD,0,24:33,2025
-2025020482,ANA,R,2025-12-11,0,1,{'default': 'Ducks'},{'default': 'Islanders'},1,0,0,0,0,0,3,30,0,1,NYI,2,25:30,2025
+2025020482,ANA,R,2025-12-11,0,1,{'default': 'Ducks'},{'default': 'Islanders'},1,0,0,0,0,0,3,30,1,0,NYI,2,25:30,2025
 2025020470,ANA,R,2025-12-09,1,0,{'default': 'Ducks'},{'default': 'Penguins'},1,1,0,0,0,0,4,29,0,0,PIT,0,29:19,2025
 2025020460,ANA,H,2025-12-07,0,1,{'default': 'Ducks'},{'default': 'Blackhawks'},1,2,0,1,0,0,6,24,0,0,CHI,0,23:06,2025
 2025020440,ANA,H,2025-12-05,0,1,{'default': 'Ducks'},{'default': 'Capitals'},1,0,0,0,0,0,2,26,0,0,WSH,2,27:11,2025
@@ -86,7 +86,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020888,ANA,R,2025-02-08,0,0,{'default': 'Ducks'},{'default': 'Kings'},0,-1,0,0,0,0,2,29,0,0,LAK,0,22:29,2024
 2024020856,ANA,H,2025-02-04,0,0,{'default': 'Ducks'},{'default': 'Stars'},0,0,0,0,0,0,3,27,0,0,DAL,0,20:04,2024
 2024020837,ANA,H,2025-02-02,0,0,{'default': 'Ducks'},{'default': 'Canadiens'},0,-1,0,0,0,0,3,26,0,0,MTL,0,24:48,2024
-2024020818,ANA,R,2025-01-30,0,1,{'default': 'Ducks'},{'default': 'Flames'},1,0,0,0,0,0,1,27,0,1,CGY,0,24:05,2024
+2024020818,ANA,R,2025-01-30,0,1,{'default': 'Ducks'},{'default': 'Flames'},1,0,0,0,0,0,1,27,1,0,CGY,0,24:05,2024
 2024020806,ANA,R,2025-01-28,1,1,{'default': 'Ducks'},{'default': 'Kraken'},2,4,0,0,1,0,2,28,0,0,SEA,6,21:44,2024
 2024020787,ANA,H,2025-01-25,0,1,{'default': 'Ducks'},{'default': 'Predators'},1,1,0,1,0,0,3,25,0,0,NSH,0,21:42,2024
 2024020769,ANA,H,2025-01-23,0,0,{'default': 'Ducks'},{'default': 'Penguins'},0,0,0,0,0,0,3,25,0,0,PIT,2,23:17,2024
@@ -130,7 +130,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020128,ANA,R,2024-10-26,0,0,{'default': 'Ducks'},{'default': 'Rangers'},0,0,0,0,0,0,1,25,0,0,NYR,0,19:23,2024
 2024020105,ANA,H,2024-10-22,0,1,{'default': 'Ducks'},{'default': 'Sharks'},1,1,0,1,0,0,2,25,0,0,SJS,0,18:24,2024
 2024020090,ANA,H,2024-10-20,0,0,{'default': 'Ducks'},{'default': 'Kings'},0,-2,0,0,0,0,2,23,0,0,LAK,0,18:00,2024
-2023021311,ANA,R,2024-04-18,1,1,{'default': 'Ducks'},{'default': 'Golden Knights'},2,2,0,0,1,0,1,26,0,1,VGK,0,20:52,2023
+2023021311,ANA,R,2024-04-18,1,1,{'default': 'Ducks'},{'default': 'Golden Knights'},2,2,0,0,1,0,1,26,1,0,VGK,0,20:52,2023
 2023021281,ANA,R,2024-04-13,0,0,{'default': 'Ducks'},{'default': 'Kings'},0,-2,0,0,0,0,1,25,0,0,LAK,0,19:23,2023
 2023021268,ANA,H,2024-04-12,0,1,{'default': 'Ducks'},{'default': 'Flames'},1,1,0,0,0,0,0,23,0,0,CGY,0,21:00,2023
 2023021249,ANA,H,2024-04-09,0,0,{'default': 'Ducks'},{'default': 'Kings'},0,1,0,0,0,0,0,23,0,0,LAK,0,16:52,2023

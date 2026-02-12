@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020908,WSH,H,2026-02-05,0,0,{'default': 'Capitals'},{'default': 'Predators'},0,0,0,0,0,0,1,21,0,0,NSH,0,16:07,2025
 2025020889,WSH,R,2026-02-03,0,1,{'default': 'Capitals'},{'default': 'Flyers'},1,2,0,0,0,0,0,18,0,0,PHI,0,15:08,2025
 2025020878,WSH,H,2026-02-02,0,0,{'default': 'Capitals'},{'default': 'Islanders'},0,1,0,0,0,0,1,18,0,0,NYI,0,15:21,2025
@@ -189,7 +189,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020166,WSH,H,2023-11-04,0,0,{'default': 'Capitals'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,3,0,0,CBJ,0,1:34,2023
 2023020150,WSH,H,2023-11-02,0,0,{'default': 'Capitals'},{'default': 'Islanders'},0,0,0,0,0,0,3,19,0,0,NYI,0,15:14,2023
 2023020128,WSH,H,2023-10-29,0,0,{'default': 'Capitals'},{'default': 'Sharks'},0,-1,0,0,0,0,1,20,0,0,SJS,0,18:09,2023
-2023020114,WSH,H,2023-10-27,0,1,{'default': 'Capitals'},{'default': 'Wild'},1,1,0,0,0,0,2,25,1,0,MIN,0,22:00,2023
+2023020114,WSH,H,2023-10-27,0,1,{'default': 'Capitals'},{'default': 'Wild'},1,1,0,0,0,0,2,25,0,1,MIN,0,22:00,2023
 2023020099,WSH,R,2023-10-25,0,0,{'default': 'Capitals'},{'default': 'Devils'},0,0,0,0,0,0,0,24,0,0,NJD,0,19:17,2023
 2023020083,WSH,H,2023-10-24,0,0,{'default': 'Capitals'},{'default': 'Maple Leafs'},0,0,0,0,0,0,1,22,0,0,TOR,0,21:22,2023
 2023020069,WSH,R,2023-10-21,0,0,{'default': 'Capitals'},{'default': 'Canadiens'},0,0,0,0,0,0,1,19,0,0,MTL,0,13:56,2023

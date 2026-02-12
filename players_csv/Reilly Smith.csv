@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020909,VGK,H,2026-02-05,0,0,{'default': 'Golden Knights'},{'default': 'Kings'},0,1,0,0,0,0,2,23,0,0,LAK,0,16:54,2025
 2025020901,VGK,H,2026-02-04,0,0,{'default': 'Golden Knights'},{'default': 'Canucks'},0,1,0,0,0,0,1,19,0,0,VAN,0,13:19,2025
 2025020875,VGK,R,2026-02-01,0,0,{'default': 'Golden Knights'},{'default': 'Ducks'},0,0,0,0,0,0,2,18,0,0,ANA,0,10:54,2025
@@ -56,7 +56,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024021299,VGK,R,2025-04-15,0,0,{'default': 'Golden Knights'},{'default': 'Flames'},0,0,0,0,0,0,2,21,0,0,CGY,0,17:16,2024
 2024021274,VGK,H,2025-04-12,0,2,{'default': 'Golden Knights'},{'default': 'Predators'},2,0,0,1,0,0,1,19,0,0,NSH,2,13:52,2024
 2024021258,VGK,H,2025-04-10,0,1,{'default': 'Golden Knights'},{'default': 'Kraken'},1,0,0,0,0,0,2,20,0,0,SEA,0,14:11,2024
-2024021244,VGK,R,2025-04-08,0,1,{'default': 'Golden Knights'},{'default': 'Avalanche'},1,2,0,0,0,0,4,28,0,1,COL,0,19:04,2024
+2024021244,VGK,R,2025-04-08,0,1,{'default': 'Golden Knights'},{'default': 'Avalanche'},1,2,0,0,0,0,4,28,1,0,COL,0,19:04,2024
 2024021229,VGK,R,2025-04-06,0,0,{'default': 'Golden Knights'},{'default': 'Canucks'},0,0,0,0,0,0,1,19,0,0,VAN,0,15:39,2024
 2024021220,VGK,R,2025-04-05,2,0,{'default': 'Golden Knights'},{'default': 'Flames'},2,1,0,0,1,1,5,24,0,0,CGY,0,16:13,2024
 2024021204,VGK,H,2025-04-03,0,0,{'default': 'Golden Knights'},{'default': 'Jets'},0,-1,0,0,0,0,2,18,0,0,WPG,0,15:18,2024

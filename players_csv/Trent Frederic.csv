@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
 2025020891,EDM,H,2026-02-03,0,0,{'default': 'Oilers'},{'default': 'Maple Leafs'},0,-1,0,0,0,0,2,16,0,0,TOR,10,11:35,2025
 2025020871,EDM,H,2026-01-31,0,0,{'default': 'Oilers'},{'default': 'Wild'},0,-1,0,0,0,0,0,12,0,0,MIN,0,10:22,2025
 2025020854,EDM,H,2026-01-29,0,0,{'default': 'Oilers'},{'default': 'Sharks'},0,0,0,0,0,0,2,14,0,0,SJS,0,8:26,2025
@@ -225,7 +225,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020873,BOS,R,2023-02-16,1,0,{'default': 'Bruins'},{'default': 'Predators'},1,1,0,0,0,0,5,20,0,0,NSH,2,13:41,2022
 2022020861,BOS,R,2023-02-14,0,0,{'default': 'Bruins'},{'default': 'Stars'},0,0,0,0,0,0,1,18,0,0,DAL,0,10:26,2022
 2022020838,BOS,H,2023-02-11,0,0,{'default': 'Bruins'},{'default': 'Capitals'},0,-1,0,0,0,0,2,11,0,0,WSH,0,8:34,2022
-2022020806,BOS,R,2023-02-01,0,1,{'default': 'Bruins'},{'default': 'Maple Leafs'},1,2,0,0,0,0,1,17,0,1,TOR,0,12:42,2022
+2022020806,BOS,R,2023-02-01,0,1,{'default': 'Bruins'},{'default': 'Maple Leafs'},1,2,0,0,0,0,1,17,1,0,TOR,0,12:42,2022
 2022020799,BOS,R,2023-01-29,0,0,{'default': 'Bruins'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,21,0,0,CAR,0,14:08,2022
 2022020789,BOS,R,2023-01-28,0,0,{'default': 'Bruins'},{'default': 'Panthers'},0,0,0,0,0,0,0,4,0,0,FLA,0,1:54,2022
 2022020771,BOS,R,2023-01-26,0,0,{'default': 'Bruins'},{'default': 'Lightning'},0,-1,0,0,0,0,1,17,0,0,TBL,0,10:22,2022
