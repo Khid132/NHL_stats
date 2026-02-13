@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020899,STL,R,2026-02-04,0,0,{'default': 'Blues'},{'default': 'Stars'},0,-4,0,0,0,0,0,24,0,0,DAL,0,17:56,2025
 2025020880,STL,R,2026-02-02,1,0,{'default': 'Blues'},{'default': 'Predators'},1,0,0,0,0,0,2,27,0,0,NSH,0,22:14,2025
 2025020868,STL,H,2026-01-31,0,0,{'default': 'Blues'},{'default': 'Blue Jackets'},0,-2,0,0,0,0,0,22,0,0,CBJ,0,19:30,2025
@@ -91,7 +91,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024020492,STL,H,2024-12-15,0,0,{'default': 'Blues'},{'default': 'Rangers'},0,1,0,0,0,0,1,29,0,0,NYR,0,23:49,2024
 2024020483,STL,R,2024-12-14,0,0,{'default': 'Blues'},{'default': 'Stars'},0,0,0,0,0,0,1,34,0,0,DAL,0,28:20,2024
 2024020465,STL,H,2024-12-12,0,1,{'default': 'Blues'},{'default': 'Sharks'},1,-1,0,0,0,0,2,23,0,0,SJS,0,20:45,2024
-2024020455,STL,R,2024-12-10,0,1,{'default': 'Blues'},{'default': 'Canucks'},1,0,0,0,0,0,1,29,1,0,VAN,0,24:04,2024
+2024020455,STL,R,2024-12-10,0,1,{'default': 'Blues'},{'default': 'Canucks'},1,0,0,0,0,0,1,29,0,1,VAN,0,24:04,2024
 2024020435,STL,R,2024-12-07,0,1,{'default': 'Blues'},{'default': 'Oilers'},1,0,0,0,0,0,0,33,0,0,EDM,0,23:40,2024
 2024020417,STL,R,2024-12-05,1,0,{'default': 'Blues'},{'default': 'Flames'},1,1,0,0,1,1,3,36,0,0,CGY,0,29:40,2024
 2024020403,STL,R,2024-12-03,0,0,{'default': 'Blues'},{'default': 'Jets'},0,0,0,0,0,0,3,31,0,0,WPG,0,26:38,2024
@@ -189,7 +189,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2023020266,STL,R,2023-11-18,0,0,{'default': 'Blues'},{'default': 'Kings'},0,0,0,0,0,0,1,27,0,0,LAK,0,23:47,2023
 2023020250,STL,R,2023-11-16,0,0,{'default': 'Blues'},{'default': 'Sharks'},0,-1,0,0,0,0,2,26,0,0,SJS,0,21:42,2023
 2023020235,STL,H,2023-11-14,1,0,{'default': 'Blues'},{'default': 'Lightning'},1,2,0,0,1,0,4,32,0,0,TBL,0,23:52,2023
-2023020219,STL,R,2023-11-11,0,1,{'default': 'Blues'},{'default': 'Avalanche'},1,2,0,0,0,0,2,28,1,0,COL,0,21:44,2023
+2023020219,STL,R,2023-11-11,0,1,{'default': 'Blues'},{'default': 'Avalanche'},1,2,0,0,0,0,2,28,0,1,COL,0,21:44,2023
 2023020199,STL,H,2023-11-09,0,0,{'default': 'Blues'},{'default': 'Coyotes'},0,0,0,0,0,0,1,22,0,0,ARI,2,20:15,2023
 2023020184,STL,H,2023-11-07,0,0,{'default': 'Blues'},{'default': 'Jets'},0,-1,0,0,0,0,0,30,0,0,WPG,0,24:31,2023
 2023020164,STL,H,2023-11-04,0,0,{'default': 'Blues'},{'default': 'Canadiens'},0,-1,0,0,0,0,2,32,0,0,MTL,0,24:48,2023
@@ -246,7 +246,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2022020642,STL,R,2023-01-08,0,2,{'default': 'Blues'},{'default': 'Wild'},2,2,0,1,0,0,4,31,0,0,MIN,2,26:00,2022
 2022020633,STL,R,2023-01-07,0,0,{'default': 'Blues'},{'default': 'Canadiens'},0,0,0,0,0,0,1,31,0,0,MTL,0,26:23,2022
 2022020616,STL,R,2023-01-05,0,0,{'default': 'Blues'},{'default': 'Devils'},0,1,0,0,0,0,1,33,0,0,NJD,0,24:23,2022
-2022020602,STL,R,2023-01-03,0,2,{'default': 'Blues'},{'default': 'Maple Leafs'},2,-1,0,0,0,0,1,35,1,0,TOR,0,24:38,2022
+2022020602,STL,R,2023-01-03,0,2,{'default': 'Blues'},{'default': 'Maple Leafs'},2,-1,0,0,0,0,1,35,0,1,TOR,0,24:38,2022
 2022020589,STL,H,2022-12-31,0,0,{'default': 'Blues'},{'default': 'Wild'},0,-2,0,0,0,0,5,30,0,0,MIN,0,22:53,2022
 2022020568,STL,H,2022-12-29,0,0,{'default': 'Blues'},{'default': 'Blackhawks'},0,0,0,0,0,0,1,29,0,0,CHI,0,22:45,2022
 2022020553,STL,H,2022-12-27,0,1,{'default': 'Blues'},{'default': 'Maple Leafs'},1,-2,0,0,0,0,4,34,0,0,TOR,0,28:03,2022

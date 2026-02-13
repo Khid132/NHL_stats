@@ -1,4 +1,4 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedPoints,shorthandedGoals,opponentAbbrev,pim,toi,season
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
 2025020891,TOR,R,2026-02-03,0,0,{'default': 'Maple Leafs'},{'default': 'Oilers'},0,1,0,0,0,0,0,22,0,0,EDM,0,17:47,2025
 2025020885,TOR,R,2026-02-02,0,0,{'default': 'Maple Leafs'},{'default': 'Flames'},0,0,0,0,0,0,2,26,0,0,CGY,0,18:56,2025
 2025020857,TOR,R,2026-01-29,0,0,{'default': 'Maple Leafs'},{'default': 'Kraken'},0,-1,0,0,0,0,1,21,0,0,SEA,0,14:01,2025
@@ -62,7 +62,7 @@ gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonN
 2024021130,TOR,H,2025-03-25,0,0,{'default': 'Maple Leafs'},{'default': 'Flyers'},0,2,0,0,0,0,2,28,0,0,PHI,0,21:13,2024
 2024021114,TOR,R,2025-03-22,0,0,{'default': 'Maple Leafs'},{'default': 'Predators'},0,1,0,0,0,0,1,25,0,0,NSH,2,14:50,2024
 2024021091,TOR,R,2025-03-20,0,0,{'default': 'Maple Leafs'},{'default': 'Rangers'},0,0,0,0,0,0,0,27,0,0,NYR,0,15:42,2024
-2024021087,TOR,H,2025-03-19,0,1,{'default': 'Maple Leafs'},{'default': 'Avalanche'},1,0,0,0,0,0,0,21,1,0,COL,0,13:52,2024
+2024021087,TOR,H,2025-03-19,0,1,{'default': 'Maple Leafs'},{'default': 'Avalanche'},1,0,0,0,0,0,0,21,0,1,COL,0,13:52,2024
 2024021076,TOR,H,2025-03-17,0,1,{'default': 'Maple Leafs'},{'default': 'Flames'},1,0,0,0,0,0,1,22,0,0,CGY,6,16:18,2024
 2024021059,TOR,H,2025-03-15,0,0,{'default': 'Maple Leafs'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,22,0,0,OTT,0,13:07,2024
 2024021040,TOR,H,2025-03-13,0,1,{'default': 'Maple Leafs'},{'default': 'Panthers'},1,-1,0,0,0,0,0,21,0,0,FLA,0,13:25,2024
