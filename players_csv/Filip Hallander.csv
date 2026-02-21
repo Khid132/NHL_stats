@@ -1,16 +1,16 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020199,PIT,R,2025-11-03,0,0,{'default': 'Penguins'},{'default': 'Maple Leafs'},0,-2,0,0,0,0,0,19,0,0,TOR,0,12:24,2025
-2025020182,PIT,R,2025-11-01,0,0,{'default': 'Penguins'},{'default': 'Jets'},0,0,0,0,0,0,4,16,0,0,WPG,0,13:13,2025
-2025020173,PIT,R,2025-10-30,0,0,{'default': 'Penguins'},{'default': 'Wild'},0,1,0,0,0,0,1,21,0,0,MIN,0,14:40,2025
-2025020150,PIT,R,2025-10-28,0,1,{'default': 'Penguins'},{'default': 'Flyers'},1,1,0,0,0,0,2,21,0,0,PHI,0,15:46,2025
-2025020148,PIT,H,2025-10-27,0,1,{'default': 'Penguins'},{'default': 'Blues'},1,3,0,0,0,0,2,19,0,0,STL,0,16:59,2025
-2025020134,PIT,H,2025-10-25,0,0,{'default': 'Penguins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,3,20,0,0,CBJ,0,16:09,2025
-2025020114,PIT,R,2025-10-23,0,0,{'default': 'Penguins'},{'default': 'Panthers'},0,0,0,0,0,0,1,18,0,0,FLA,0,10:58,2025
-2025020101,PIT,H,2025-10-21,0,0,{'default': 'Penguins'},{'default': 'Canucks'},0,0,0,0,0,0,3,19,0,0,VAN,2,11:40,2025
-2025020088,PIT,R,2025-10-18,0,0,{'default': 'Penguins'},{'default': 'Sharks'},0,0,0,0,0,0,0,15,0,0,SJS,0,12:40,2025
-2025020071,PIT,R,2025-10-16,1,0,{'default': 'Penguins'},{'default': 'Kings'},1,1,0,0,1,0,2,15,1,1,LAK,0,11:01,2025
-2025020056,PIT,R,2025-10-14,0,0,{'default': 'Penguins'},{'default': 'Ducks'},0,0,0,0,0,0,1,14,0,0,ANA,0,10:40,2025
-2025020029,PIT,H,2025-10-11,0,0,{'default': 'Penguins'},{'default': 'Rangers'},0,1,0,0,0,0,3,18,0,0,NYR,0,12:05,2025
-2025020013,PIT,H,2025-10-09,0,1,{'default': 'Penguins'},{'default': 'Islanders'},1,-1,0,0,0,0,0,19,0,0,NYI,0,12:36,2025
-2022020221,PIT,R,2022-11-11,0,0,{'default': 'Penguins'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,15,0,0,TOR,0,8:55,2022
-2022020208,PIT,R,2022-11-09,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,0,16,0,0,WSH,0,11:01,2022
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,toi,pim,season
+2025020199,PIT,R,2025-11-03,0,0,{'default': 'Penguins'},{'default': 'Maple Leafs'},0,-2,0,0,0,0,0,19,0,0,TOR,12:24,0,2025
+2025020182,PIT,R,2025-11-01,0,0,{'default': 'Penguins'},{'default': 'Jets'},0,0,0,0,0,0,4,16,0,0,WPG,13:13,0,2025
+2025020173,PIT,R,2025-10-30,0,0,{'default': 'Penguins'},{'default': 'Wild'},0,1,0,0,0,0,1,21,0,0,MIN,14:40,0,2025
+2025020150,PIT,R,2025-10-28,0,1,{'default': 'Penguins'},{'default': 'Flyers'},1,1,0,0,0,0,2,21,0,0,PHI,15:46,0,2025
+2025020148,PIT,H,2025-10-27,0,1,{'default': 'Penguins'},{'default': 'Blues'},1,3,0,0,0,0,2,19,0,0,STL,16:59,0,2025
+2025020134,PIT,H,2025-10-25,0,0,{'default': 'Penguins'},{'default': 'Blue Jackets'},0,0,0,0,0,0,3,20,0,0,CBJ,16:09,0,2025
+2025020114,PIT,R,2025-10-23,0,0,{'default': 'Penguins'},{'default': 'Panthers'},0,0,0,0,0,0,1,18,0,0,FLA,10:58,0,2025
+2025020101,PIT,H,2025-10-21,0,0,{'default': 'Penguins'},{'default': 'Canucks'},0,0,0,0,0,0,3,19,0,0,VAN,11:40,2,2025
+2025020088,PIT,R,2025-10-18,0,0,{'default': 'Penguins'},{'default': 'Sharks'},0,0,0,0,0,0,0,15,0,0,SJS,12:40,0,2025
+2025020071,PIT,R,2025-10-16,1,0,{'default': 'Penguins'},{'default': 'Kings'},1,1,0,0,1,0,2,15,1,1,LAK,11:01,0,2025
+2025020056,PIT,R,2025-10-14,0,0,{'default': 'Penguins'},{'default': 'Ducks'},0,0,0,0,0,0,1,14,0,0,ANA,10:40,0,2025
+2025020029,PIT,H,2025-10-11,0,0,{'default': 'Penguins'},{'default': 'Rangers'},0,1,0,0,0,0,3,18,0,0,NYR,12:05,0,2025
+2025020013,PIT,H,2025-10-09,0,1,{'default': 'Penguins'},{'default': 'Islanders'},1,-1,0,0,0,0,0,19,0,0,NYI,12:36,0,2025
+2022020221,PIT,R,2022-11-11,0,0,{'default': 'Penguins'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,15,0,0,TOR,8:55,0,2022
+2022020208,PIT,R,2022-11-09,0,0,{'default': 'Penguins'},{'default': 'Capitals'},0,0,0,0,0,0,0,16,0,0,WSH,11:01,0,2022
