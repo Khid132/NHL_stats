@@ -1,25 +1,25 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020410,UTA,R,2025-12-01,0,0,{'default': 'Mammoth'},{'default': 'Sharks'},0,0,0,0,0,0,1,20,0,0,SJS,2,18:04,2025
-2025020390,UTA,R,2025-11-28,0,0,{'default': 'Mammoth'},{'default': 'Stars'},0,-1,0,0,0,0,0,15,0,0,DAL,0,12:31,2025
-2025020358,UTA,H,2025-11-24,0,0,{'default': 'Mammoth'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,18,0,0,VGK,0,11:56,2025
-2025020344,UTA,H,2025-11-22,0,0,{'default': 'Mammoth'},{'default': 'Rangers'},0,0,0,0,0,0,1,16,0,0,NYR,0,12:15,2025
-2025020327,UTA,H,2025-11-20,0,0,{'default': 'Mammoth'},{'default': 'Golden Knights'},0,-1,0,0,0,0,1,26,0,0,VGK,0,18:41,2025
-2025020306,UTA,R,2025-11-17,0,0,{'default': 'Mammoth'},{'default': 'Ducks'},0,0,0,0,0,0,2,18,0,0,ANA,0,14:13,2025
-2025020282,UTA,H,2025-11-14,0,0,{'default': 'Mammoth'},{'default': 'Islanders'},0,-1,0,0,0,0,0,19,0,0,NYI,0,15:01,2025
-2025020267,UTA,H,2025-11-12,0,0,{'default': 'Mammoth'},{'default': 'Sabres'},0,0,0,0,0,0,1,14,0,0,BUF,0,8:15,2025
-2025020247,UTA,R,2025-11-09,0,0,{'default': 'Mammoth'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,0,19,0,0,OTT,0,18:08,2025
-2025020235,UTA,R,2025-11-08,0,0,{'default': 'Mammoth'},{'default': 'Canadiens'},0,-2,0,0,0,0,0,25,0,0,MTL,0,18:37,2025
-2025020213,UTA,R,2025-11-05,0,1,{'default': 'Mammoth'},{'default': 'Maple Leafs'},1,0,0,0,0,0,2,23,0,0,TOR,0,18:28,2025
-2025020203,UTA,R,2025-11-04,0,0,{'default': 'Mammoth'},{'default': 'Sabres'},0,-1,0,0,0,0,0,24,0,0,BUF,0,16:49,2025
-2025020194,UTA,H,2025-11-02,0,0,{'default': 'Mammoth'},{'default': 'Lightning'},0,0,0,0,0,0,0,25,0,0,TBL,0,17:26,2025
-2025020162,UTA,R,2025-10-28,0,0,{'default': 'Mammoth'},{'default': 'Oilers'},0,-1,0,0,0,0,1,25,0,0,EDM,0,20:09,2025
-2025020143,UTA,R,2025-10-26,0,0,{'default': 'Mammoth'},{'default': 'Jets'},0,-1,0,0,0,0,2,24,0,0,WPG,0,17:43,2025
-2025020131,UTA,R,2025-10-25,0,0,{'default': 'Mammoth'},{'default': 'Wild'},0,0,0,0,0,0,0,22,0,0,MIN,0,15:35,2025
-2025020117,UTA,R,2025-10-23,0,0,{'default': 'Mammoth'},{'default': 'Blues'},0,0,0,0,0,0,1,22,0,0,STL,0,14:14,2025
-2025020107,UTA,H,2025-10-21,0,0,{'default': 'Mammoth'},{'default': 'Avalanche'},0,0,0,0,0,0,3,27,0,0,COL,2,20:00,2025
-2025020092,UTA,H,2025-10-19,0,0,{'default': 'Mammoth'},{'default': 'Bruins'},0,-1,0,0,0,0,1,20,0,0,BOS,0,15:06,2025
-2025020075,UTA,H,2025-10-17,0,0,{'default': 'Mammoth'},{'default': 'Sharks'},0,0,0,0,0,0,1,19,0,0,SJS,10,13:29,2025
-2025020060,UTA,H,2025-10-15,0,0,{'default': 'Mammoth'},{'default': 'Flames'},0,0,0,0,0,0,1,21,0,0,CGY,0,14:17,2025
-2025020048,UTA,R,2025-10-13,0,0,{'default': 'Mammoth'},{'default': 'Blackhawks'},0,0,0,0,0,0,3,23,0,0,CHI,2,17:28,2025
-2025020032,UTA,R,2025-10-11,0,0,{'default': 'Mammoth'},{'default': 'Predators'},0,1,0,0,0,0,0,13,0,0,NSH,2,8:31,2025
-2025020018,UTA,R,2025-10-09,0,0,{'default': 'Mammoth'},{'default': 'Avalanche'},0,0,0,0,0,0,2,19,0,0,COL,0,14:25,2025
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,toi,pim,season
+2025020410,UTA,R,2025-12-01,0,0,{'default': 'Mammoth'},{'default': 'Sharks'},0,0,0,0,0,0,1,20,0,0,SJS,18:04,2,2025
+2025020390,UTA,R,2025-11-28,0,0,{'default': 'Mammoth'},{'default': 'Stars'},0,-1,0,0,0,0,0,15,0,0,DAL,12:31,0,2025
+2025020358,UTA,H,2025-11-24,0,0,{'default': 'Mammoth'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,18,0,0,VGK,11:56,0,2025
+2025020344,UTA,H,2025-11-22,0,0,{'default': 'Mammoth'},{'default': 'Rangers'},0,0,0,0,0,0,1,16,0,0,NYR,12:15,0,2025
+2025020327,UTA,H,2025-11-20,0,0,{'default': 'Mammoth'},{'default': 'Golden Knights'},0,-1,0,0,0,0,1,26,0,0,VGK,18:41,0,2025
+2025020306,UTA,R,2025-11-17,0,0,{'default': 'Mammoth'},{'default': 'Ducks'},0,0,0,0,0,0,2,18,0,0,ANA,14:13,0,2025
+2025020282,UTA,H,2025-11-14,0,0,{'default': 'Mammoth'},{'default': 'Islanders'},0,-1,0,0,0,0,0,19,0,0,NYI,15:01,0,2025
+2025020267,UTA,H,2025-11-12,0,0,{'default': 'Mammoth'},{'default': 'Sabres'},0,0,0,0,0,0,1,14,0,0,BUF,8:15,0,2025
+2025020247,UTA,R,2025-11-09,0,0,{'default': 'Mammoth'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,0,19,0,0,OTT,18:08,0,2025
+2025020235,UTA,R,2025-11-08,0,0,{'default': 'Mammoth'},{'default': 'Canadiens'},0,-2,0,0,0,0,0,25,0,0,MTL,18:37,0,2025
+2025020213,UTA,R,2025-11-05,0,1,{'default': 'Mammoth'},{'default': 'Maple Leafs'},1,0,0,0,0,0,2,23,0,0,TOR,18:28,0,2025
+2025020203,UTA,R,2025-11-04,0,0,{'default': 'Mammoth'},{'default': 'Sabres'},0,-1,0,0,0,0,0,24,0,0,BUF,16:49,0,2025
+2025020194,UTA,H,2025-11-02,0,0,{'default': 'Mammoth'},{'default': 'Lightning'},0,0,0,0,0,0,0,25,0,0,TBL,17:26,0,2025
+2025020162,UTA,R,2025-10-28,0,0,{'default': 'Mammoth'},{'default': 'Oilers'},0,-1,0,0,0,0,1,25,0,0,EDM,20:09,0,2025
+2025020143,UTA,R,2025-10-26,0,0,{'default': 'Mammoth'},{'default': 'Jets'},0,-1,0,0,0,0,2,24,0,0,WPG,17:43,0,2025
+2025020131,UTA,R,2025-10-25,0,0,{'default': 'Mammoth'},{'default': 'Wild'},0,0,0,0,0,0,0,22,0,0,MIN,15:35,0,2025
+2025020117,UTA,R,2025-10-23,0,0,{'default': 'Mammoth'},{'default': 'Blues'},0,0,0,0,0,0,1,22,0,0,STL,14:14,0,2025
+2025020107,UTA,H,2025-10-21,0,0,{'default': 'Mammoth'},{'default': 'Avalanche'},0,0,0,0,0,0,3,27,0,0,COL,20:00,2,2025
+2025020092,UTA,H,2025-10-19,0,0,{'default': 'Mammoth'},{'default': 'Bruins'},0,-1,0,0,0,0,1,20,0,0,BOS,15:06,0,2025
+2025020075,UTA,H,2025-10-17,0,0,{'default': 'Mammoth'},{'default': 'Sharks'},0,0,0,0,0,0,1,19,0,0,SJS,13:29,10,2025
+2025020060,UTA,H,2025-10-15,0,0,{'default': 'Mammoth'},{'default': 'Flames'},0,0,0,0,0,0,1,21,0,0,CGY,14:17,0,2025
+2025020048,UTA,R,2025-10-13,0,0,{'default': 'Mammoth'},{'default': 'Blackhawks'},0,0,0,0,0,0,3,23,0,0,CHI,17:28,2,2025
+2025020032,UTA,R,2025-10-11,0,0,{'default': 'Mammoth'},{'default': 'Predators'},0,1,0,0,0,0,0,13,0,0,NSH,8:31,2,2025
+2025020018,UTA,R,2025-10-09,0,0,{'default': 'Mammoth'},{'default': 'Avalanche'},0,0,0,0,0,0,2,19,0,0,COL,14:25,0,2025
