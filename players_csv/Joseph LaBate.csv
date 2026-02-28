@@ -1,8 +1,8 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020101,VAN,R,2025-10-21,0,0,{'default': 'Canucks'},{'default': 'Penguins'},0,-1,0,0,0,0,2,16,0,0,PIT,0,9:32,2025
-2024020990,CBJ,R,2025-03-06,0,0,{'default': 'Blue Jackets'},{'default': 'Panthers'},0,0,0,0,0,0,1,14,0,0,FLA,5,6:15,2024
-2024020976,CBJ,R,2025-03-04,0,0,{'default': 'Blue Jackets'},{'default': 'Lightning'},0,0,0,0,0,0,1,14,0,0,TBL,0,11:01,2024
-2024020948,CBJ,H,2025-03-01,0,0,{'default': 'Blue Jackets'},{'default': 'Red Wings'},0,-1,0,0,0,0,1,14,0,0,DET,0,10:24,2024
-2024020935,CBJ,R,2025-02-27,0,1,{'default': 'Blue Jackets'},{'default': 'Red Wings'},1,1,0,0,0,0,0,14,0,0,DET,0,9:45,2024
-2024020924,CBJ,H,2025-02-25,0,0,{'default': 'Blue Jackets'},{'default': 'Stars'},0,0,0,0,0,0,0,15,0,0,DAL,0,9:54,2024
-2024020902,CBJ,H,2025-02-22,0,0,{'default': 'Blue Jackets'},{'default': 'Blackhawks'},0,1,0,0,0,0,0,11,0,0,CHI,5,7:19,2024
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,toi,pim,season
+2025020101,VAN,R,2025-10-21,0,0,{'default': 'Canucks'},{'default': 'Penguins'},0,-1,0,0,0,0,2,16,0,0,PIT,9:32,0,2025
+2024020990,CBJ,R,2025-03-06,0,0,{'default': 'Blue Jackets'},{'default': 'Panthers'},0,0,0,0,0,0,1,14,0,0,FLA,6:15,5,2024
+2024020976,CBJ,R,2025-03-04,0,0,{'default': 'Blue Jackets'},{'default': 'Lightning'},0,0,0,0,0,0,1,14,0,0,TBL,11:01,0,2024
+2024020948,CBJ,H,2025-03-01,0,0,{'default': 'Blue Jackets'},{'default': 'Red Wings'},0,-1,0,0,0,0,1,14,0,0,DET,10:24,0,2024
+2024020935,CBJ,R,2025-02-27,0,1,{'default': 'Blue Jackets'},{'default': 'Red Wings'},1,1,0,0,0,0,0,14,0,0,DET,9:45,0,2024
+2024020924,CBJ,H,2025-02-25,0,0,{'default': 'Blue Jackets'},{'default': 'Stars'},0,0,0,0,0,0,0,15,0,0,DAL,9:54,0,2024
+2024020902,CBJ,H,2025-02-22,0,0,{'default': 'Blue Jackets'},{'default': 'Blackhawks'},0,1,0,0,0,0,0,11,0,0,CHI,7:19,5,2024
