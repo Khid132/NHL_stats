@@ -1,14 +1,14 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020263,WPG,R,2025-11-11,0,0,{'default': 'Jets'},{'default': 'Canucks'},0,0,0,0,0,0,1,10,0,0,VAN,0,8:34,2025
-2025020251,WPG,R,2025-11-09,0,0,{'default': 'Jets'},{'default': 'Ducks'},0,0,0,0,0,0,2,9,0,0,ANA,0,6:09,2025
-2025020230,WPG,R,2025-11-07,0,0,{'default': 'Jets'},{'default': 'Sharks'},0,1,0,0,0,0,0,14,0,0,SJS,4,10:22,2025
-2025020143,WPG,H,2025-10-26,0,0,{'default': 'Jets'},{'default': 'Mammoth'},0,0,0,0,0,0,0,13,0,0,UTA,4,10:15,2025
-2025020126,WPG,H,2025-10-24,0,0,{'default': 'Jets'},{'default': 'Flames'},0,0,0,0,0,0,1,18,0,0,CGY,4,8:20,2025
-2025020042,WPG,R,2025-10-13,0,0,{'default': 'Jets'},{'default': 'Islanders'},0,0,0,0,0,0,1,13,0,0,NYI,0,10:21,2025
-2025020022,WPG,H,2025-10-11,0,0,{'default': 'Jets'},{'default': 'Kings'},0,-1,0,0,0,0,0,14,0,0,LAK,0,9:25,2025
-2025020017,WPG,H,2025-10-09,0,0,{'default': 'Jets'},{'default': 'Stars'},0,0,0,0,0,0,0,14,0,0,DAL,0,10:08,2025
-2024020506,WPG,R,2024-12-17,0,0,{'default': 'Jets'},{'default': 'Sharks'},0,-1,0,0,0,0,0,10,0,0,SJS,0,8:50,2024
-2024020482,WPG,H,2024-12-14,0,0,{'default': 'Jets'},{'default': 'Canadiens'},0,0,0,0,0,0,2,13,0,0,MTL,0,11:54,2024
-2024020468,WPG,H,2024-12-12,1,0,{'default': 'Jets'},{'default': 'Golden Knights'},1,1,0,0,0,0,2,14,0,0,VGK,0,11:25,2024
-2024020452,WPG,H,2024-12-10,1,1,{'default': 'Jets'},{'default': 'Bruins'},2,1,0,1,0,0,2,18,0,0,BOS,0,13:28,2024
-2023021308,WPG,H,2024-04-18,1,0,{'default': 'Jets'},{'default': 'Canucks'},1,0,0,0,1,0,3,15,0,0,VAN,0,11:03,2023
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,pim,opponentAbbrev,season
+2025020263,WPG,R,2025-11-11,0,0,{'default': 'Jets'},{'default': 'Canucks'},0,0,0,0,0,0,1,10,0,0,8:34,0,VAN,2025
+2025020251,WPG,R,2025-11-09,0,0,{'default': 'Jets'},{'default': 'Ducks'},0,0,0,0,0,0,2,9,0,0,6:09,0,ANA,2025
+2025020230,WPG,R,2025-11-07,0,0,{'default': 'Jets'},{'default': 'Sharks'},0,1,0,0,0,0,0,14,0,0,10:22,4,SJS,2025
+2025020143,WPG,H,2025-10-26,0,0,{'default': 'Jets'},{'default': 'Mammoth'},0,0,0,0,0,0,0,13,0,0,10:15,4,UTA,2025
+2025020126,WPG,H,2025-10-24,0,0,{'default': 'Jets'},{'default': 'Flames'},0,0,0,0,0,0,1,18,0,0,8:20,4,CGY,2025
+2025020042,WPG,R,2025-10-13,0,0,{'default': 'Jets'},{'default': 'Islanders'},0,0,0,0,0,0,1,13,0,0,10:21,0,NYI,2025
+2025020022,WPG,H,2025-10-11,0,0,{'default': 'Jets'},{'default': 'Kings'},0,-1,0,0,0,0,0,14,0,0,9:25,0,LAK,2025
+2025020017,WPG,H,2025-10-09,0,0,{'default': 'Jets'},{'default': 'Stars'},0,0,0,0,0,0,0,14,0,0,10:08,0,DAL,2025
+2024020506,WPG,R,2024-12-17,0,0,{'default': 'Jets'},{'default': 'Sharks'},0,-1,0,0,0,0,0,10,0,0,8:50,0,SJS,2024
+2024020482,WPG,H,2024-12-14,0,0,{'default': 'Jets'},{'default': 'Canadiens'},0,0,0,0,0,0,2,13,0,0,11:54,0,MTL,2024
+2024020468,WPG,H,2024-12-12,1,0,{'default': 'Jets'},{'default': 'Golden Knights'},1,1,0,0,0,0,2,14,0,0,11:25,0,VGK,2024
+2024020452,WPG,H,2024-12-10,1,1,{'default': 'Jets'},{'default': 'Bruins'},2,1,0,1,0,0,2,18,0,0,13:28,0,BOS,2024
+2023021308,WPG,H,2024-04-18,1,0,{'default': 'Jets'},{'default': 'Canucks'},1,0,0,0,1,0,3,15,0,0,11:03,0,VAN,2023
