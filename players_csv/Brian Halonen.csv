@@ -1,14 +1,14 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
-2025020197,NJD,R,2025-11-02,0,0,{'default': 'Devils'},{'default': 'Ducks'},0,0,0,0,0,0,0,11,0,0,7:32,ANA,0,2025
-2025020191,NJD,R,2025-11-01,1,0,{'default': 'Devils'},{'default': 'Kings'},1,1,0,0,1,0,1,10,0,0,6:06,LAK,0,2025
-2025020140,NJD,H,2025-10-26,0,0,{'default': 'Devils'},{'default': 'Avalanche'},0,0,0,0,0,0,1,12,0,0,7:36,COL,0,2025
-2025020124,NJD,H,2025-10-24,0,0,{'default': 'Devils'},{'default': 'Sharks'},0,0,0,0,0,0,0,10,0,0,6:33,SJS,0,2025
-2025020108,NJD,H,2025-10-22,0,0,{'default': 'Devils'},{'default': 'Wild'},0,-1,0,0,0,0,1,11,0,0,8:24,MIN,0,2025
-2025020098,NJD,R,2025-10-21,0,0,{'default': 'Devils'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,12,0,0,8:52,TOR,5,2025
-2025020078,NJD,H,2025-10-18,0,0,{'default': 'Devils'},{'default': 'Oilers'},0,-1,0,0,0,0,1,11,0,0,9:12,EDM,0,2025
-2025020064,NJD,H,2025-10-16,0,0,{'default': 'Devils'},{'default': 'Panthers'},0,0,0,0,0,0,0,8,0,0,6:22,FLA,0,2025
-2025020045,NJD,R,2025-10-13,0,0,{'default': 'Devils'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,11,0,0,6:54,CBJ,0,2025
-2024020795,NJD,R,2025-01-27,0,0,{'default': 'Devils'},{'default': 'Flyers'},0,0,0,0,0,0,2,19,0,0,16:13,PHI,0,2024
-2024020722,NJD,H,2025-01-18,0,0,{'default': 'Devils'},{'default': 'Flyers'},0,-1,0,0,0,0,0,13,0,0,11:35,PHI,0,2024
-2023021233,NJD,H,2024-04-07,0,0,{'default': 'Devils'},{'default': 'Predators'},0,0,0,0,0,0,1,12,0,0,6:47,NSH,0,2023
-2023020916,NJD,H,2024-02-25,0,0,{'default': 'Devils'},{'default': 'Lightning'},0,0,0,0,0,0,1,16,0,0,9:47,TBL,0,2023
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+2025020197,NJD,R,2025-11-02,0,0,{'default': 'Devils'},{'default': 'Ducks'},0,0,0,0,0,0,0,11,0,0,ANA,0,7:32,2025
+2025020191,NJD,R,2025-11-01,1,0,{'default': 'Devils'},{'default': 'Kings'},1,1,0,0,1,0,1,10,0,0,LAK,0,6:06,2025
+2025020140,NJD,H,2025-10-26,0,0,{'default': 'Devils'},{'default': 'Avalanche'},0,0,0,0,0,0,1,12,0,0,COL,0,7:36,2025
+2025020124,NJD,H,2025-10-24,0,0,{'default': 'Devils'},{'default': 'Sharks'},0,0,0,0,0,0,0,10,0,0,SJS,0,6:33,2025
+2025020108,NJD,H,2025-10-22,0,0,{'default': 'Devils'},{'default': 'Wild'},0,-1,0,0,0,0,1,11,0,0,MIN,0,8:24,2025
+2025020098,NJD,R,2025-10-21,0,0,{'default': 'Devils'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,12,0,0,TOR,5,8:52,2025
+2025020078,NJD,H,2025-10-18,0,0,{'default': 'Devils'},{'default': 'Oilers'},0,-1,0,0,0,0,1,11,0,0,EDM,0,9:12,2025
+2025020064,NJD,H,2025-10-16,0,0,{'default': 'Devils'},{'default': 'Panthers'},0,0,0,0,0,0,0,8,0,0,FLA,0,6:22,2025
+2025020045,NJD,R,2025-10-13,0,0,{'default': 'Devils'},{'default': 'Blue Jackets'},0,0,0,0,0,0,0,11,0,0,CBJ,0,6:54,2025
+2024020795,NJD,R,2025-01-27,0,0,{'default': 'Devils'},{'default': 'Flyers'},0,0,0,0,0,0,2,19,0,0,PHI,0,16:13,2024
+2024020722,NJD,H,2025-01-18,0,0,{'default': 'Devils'},{'default': 'Flyers'},0,-1,0,0,0,0,0,13,0,0,PHI,0,11:35,2024
+2023021233,NJD,H,2024-04-07,0,0,{'default': 'Devils'},{'default': 'Predators'},0,0,0,0,0,0,1,12,0,0,NSH,0,6:47,2023
+2023020916,NJD,H,2024-02-25,0,0,{'default': 'Devils'},{'default': 'Lightning'},0,0,0,0,0,0,1,16,0,0,TBL,0,9:47,2023
