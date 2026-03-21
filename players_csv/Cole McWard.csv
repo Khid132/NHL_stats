@@ -1,10 +1,10 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020689,NYI,R,2026-01-08,0,0,{'default': 'Islanders'},{'default': 'Predators'},0,1,0,0,0,0,1,14,0,0,NSH,0,11:10,2025
-2025020669,NYI,H,2026-01-06,0,0,{'default': 'Islanders'},{'default': 'Devils'},0,2,0,0,0,0,0,17,0,0,NJD,0,15:12,2025
-2025020651,NYI,H,2026-01-03,0,0,{'default': 'Islanders'},{'default': 'Maple Leafs'},0,-2,0,0,0,0,0,16,0,0,TOR,0,14:50,2025
-2023020336,VAN,H,2023-11-28,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,1,12,0,0,ANA,0,9:05,2023
-2022021311,VAN,R,2023-04-13,0,0,{'default': 'Canucks'},{'default': 'Coyotes'},0,0,0,0,0,0,0,19,0,0,ARI,0,14:32,2022
-2022021294,VAN,R,2023-04-11,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,3,19,0,0,ANA,0,13:28,2022
-2022021284,VAN,R,2023-04-10,0,0,{'default': 'Canucks'},{'default': 'Kings'},0,-1,0,0,0,0,2,19,0,0,LAK,0,17:04,2022
-2022021270,VAN,H,2023-04-08,1,0,{'default': 'Canucks'},{'default': 'Flames'},1,1,0,0,0,0,1,16,0,0,CGY,0,11:25,2022
-2022021254,VAN,H,2023-04-06,0,0,{'default': 'Canucks'},{'default': 'Blackhawks'},0,0,0,0,0,0,0,22,0,0,CHI,0,14:35,2022
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020689,NYI,R,2026-01-08,0,0,{'default': 'Islanders'},{'default': 'Predators'},0,1,0,0,0,0,1,14,0,0,11:10,NSH,0,2025
+2025020669,NYI,H,2026-01-06,0,0,{'default': 'Islanders'},{'default': 'Devils'},0,2,0,0,0,0,0,17,0,0,15:12,NJD,0,2025
+2025020651,NYI,H,2026-01-03,0,0,{'default': 'Islanders'},{'default': 'Maple Leafs'},0,-2,0,0,0,0,0,16,0,0,14:50,TOR,0,2025
+2023020336,VAN,H,2023-11-28,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,1,12,0,0,9:05,ANA,0,2023
+2022021311,VAN,R,2023-04-13,0,0,{'default': 'Canucks'},{'default': 'Coyotes'},0,0,0,0,0,0,0,19,0,0,14:32,ARI,0,2022
+2022021294,VAN,R,2023-04-11,0,0,{'default': 'Canucks'},{'default': 'Ducks'},0,0,0,0,0,0,3,19,0,0,13:28,ANA,0,2022
+2022021284,VAN,R,2023-04-10,0,0,{'default': 'Canucks'},{'default': 'Kings'},0,-1,0,0,0,0,2,19,0,0,17:04,LAK,0,2022
+2022021270,VAN,H,2023-04-08,1,0,{'default': 'Canucks'},{'default': 'Flames'},1,1,0,0,0,0,1,16,0,0,11:25,CGY,0,2022
+2022021254,VAN,H,2023-04-06,0,0,{'default': 'Canucks'},{'default': 'Blackhawks'},0,0,0,0,0,0,0,22,0,0,14:35,CHI,0,2022
