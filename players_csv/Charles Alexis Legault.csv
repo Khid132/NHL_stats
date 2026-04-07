@@ -1,9 +1,9 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020246,CAR,R,2025-11-09,0,0,{'default': 'Hurricanes'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,10,0,0,TOR,2,7:15,2025
-2025020238,CAR,H,2025-11-08,1,1,{'default': 'Hurricanes'},{'default': 'Sabres'},2,2,0,0,0,0,2,31,0,0,BUF,2,18:21,2025
-2025020206,CAR,R,2025-11-04,0,0,{'default': 'Hurricanes'},{'default': 'Rangers'},0,0,0,0,0,0,1,19,0,0,NYR,2,14:55,2025
-2025020181,CAR,R,2025-11-01,0,0,{'default': 'Hurricanes'},{'default': 'Bruins'},0,0,0,0,0,0,1,20,0,0,BOS,0,14:19,2025
-2025020171,CAR,H,2025-10-30,0,0,{'default': 'Hurricanes'},{'default': 'Islanders'},0,1,0,0,0,0,2,21,0,0,NYI,0,15:40,2025
-2025020138,CAR,R,2025-10-25,0,0,{'default': 'Hurricanes'},{'default': 'Stars'},0,0,0,0,0,0,2,16,0,0,DAL,0,9:58,2025
-2025020121,CAR,R,2025-10-23,0,0,{'default': 'Hurricanes'},{'default': 'Avalanche'},0,1,0,0,0,0,2,21,0,0,COL,4,13:11,2025
-2025020097,CAR,R,2025-10-20,0,0,{'default': 'Hurricanes'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,20,0,0,VGK,0,12:30,2025
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020246,CAR,R,2025-11-09,0,0,{'default': 'Hurricanes'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,10,0,0,7:15,TOR,2,2025
+2025020238,CAR,H,2025-11-08,1,1,{'default': 'Hurricanes'},{'default': 'Sabres'},2,2,0,0,0,0,2,31,0,0,18:21,BUF,2,2025
+2025020206,CAR,R,2025-11-04,0,0,{'default': 'Hurricanes'},{'default': 'Rangers'},0,0,0,0,0,0,1,19,0,0,14:55,NYR,2,2025
+2025020181,CAR,R,2025-11-01,0,0,{'default': 'Hurricanes'},{'default': 'Bruins'},0,0,0,0,0,0,1,20,0,0,14:19,BOS,0,2025
+2025020171,CAR,H,2025-10-30,0,0,{'default': 'Hurricanes'},{'default': 'Islanders'},0,1,0,0,0,0,2,21,0,0,15:40,NYI,0,2025
+2025020138,CAR,R,2025-10-25,0,0,{'default': 'Hurricanes'},{'default': 'Stars'},0,0,0,0,0,0,2,16,0,0,9:58,DAL,0,2025
+2025020121,CAR,R,2025-10-23,0,0,{'default': 'Hurricanes'},{'default': 'Avalanche'},0,1,0,0,0,0,2,21,0,0,13:11,COL,4,2025
+2025020097,CAR,R,2025-10-20,0,0,{'default': 'Hurricanes'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,20,0,0,12:30,VGK,0,2025
