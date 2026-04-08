@@ -1,23 +1,23 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
-2025020412,BOS,R,2025-12-02,0,0,{'default': 'Bruins'},{'default': 'Red Wings'},0,0,0,0,0,0,1,5,0,0,2:51,DET,0,2025
-2025020394,BOS,H,2025-11-29,0,0,{'default': 'Bruins'},{'default': 'Red Wings'},0,1,0,0,0,0,0,18,0,0,12:45,DET,0,2025
-2025020149,BOS,R,2025-10-27,0,0,{'default': 'Bruins'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,0,25,0,0,18:26,OTT,0,2025
-2025020128,BOS,H,2025-10-25,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,1,0,0,0,0,0,20,0,0,14:01,COL,0,2025
-2025020111,BOS,H,2025-10-23,0,0,{'default': 'Bruins'},{'default': 'Ducks'},0,-2,0,0,0,0,2,25,0,0,16:54,ANA,0,2025
-2024021250,BOS,H,2025-04-10,0,0,{'default': 'Bruins'},{'default': 'Blackhawks'},0,1,0,0,0,0,1,24,0,0,15:19,CHI,0,2024
-2024021238,BOS,R,2025-04-08,1,0,{'default': 'Bruins'},{'default': 'Devils'},1,1,0,0,0,0,1,19,0,0,18:11,NJD,0,2024
-2024021226,BOS,R,2025-04-06,0,0,{'default': 'Bruins'},{'default': 'Sabres'},0,-3,0,0,0,0,1,22,0,0,17:30,BUF,0,2024
-2024021142,BOS,R,2025-03-26,0,0,{'default': 'Bruins'},{'default': 'Ducks'},0,-1,0,0,0,0,1,18,0,0,14:14,ANA,7,2024
-2024021124,BOS,R,2025-03-23,0,0,{'default': 'Bruins'},{'default': 'Kings'},0,0,0,0,0,0,0,25,0,0,17:37,LAK,0,2024
-2024021117,BOS,R,2025-03-22,0,0,{'default': 'Bruins'},{'default': 'Sharks'},0,-1,0,0,0,0,1,20,0,0,13:12,SJS,0,2024
-2024020933,BOS,H,2025-02-27,0,0,{'default': 'Bruins'},{'default': 'Islanders'},0,1,0,0,0,0,0,19,0,0,13:51,NYI,0,2024
-2024020918,BOS,H,2025-02-25,0,0,{'default': 'Bruins'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,17,0,0,12:01,TOR,0,2024
-2024020899,BOS,H,2025-02-22,0,0,{'default': 'Bruins'},{'default': 'Ducks'},0,-1,0,0,0,0,1,20,0,0,10:43,ANA,0,2024
-2024020879,BOS,H,2025-02-08,0,0,{'default': 'Bruins'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,14,0,0,9:29,VGK,0,2024
-2024020859,BOS,R,2025-02-05,0,0,{'default': 'Bruins'},{'default': 'Rangers'},0,-1,0,0,0,0,1,19,0,0,13:51,NYR,0,2024
-2024020845,BOS,H,2025-02-04,0,0,{'default': 'Bruins'},{'default': 'Wild'},0,0,0,0,0,0,0,21,0,0,15:40,MIN,0,2024
-2024020827,BOS,H,2025-02-01,0,0,{'default': 'Bruins'},{'default': 'Rangers'},0,-1,0,0,0,0,0,11,0,0,5:49,NYR,0,2024
-2024020799,BOS,R,2025-01-28,0,0,{'default': 'Bruins'},{'default': 'Sabres'},0,-1,0,0,0,0,1,25,0,0,15:29,BUF,0,2024
-2024020776,BOS,H,2025-01-25,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,0,0,0,0,0,0,23,0,0,16:52,COL,0,2024
-2024020761,BOS,H,2025-01-23,0,0,{'default': 'Bruins'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,22,0,0,16:27,OTT,0,2024
-2024020692,BOS,H,2025-01-14,0,0,{'default': 'Bruins'},{'default': 'Lightning'},0,1,0,0,0,0,1,22,0,0,14:11,TBL,0,2024
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+2025020412,BOS,R,2025-12-02,0,0,{'default': 'Bruins'},{'default': 'Red Wings'},0,0,0,0,0,0,1,5,0,0,DET,0,2:51,2025
+2025020394,BOS,H,2025-11-29,0,0,{'default': 'Bruins'},{'default': 'Red Wings'},0,1,0,0,0,0,0,18,0,0,DET,0,12:45,2025
+2025020149,BOS,R,2025-10-27,0,0,{'default': 'Bruins'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,-1,0,0,0,0,0,25,0,0,OTT,0,18:26,2025
+2025020128,BOS,H,2025-10-25,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,1,0,0,0,0,0,20,0,0,COL,0,14:01,2025
+2025020111,BOS,H,2025-10-23,0,0,{'default': 'Bruins'},{'default': 'Ducks'},0,-2,0,0,0,0,2,25,0,0,ANA,0,16:54,2025
+2024021250,BOS,H,2025-04-10,0,0,{'default': 'Bruins'},{'default': 'Blackhawks'},0,1,0,0,0,0,1,24,0,0,CHI,0,15:19,2024
+2024021238,BOS,R,2025-04-08,1,0,{'default': 'Bruins'},{'default': 'Devils'},1,1,0,0,0,0,1,19,0,0,NJD,0,18:11,2024
+2024021226,BOS,R,2025-04-06,0,0,{'default': 'Bruins'},{'default': 'Sabres'},0,-3,0,0,0,0,1,22,0,0,BUF,0,17:30,2024
+2024021142,BOS,R,2025-03-26,0,0,{'default': 'Bruins'},{'default': 'Ducks'},0,-1,0,0,0,0,1,18,0,0,ANA,7,14:14,2024
+2024021124,BOS,R,2025-03-23,0,0,{'default': 'Bruins'},{'default': 'Kings'},0,0,0,0,0,0,0,25,0,0,LAK,0,17:37,2024
+2024021117,BOS,R,2025-03-22,0,0,{'default': 'Bruins'},{'default': 'Sharks'},0,-1,0,0,0,0,1,20,0,0,SJS,0,13:12,2024
+2024020933,BOS,H,2025-02-27,0,0,{'default': 'Bruins'},{'default': 'Islanders'},0,1,0,0,0,0,0,19,0,0,NYI,0,13:51,2024
+2024020918,BOS,H,2025-02-25,0,0,{'default': 'Bruins'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,17,0,0,TOR,0,12:01,2024
+2024020899,BOS,H,2025-02-22,0,0,{'default': 'Bruins'},{'default': 'Ducks'},0,-1,0,0,0,0,1,20,0,0,ANA,0,10:43,2024
+2024020879,BOS,H,2025-02-08,0,0,{'default': 'Bruins'},{'default': 'Golden Knights'},0,0,0,0,0,0,0,14,0,0,VGK,0,9:29,2024
+2024020859,BOS,R,2025-02-05,0,0,{'default': 'Bruins'},{'default': 'Rangers'},0,-1,0,0,0,0,1,19,0,0,NYR,0,13:51,2024
+2024020845,BOS,H,2025-02-04,0,0,{'default': 'Bruins'},{'default': 'Wild'},0,0,0,0,0,0,0,21,0,0,MIN,0,15:40,2024
+2024020827,BOS,H,2025-02-01,0,0,{'default': 'Bruins'},{'default': 'Rangers'},0,-1,0,0,0,0,0,11,0,0,NYR,0,5:49,2024
+2024020799,BOS,R,2025-01-28,0,0,{'default': 'Bruins'},{'default': 'Sabres'},0,-1,0,0,0,0,1,25,0,0,BUF,0,15:29,2024
+2024020776,BOS,H,2025-01-25,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,0,0,0,0,0,0,23,0,0,COL,0,16:52,2024
+2024020761,BOS,H,2025-01-23,0,0,{'default': 'Bruins'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,22,0,0,OTT,0,16:27,2024
+2024020692,BOS,H,2025-01-14,0,0,{'default': 'Bruins'},{'default': 'Lightning'},0,1,0,0,0,0,1,22,0,0,TBL,0,14:11,2024
