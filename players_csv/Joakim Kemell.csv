@@ -1,15 +1,16 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025021243,NSH,R,2026-04-07,0,2,{'default': 'Predators'},{'default': 'Ducks'},2,4,0,0,0,0,0,16,0,0,ANA,0,12:24,2025
-2025021232,NSH,R,2026-04-06,0,0,{'default': 'Predators'},{'default': 'Kings'},0,-1,0,0,0,0,1,13,0,0,LAK,0,10:11,2025
-2025021220,NSH,R,2026-04-04,0,0,{'default': 'Predators'},{'default': 'Sharks'},0,0,0,0,0,0,2,8,0,0,SJS,0,7:26,2025
-2025021204,NSH,R,2026-04-02,0,0,{'default': 'Predators'},{'default': 'Kings'},0,0,0,0,0,0,1,11,0,0,LAK,0,8:12,2025
-2025021168,NSH,R,2026-03-29,1,0,{'default': 'Predators'},{'default': 'Lightning'},1,2,0,0,0,0,2,11,0,0,TBL,0,8:16,2025
-2025021129,NSH,H,2026-03-24,0,0,{'default': 'Predators'},{'default': 'Sharks'},0,-1,0,0,0,0,2,18,0,0,SJS,0,13:19,2025
-2025021113,NSH,R,2026-03-22,0,0,{'default': 'Predators'},{'default': 'Blackhawks'},0,-2,0,0,0,0,0,11,0,0,CHI,0,7:59,2025
-2025021024,NSH,R,2026-03-10,0,0,{'default': 'Predators'},{'default': 'Kraken'},0,1,0,0,0,0,0,10,0,0,SEA,0,7:11,2025
-2025020992,NSH,R,2026-03-07,0,0,{'default': 'Predators'},{'default': 'Sabres'},0,0,0,0,0,0,0,18,0,0,BUF,0,15:00,2025
-2025020979,NSH,H,2026-03-05,0,0,{'default': 'Predators'},{'default': 'Bruins'},0,0,0,0,0,0,1,16,0,0,BOS,0,12:24,2025
-2025020041,NSH,R,2025-10-13,0,0,{'default': 'Predators'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,14,0,0,OTT,0,9:46,2025
-2025020016,NSH,H,2025-10-09,0,0,{'default': 'Predators'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,14,0,0,CBJ,0,12:22,2025
-2024020885,NSH,H,2025-02-08,0,0,{'default': 'Predators'},{'default': 'Sabres'},0,1,0,0,0,0,1,10,0,0,BUF,0,8:57,2024
-2024020873,NSH,R,2025-02-07,0,0,{'default': 'Predators'},{'default': 'Blackhawks'},0,-1,0,0,0,0,7,15,0,0,CHI,0,11:44,2024
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,pim,opponentAbbrev,toi,season
+2025021257,NSH,R,2026-04-09,0,0,{'default': 'Predators'},{'default': 'Mammoth'},0,0,0,0,0,0,1,17,0,0,0,UTA,13:23,2025
+2025021243,NSH,R,2026-04-07,0,2,{'default': 'Predators'},{'default': 'Ducks'},2,4,0,0,0,0,0,16,0,0,0,ANA,12:24,2025
+2025021232,NSH,R,2026-04-06,0,0,{'default': 'Predators'},{'default': 'Kings'},0,-1,0,0,0,0,1,13,0,0,0,LAK,10:11,2025
+2025021220,NSH,R,2026-04-04,0,0,{'default': 'Predators'},{'default': 'Sharks'},0,0,0,0,0,0,2,8,0,0,0,SJS,7:26,2025
+2025021204,NSH,R,2026-04-02,0,0,{'default': 'Predators'},{'default': 'Kings'},0,0,0,0,0,0,1,11,0,0,0,LAK,8:12,2025
+2025021168,NSH,R,2026-03-29,1,0,{'default': 'Predators'},{'default': 'Lightning'},1,2,0,0,0,0,2,11,0,0,0,TBL,8:16,2025
+2025021129,NSH,H,2026-03-24,0,0,{'default': 'Predators'},{'default': 'Sharks'},0,-1,0,0,0,0,2,18,0,0,0,SJS,13:19,2025
+2025021113,NSH,R,2026-03-22,0,0,{'default': 'Predators'},{'default': 'Blackhawks'},0,-2,0,0,0,0,0,11,0,0,0,CHI,7:59,2025
+2025021024,NSH,R,2026-03-10,0,0,{'default': 'Predators'},{'default': 'Kraken'},0,1,0,0,0,0,0,10,0,0,0,SEA,7:11,2025
+2025020992,NSH,R,2026-03-07,0,0,{'default': 'Predators'},{'default': 'Sabres'},0,0,0,0,0,0,0,18,0,0,0,BUF,15:00,2025
+2025020979,NSH,H,2026-03-05,0,0,{'default': 'Predators'},{'default': 'Bruins'},0,0,0,0,0,0,1,16,0,0,0,BOS,12:24,2025
+2025020041,NSH,R,2025-10-13,0,0,{'default': 'Predators'},"{'default': 'Senators', 'fr': 'Sénateurs'}",0,0,0,0,0,0,0,14,0,0,0,OTT,9:46,2025
+2025020016,NSH,H,2025-10-09,0,0,{'default': 'Predators'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,14,0,0,0,CBJ,12:22,2025
+2024020885,NSH,H,2025-02-08,0,0,{'default': 'Predators'},{'default': 'Sabres'},0,1,0,0,0,0,1,10,0,0,0,BUF,8:57,2024
+2024020873,NSH,R,2025-02-07,0,0,{'default': 'Predators'},{'default': 'Blackhawks'},0,-1,0,0,0,0,7,15,0,0,0,CHI,11:44,2024
