@@ -1,6 +1,6 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,pim,opponentAbbrev,season
-2025020203,BUF,H,2025-11-04,0,0,{'default': 'Sabres'},{'default': 'Mammoth'},0,0,0,0,0,0,1,7,0,0,3:49,0,UTA,2025
-2025020095,BUF,R,2025-10-20,0,0,{'default': 'Sabres'},{'default': 'Canadiens'},0,0,0,0,0,0,0,7,0,0,5:27,0,MTL,2025
-2025020076,BUF,H,2025-10-18,0,0,{'default': 'Sabres'},{'default': 'Panthers'},0,0,0,0,0,0,0,5,0,0,2:06,10,FLA,2025
-2025020024,BUF,R,2025-10-11,0,0,{'default': 'Sabres'},{'default': 'Bruins'},0,0,0,0,0,0,0,8,0,0,4:48,0,BOS,2025
-2025020009,BUF,H,2025-10-09,0,0,{'default': 'Sabres'},{'default': 'Rangers'},0,-1,0,0,0,0,0,7,0,0,4:26,2,NYR,2025
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+2025020203,BUF,H,2025-11-04,0,0,{'default': 'Sabres'},{'default': 'Mammoth'},0,0,0,0,0,0,1,7,0,0,UTA,0,3:49,2025
+2025020095,BUF,R,2025-10-20,0,0,{'default': 'Sabres'},{'default': 'Canadiens'},0,0,0,0,0,0,0,7,0,0,MTL,0,5:27,2025
+2025020076,BUF,H,2025-10-18,0,0,{'default': 'Sabres'},{'default': 'Panthers'},0,0,0,0,0,0,0,5,0,0,FLA,10,2:06,2025
+2025020024,BUF,R,2025-10-11,0,0,{'default': 'Sabres'},{'default': 'Bruins'},0,0,0,0,0,0,0,8,0,0,BOS,0,4:48,2025
+2025020009,BUF,H,2025-10-09,0,0,{'default': 'Sabres'},{'default': 'Rangers'},0,-1,0,0,0,0,0,7,0,0,NYR,2,4:26,2025
