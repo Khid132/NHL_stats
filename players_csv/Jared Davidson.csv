@@ -1,11 +1,11 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,toi,pim,season
-2025020484,MTL,R,2025-12-11,0,0,{'default': 'Canadiens'},{'default': 'Penguins'},0,0,0,0,0,0,1,9,0,0,PIT,5:44,2,2025
-2025020466,MTL,H,2025-12-09,0,0,{'default': 'Canadiens'},{'default': 'Lightning'},0,-2,0,0,0,0,1,15,0,0,TBL,12:15,2,2025
-2025020457,MTL,H,2025-12-07,0,1,{'default': 'Canadiens'},{'default': 'Blues'},1,0,0,0,0,0,0,12,0,0,STL,10:55,0,2025
-2025020444,MTL,R,2025-12-06,0,0,{'default': 'Canadiens'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,12,0,0,TOR,8:31,0,2025
-2025020422,MTL,H,2025-12-03,0,0,{'default': 'Canadiens'},{'default': 'Jets'},0,0,0,0,0,0,1,10,0,0,WPG,8:18,0,2025
-2025020372,MTL,R,2025-11-26,0,0,{'default': 'Canadiens'},{'default': 'Mammoth'},0,-1,0,0,0,0,0,9,0,0,UTA,5:23,4,2025
-2025020337,MTL,H,2025-11-22,0,0,{'default': 'Canadiens'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,12,0,0,TOR,9:52,0,2025
-2025020320,MTL,H,2025-11-20,0,0,{'default': 'Canadiens'},{'default': 'Capitals'},0,-1,0,0,0,0,1,13,0,0,WSH,9:33,0,2025
-2025020305,MTL,R,2025-11-17,0,0,{'default': 'Canadiens'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,16,0,0,CBJ,9:25,2,2025
-2025020285,MTL,H,2025-11-15,0,0,{'default': 'Canadiens'},{'default': 'Bruins'},0,0,0,0,0,0,4,10,0,0,BOS,7:14,0,2025
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
+2025020484,MTL,R,2025-12-11,0,0,{'default': 'Canadiens'},{'default': 'Penguins'},0,0,0,0,0,0,1,9,0,0,PIT,2,5:44,2025
+2025020466,MTL,H,2025-12-09,0,0,{'default': 'Canadiens'},{'default': 'Lightning'},0,-2,0,0,0,0,1,15,0,0,TBL,2,12:15,2025
+2025020457,MTL,H,2025-12-07,0,1,{'default': 'Canadiens'},{'default': 'Blues'},1,0,0,0,0,0,0,12,0,0,STL,0,10:55,2025
+2025020444,MTL,R,2025-12-06,0,0,{'default': 'Canadiens'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,12,0,0,TOR,0,8:31,2025
+2025020422,MTL,H,2025-12-03,0,0,{'default': 'Canadiens'},{'default': 'Jets'},0,0,0,0,0,0,1,10,0,0,WPG,0,8:18,2025
+2025020372,MTL,R,2025-11-26,0,0,{'default': 'Canadiens'},{'default': 'Mammoth'},0,-1,0,0,0,0,0,9,0,0,UTA,4,5:23,2025
+2025020337,MTL,H,2025-11-22,0,0,{'default': 'Canadiens'},{'default': 'Maple Leafs'},0,0,0,0,0,0,0,12,0,0,TOR,0,9:52,2025
+2025020320,MTL,H,2025-11-20,0,0,{'default': 'Canadiens'},{'default': 'Capitals'},0,-1,0,0,0,0,1,13,0,0,WSH,0,9:33,2025
+2025020305,MTL,R,2025-11-17,0,0,{'default': 'Canadiens'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,16,0,0,CBJ,2,9:25,2025
+2025020285,MTL,H,2025-11-15,0,0,{'default': 'Canadiens'},{'default': 'Bruins'},0,0,0,0,0,0,4,10,0,0,BOS,0,7:14,2025
