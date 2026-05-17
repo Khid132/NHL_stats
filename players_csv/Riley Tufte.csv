@@ -1,19 +1,19 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,pim,toi,season
-2025020376,BOS,H,2025-11-28,0,0,{'default': 'Bruins'},{'default': 'Rangers'},0,-1,0,0,0,0,0,17,0,0,NYR,0,11:28,2025
-2025020351,BOS,R,2025-11-23,0,0,{'default': 'Bruins'},{'default': 'Sharks'},0,0,0,0,0,0,0,10,0,0,SJS,0,8:01,2025
-2025020334,BOS,R,2025-11-21,0,0,{'default': 'Bruins'},{'default': 'Kings'},0,0,0,0,0,0,1,13,0,0,LAK,0,11:59,2025
-2025020301,BOS,H,2025-11-17,1,0,{'default': 'Bruins'},{'default': 'Hurricanes'},1,0,1,1,0,0,3,16,0,0,CAR,0,15:13,2025
-2024020992,BOS,R,2025-03-06,0,0,{'default': 'Bruins'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,21,0,0,CAR,0,14:46,2024
-2024020933,BOS,H,2025-02-27,0,0,{'default': 'Bruins'},{'default': 'Islanders'},0,0,0,0,0,0,0,13,0,0,NYI,0,8:08,2024
-2024020899,BOS,H,2025-02-22,0,0,{'default': 'Bruins'},{'default': 'Ducks'},0,0,0,0,0,0,0,12,0,0,ANA,0,8:15,2024
-2024020272,BOS,H,2024-11-16,0,0,{'default': 'Bruins'},{'default': 'Blues'},0,-2,0,0,0,0,0,13,0,0,STL,0,7:46,2024
-2024020059,BOS,R,2024-10-16,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,0,0,0,0,0,0,9,0,0,COL,4,6:54,2024
-2024020011,BOS,H,2024-10-10,0,0,{'default': 'Bruins'},{'default': 'Canadiens'},0,-1,0,0,0,0,0,14,0,0,MTL,0,9:21,2024
-2023020306,COL,R,2023-11-24,0,1,{'default': 'Avalanche'},{'default': 'Wild'},1,0,0,0,0,0,0,14,0,0,MIN,0,10:46,2023
-2023020291,COL,H,2023-11-22,1,0,{'default': 'Avalanche'},{'default': 'Canucks'},1,1,0,0,1,0,2,16,0,0,VAN,0,9:03,2023
-2023020219,COL,H,2023-11-11,0,0,{'default': 'Avalanche'},{'default': 'Blues'},0,-1,0,0,0,0,0,13,0,0,STL,2,10:09,2023
-2023020201,COL,H,2023-11-09,0,0,{'default': 'Avalanche'},{'default': 'Kraken'},0,-1,0,0,0,0,1,18,0,0,SEA,0,14:10,2023
-2023020143,COL,H,2023-11-01,0,0,{'default': 'Avalanche'},{'default': 'Blues'},0,-1,0,0,0,0,4,12,0,0,STL,0,11:28,2023
-2022020541,DAL,H,2022-12-23,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,-1,0,0,0,0,0,8,0,0,MTL,0,4:59,2022
-2022020522,DAL,H,2022-12-21,0,0,{'default': 'Stars'},{'default': 'Oilers'},0,0,0,0,0,0,0,11,0,0,EDM,0,6:49,2022
-2022020502,DAL,R,2022-12-19,0,0,{'default': 'Stars'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,14,0,0,CBJ,0,12:04,2022
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,toi,opponentAbbrev,pim,season
+2025020376,BOS,H,2025-11-28,0,0,{'default': 'Bruins'},{'default': 'Rangers'},0,-1,0,0,0,0,0,17,0,0,11:28,NYR,0,2025
+2025020351,BOS,R,2025-11-23,0,0,{'default': 'Bruins'},{'default': 'Sharks'},0,0,0,0,0,0,0,10,0,0,8:01,SJS,0,2025
+2025020334,BOS,R,2025-11-21,0,0,{'default': 'Bruins'},{'default': 'Kings'},0,0,0,0,0,0,1,13,0,0,11:59,LAK,0,2025
+2025020301,BOS,H,2025-11-17,1,0,{'default': 'Bruins'},{'default': 'Hurricanes'},1,0,1,1,0,0,3,16,0,0,15:13,CAR,0,2025
+2024020992,BOS,R,2025-03-06,0,0,{'default': 'Bruins'},{'default': 'Hurricanes'},0,0,0,0,0,0,1,21,0,0,14:46,CAR,0,2024
+2024020933,BOS,H,2025-02-27,0,0,{'default': 'Bruins'},{'default': 'Islanders'},0,0,0,0,0,0,0,13,0,0,8:08,NYI,0,2024
+2024020899,BOS,H,2025-02-22,0,0,{'default': 'Bruins'},{'default': 'Ducks'},0,0,0,0,0,0,0,12,0,0,8:15,ANA,0,2024
+2024020272,BOS,H,2024-11-16,0,0,{'default': 'Bruins'},{'default': 'Blues'},0,-2,0,0,0,0,0,13,0,0,7:46,STL,0,2024
+2024020059,BOS,R,2024-10-16,0,0,{'default': 'Bruins'},{'default': 'Avalanche'},0,0,0,0,0,0,0,9,0,0,6:54,COL,4,2024
+2024020011,BOS,H,2024-10-10,0,0,{'default': 'Bruins'},{'default': 'Canadiens'},0,-1,0,0,0,0,0,14,0,0,9:21,MTL,0,2024
+2023020306,COL,R,2023-11-24,0,1,{'default': 'Avalanche'},{'default': 'Wild'},1,0,0,0,0,0,0,14,0,0,10:46,MIN,0,2023
+2023020291,COL,H,2023-11-22,1,0,{'default': 'Avalanche'},{'default': 'Canucks'},1,1,0,0,1,0,2,16,0,0,9:03,VAN,0,2023
+2023020219,COL,H,2023-11-11,0,0,{'default': 'Avalanche'},{'default': 'Blues'},0,-1,0,0,0,0,0,13,0,0,10:09,STL,2,2023
+2023020201,COL,H,2023-11-09,0,0,{'default': 'Avalanche'},{'default': 'Kraken'},0,-1,0,0,0,0,1,18,0,0,14:10,SEA,0,2023
+2023020143,COL,H,2023-11-01,0,0,{'default': 'Avalanche'},{'default': 'Blues'},0,-1,0,0,0,0,4,12,0,0,11:28,STL,0,2023
+2022020541,DAL,H,2022-12-23,0,0,{'default': 'Stars'},{'default': 'Canadiens'},0,-1,0,0,0,0,0,8,0,0,4:59,MTL,0,2022
+2022020522,DAL,H,2022-12-21,0,0,{'default': 'Stars'},{'default': 'Oilers'},0,0,0,0,0,0,0,11,0,0,6:49,EDM,0,2022
+2022020502,DAL,R,2022-12-19,0,0,{'default': 'Stars'},{'default': 'Blue Jackets'},0,0,0,0,0,0,1,14,0,0,12:04,CBJ,0,2022
