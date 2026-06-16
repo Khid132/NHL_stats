@@ -1,17 +1,17 @@
-gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,opponentAbbrev,toi,pim,season
-2025021308,WPG,H,2026-04-16,0,0,{'default': 'Jets'},{'default': 'Sharks'},0,1,0,0,0,0,0,16,0,0,SJS,10:37,0,2025
-2025021297,WPG,R,2026-04-14,0,0,{'default': 'Jets'},{'default': 'Mammoth'},0,0,0,0,0,0,3,14,0,0,UTA,9:28,0,2025
-2025021290,WPG,R,2026-04-13,0,0,{'default': 'Jets'},{'default': 'Golden Knights'},0,-1,0,0,0,0,1,13,0,0,VGK,7:27,2,2025
-2025020263,WPG,R,2025-11-11,0,0,{'default': 'Jets'},{'default': 'Canucks'},0,0,0,0,0,0,1,10,0,0,VAN,8:34,0,2025
-2025020251,WPG,R,2025-11-09,0,0,{'default': 'Jets'},{'default': 'Ducks'},0,0,0,0,0,0,2,9,0,0,ANA,6:09,0,2025
-2025020230,WPG,R,2025-11-07,0,0,{'default': 'Jets'},{'default': 'Sharks'},0,1,0,0,0,0,0,14,0,0,SJS,10:22,4,2025
-2025020143,WPG,H,2025-10-26,0,0,{'default': 'Jets'},{'default': 'Mammoth'},0,0,0,0,0,0,0,13,0,0,UTA,10:15,4,2025
-2025020126,WPG,H,2025-10-24,0,0,{'default': 'Jets'},{'default': 'Flames'},0,0,0,0,0,0,1,18,0,0,CGY,8:20,4,2025
-2025020042,WPG,R,2025-10-13,0,0,{'default': 'Jets'},{'default': 'Islanders'},0,0,0,0,0,0,1,13,0,0,NYI,10:21,0,2025
-2025020022,WPG,H,2025-10-11,0,0,{'default': 'Jets'},{'default': 'Kings'},0,-1,0,0,0,0,0,14,0,0,LAK,9:25,0,2025
-2025020017,WPG,H,2025-10-09,0,0,{'default': 'Jets'},{'default': 'Stars'},0,0,0,0,0,0,0,14,0,0,DAL,10:08,0,2025
-2024020506,WPG,R,2024-12-17,0,0,{'default': 'Jets'},{'default': 'Sharks'},0,-1,0,0,0,0,0,10,0,0,SJS,8:50,0,2024
-2024020482,WPG,H,2024-12-14,0,0,{'default': 'Jets'},{'default': 'Canadiens'},0,0,0,0,0,0,2,13,0,0,MTL,11:54,0,2024
-2024020468,WPG,H,2024-12-12,1,0,{'default': 'Jets'},{'default': 'Golden Knights'},1,1,0,0,0,0,2,14,0,0,VGK,11:25,0,2024
-2024020452,WPG,H,2024-12-10,1,1,{'default': 'Jets'},{'default': 'Bruins'},2,1,0,1,0,0,2,18,0,0,BOS,13:28,0,2024
-2023021308,WPG,H,2024-04-18,1,0,{'default': 'Jets'},{'default': 'Canucks'},1,0,0,0,1,0,3,15,0,0,VAN,11:03,0,2023
+gameId,teamAbbrev,homeRoadFlag,gameDate,goals,assists,commonName,opponentCommonName,points,plusMinus,powerPlayGoals,powerPlayPoints,gameWinningGoals,otGoals,shots,shifts,shorthandedGoals,shorthandedPoints,pim,toi,opponentAbbrev,season
+2025021308,WPG,H,2026-04-16,0,0,{'default': 'Jets'},{'default': 'Sharks'},0,1,0,0,0,0,0,16,0,0,0,10:37,SJS,2025
+2025021297,WPG,R,2026-04-14,0,0,{'default': 'Jets'},{'default': 'Mammoth'},0,0,0,0,0,0,3,14,0,0,0,9:28,UTA,2025
+2025021290,WPG,R,2026-04-13,0,0,{'default': 'Jets'},{'default': 'Golden Knights'},0,-1,0,0,0,0,1,13,0,0,2,7:27,VGK,2025
+2025020263,WPG,R,2025-11-11,0,0,{'default': 'Jets'},{'default': 'Canucks'},0,0,0,0,0,0,1,10,0,0,0,8:34,VAN,2025
+2025020251,WPG,R,2025-11-09,0,0,{'default': 'Jets'},{'default': 'Ducks'},0,0,0,0,0,0,2,9,0,0,0,6:09,ANA,2025
+2025020230,WPG,R,2025-11-07,0,0,{'default': 'Jets'},{'default': 'Sharks'},0,1,0,0,0,0,0,14,0,0,4,10:22,SJS,2025
+2025020143,WPG,H,2025-10-26,0,0,{'default': 'Jets'},{'default': 'Mammoth'},0,0,0,0,0,0,0,13,0,0,4,10:15,UTA,2025
+2025020126,WPG,H,2025-10-24,0,0,{'default': 'Jets'},{'default': 'Flames'},0,0,0,0,0,0,1,18,0,0,4,8:20,CGY,2025
+2025020042,WPG,R,2025-10-13,0,0,{'default': 'Jets'},{'default': 'Islanders'},0,0,0,0,0,0,1,13,0,0,0,10:21,NYI,2025
+2025020022,WPG,H,2025-10-11,0,0,{'default': 'Jets'},{'default': 'Kings'},0,-1,0,0,0,0,0,14,0,0,0,9:25,LAK,2025
+2025020017,WPG,H,2025-10-09,0,0,{'default': 'Jets'},{'default': 'Stars'},0,0,0,0,0,0,0,14,0,0,0,10:08,DAL,2025
+2024020506,WPG,R,2024-12-17,0,0,{'default': 'Jets'},{'default': 'Sharks'},0,-1,0,0,0,0,0,10,0,0,0,8:50,SJS,2024
+2024020482,WPG,H,2024-12-14,0,0,{'default': 'Jets'},{'default': 'Canadiens'},0,0,0,0,0,0,2,13,0,0,0,11:54,MTL,2024
+2024020468,WPG,H,2024-12-12,1,0,{'default': 'Jets'},{'default': 'Golden Knights'},1,1,0,0,0,0,2,14,0,0,0,11:25,VGK,2024
+2024020452,WPG,H,2024-12-10,1,1,{'default': 'Jets'},{'default': 'Bruins'},2,1,0,1,0,0,2,18,0,0,0,13:28,BOS,2024
+2023021308,WPG,H,2024-04-18,1,0,{'default': 'Jets'},{'default': 'Canucks'},1,0,0,0,1,0,3,15,0,0,0,11:03,VAN,2023
